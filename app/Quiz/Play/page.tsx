@@ -2,11 +2,15 @@
 import QuestionCard from "@/components/QuestionCard";
 import { useEffect, useState } from "react";
 import { Question } from "@/types/question";
+import { useRouter } from "next/navigation";
 
 export default function Play() {
   const [selectedQuestions, setSelectedQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState<number>(0);
-  const [userAnswers, setUserAnswers] = useState<{ [index: number]: string[] }>({});
+  const [userAnswers, setUserAnswers] = useState<{ [index: number]: string[] }>(
+    {}
+  );
+  const router = useRouter();
   const [score, setScore] = useState<number>(0);
 
   useEffect(() => {
@@ -31,37 +35,44 @@ export default function Play() {
     }
   };
 
-  const handleAnswerSelected = (index: number, selectedAns: string[]) =>{
-    setUserAnswers(prev =>({
+  const handleAnswerSelected = (index: number, selectedAns: string[]) => {
+    setUserAnswers((prev) => ({
       ...prev,
-      [index]:selectedAns,
+      [index]: selectedAns,
     }));
   };
 
-
-
-
-
-
   const handleSubmit = () => {
     let count = 0;
-    selectedQuestions.forEach((quest, i) =>{
+    const id = Date.now().toString();
+    selectedQuestions.forEach((quest, i) => {
       const userAnswer = userAnswers[i] || [];
-      const correctAns = quest.answer || [] ;
+      const correctAns = quest.answer || [];
 
       const isCorrect =
-      userAnswer.length === correctAns.length &&
-      userAnswer.every((answer) => correctAns.includes(answer));
+        userAnswer.length === correctAns.length &&
+        userAnswer.every((answer) => correctAns.includes(answer));
       if (isCorrect) {
         count++;
       }
-    })
+    });
 
     setScore(count);
-    console.log(`Your score: ${count} / ${selectedQuestions.length}`);
+    saveResult(id, score);
+    // console.log(`Your score: ${count} / ${selectedQuestions.length}`);
+
+    router.push(`/Quiz/Play/Result/${id}`);
   };
 
-  console.log("selectedQuestion: ", selectedQuestions);
+  const saveResult = (id: string, score: number) => {
+    const result = { id, score, timestamp: Date.now() };
+    const exist = JSON.parse(localStorage.getItem("quizResults") || "[]");
+    const updated = [...exist, result];
+
+    localStorage.setItem("quizResults", JSON.stringify(updated));
+  };
+
+  // console.log("selectedQuestion: ", selectedQuestions);
   return (
     <main className="p-6 max-w-xl mx-auto">
       <h1 className="text-xl font-bold mb-4">Quiz In Progress</h1>

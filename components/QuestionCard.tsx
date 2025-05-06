@@ -34,10 +34,10 @@ export default function QuestionCard({
         {question.options.map((opt) => (
           <li
             key={opt}
-            className={`p-2 rounded border cursor-pointer transition-colors ${
+            className={`p-2 list-none rounded border cursor-pointer transition-colors ${
               selectedAnswers.includes(opt)
-                ? "bg-blue-200 border-blue-400"
-                : "bg-white"
+                ? "bg-black-200 border-blue-400"
+                : "bg-transparent"
             }`}
             onClick={() => handleCheckboxChange(opt)}
           >

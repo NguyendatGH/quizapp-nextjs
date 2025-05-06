@@ -7,7 +7,7 @@ export default function Home() {
       <h1 className="">Quiz app</h1>
       <div className="flex flex-row justify-center align-middle gap-4">
         <Link href="./Quiz">take a quiz</Link>
-        <Link href="./Quiz">history</Link>
+        <Link href="./Historical">history</Link>
       </div>
     </div>
   );

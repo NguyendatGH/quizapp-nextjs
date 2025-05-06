@@ -11,3 +11,8 @@ export interface UserAnswer{
     isCorrect: boolean;
   };
   
+export interface QuizResult{
+  id: string;
+  score : number;
+  timestamp: number;
+}

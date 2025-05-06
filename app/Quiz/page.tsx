@@ -47,6 +47,7 @@ export default function QuizPage() {
       >
         Go
       </button>
+      <button onClick={() => router.push("/")}>back to home</button>
     </main>
   );
 }
