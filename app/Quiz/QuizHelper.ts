@@ -17,7 +17,7 @@ export function getRandomQuestions(allQuestions: Question[], count: number): Que
   }
   
 export async function getAllQuizzes() {
-  const res = await fetch(`http://localhost:3000/api/quiz`, { cache: 'no-store' });
+  const res = await fetch(`/api/quiz`, { cache: 'no-store' });
   return await res.json();
 }
 
