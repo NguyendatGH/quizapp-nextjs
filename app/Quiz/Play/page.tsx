@@ -11,7 +11,6 @@ export default function Play() {
     {}
   );
   const router = useRouter();
-  const [score, setScore] = useState<number>(0);
 
   useEffect(() => {
     const stored = sessionStorage.getItem("selectedQuestions");
@@ -57,22 +56,21 @@ export default function Play() {
       }
     });
 
-    setScore(count);
-    saveResult(id, score);
-    // console.log(`Your score: ${count} / ${selectedQuestions.length}`);
+    saveResult(id, count);
 
     router.push(`/Quiz/Play/Result/${id}`);
   };
 
   const saveResult = (id: string, score: number) => {
-    const result = { id, score, timestamp: Date.now() };
+    const total = selectedQuestions.length;
+    const percentage = total > 0 ? (score / total) * 100 : 0;
+
+    const result = { id, score,percentage, timestamp: Date.now(), selectedQuestions, userAnswers};
     const exist = JSON.parse(localStorage.getItem("quizResults") || "[]");
     const updated = [...exist, result];
 
     localStorage.setItem("quizResults", JSON.stringify(updated));
   };
-
-  // console.log("selectedQuestion: ", selectedQuestions);
   return (
     <main className="p-6 max-w-xl mx-auto">
       <h1 className="text-xl font-bold mb-4">Quiz In Progress</h1>

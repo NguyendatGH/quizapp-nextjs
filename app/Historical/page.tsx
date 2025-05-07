@@ -13,10 +13,15 @@ const Historical = () => {
     if (!stored) return;
 
     const localStorageData: QuizResult[] = JSON.parse(stored);
-    // console.log("localstorage data : ", localStorageData);
     setAllResult(localStorageData);
   }, []);
   const router = useRouter();
+
+
+  const handleReviewQuiz = (id: string) =>{
+    // console.log("id to review: ", id);
+    router.push(`/Quiz/Play/Result/${id}`);
+  }
 
   if (!allResult) {
     return <p>No results found</p>;
@@ -26,7 +31,7 @@ const Historical = () => {
       <div>
         <ul className="list-disc pl-6 mt-4 space-y-1">
           {allResult.map((r) => (
-            <li key={r.id}>
+            <li key={r.id} onClick={() => handleReviewQuiz(r.id)} className="cursor-pointer">
               <strong>Score:</strong> {r.score} –{" "}
               <em>{new Date(r.timestamp).toLocaleString()}</em>
             </li>

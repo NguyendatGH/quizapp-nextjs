@@ -14,5 +14,8 @@ export interface UserAnswer{
 export interface QuizResult{
   id: string;
   score : number;
+  percentage: number;
   timestamp: number;
+  selectedQuestions: Question[];
+  userAnswers: { [index: number]: string[] };
 }
