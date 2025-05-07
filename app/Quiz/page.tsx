@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useQuizStore } from "@/stores/quizStore";
 import { Question } from "@/types/question";
 
+
 export default function QuizPage() {
   const [questionList, setQuestionList] = useState<Question[]>([]);
   const [numQuests, setNumQuests] = useState<number>(5);
@@ -27,27 +28,49 @@ export default function QuizPage() {
   };
 
   return (
-    <main className="p-6 max-w-xl mx-auto">
-      <h1 className="text-xl font-bold mb-4">Start Your Quiz</h1>
-      <label className="block mb-4">
-        Number of questions:
-        <input
-          type="number"
-          min={1}
-          max={questionList.length}
-          value={numQuests}
-          onChange={(e) => setNumQuests(parseInt(e.target.value))}
-          className="ml-2 px-2 py-1 border rounded"
-        />
-      </label>
-      <p className="mb-4">Loaded {questionList.length} questions.</p>
-      <button
-        onClick={handleStart}
-        className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
-      >
-        Go
-      </button>
-      <button onClick={() => router.push("/")}>back to home</button>
+    <main className="min-h-screen bg-gradient-to-b from-blue-50 to-white p-8 ">
+      <div className="max-w-md mx-auto mt-9 bg-white rounded-xl shadow-sm border border-gray-100 p-8">
+        <h1 className="text-2xl font-semibold text-gray-800 mb-6">Start Your Quiz</h1>
+        
+        <div className="bg-blue-50 rounded-lg p-4 mb-6 border border-blue-100">
+          <p className="text-blue-800 font-medium">Loaded {questionList.length} questions</p>
+        </div>
+        
+        <div className="mb-6">
+          <label className="block text-gray-700 mb-2 font-medium" htmlFor="question-count">
+            Number of questions
+          </label>
+          <div className="flex items-center">
+            <input
+              id="question-count"
+              type="number"
+              min={1}
+              max={questionList.length}
+              value={numQuests}
+              onChange={(e) => setNumQuests(parseInt(e.target.value))}
+              className="w-full px-4 py-2 border border-gray-200 rounded-md focus:ring-2 focus:ring-blue-300 focus:border-blue-300 outline-none transition-all text-black"
+            />
+          </div>
+          <p className="text-xs text-gray-500 mt-1">Choose between 1 and {questionList.length} questions</p>
+        </div>
+        
+        <div className="flex flex-col space-y-3">
+          <button
+            onClick={handleStart}
+            disabled={questionList.length === 0}
+            className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-md transition-colors shadow-sm disabled:bg-gray-300 cursor-pointer"
+          >
+            Start Quiz
+          </button>
+          
+          <button 
+            onClick={() => router.push("/")}
+            className="w-full bg-white hover:bg-gray-50 text-gray-700 font-medium py-3 px-4 rounded-md transition-colors border border-gray-200 cursor-pointer"
+          >
+            Back to Home
+          </button>
+        </div>
+      </div>
     </main>
   );
 }
