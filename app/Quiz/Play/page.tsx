@@ -86,7 +86,7 @@ export default function Play() {
         <div className="text-center text-lg mt-10">Loading questions...</div>
       ) : (
         <>
-          <main className="min-h-screen bg-gradient-to-b from-blue-50 to-white py-8 px-4">
+          <main className="min-h-screen  py-8 px-4"  style={{ backgroundImage: "var(--background-color)" }}>
             <div className="max-w-2xl mx-auto">
               <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 mb-6">
                 <h1 className="text-2xl font-semibold text-gray-800 mb-2">
