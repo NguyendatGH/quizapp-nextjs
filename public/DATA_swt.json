@@ -1,0 +1,1518 @@
+[
+  {
+    "question": "What is the Pesticide Paradox principle in software testing?",
+    "options": [
+      "Repeating the same tests will continue to find new defects",
+      "Repeating the same tests may not reveal new defects",
+      "Defects are evenly distributed throughout the software",
+      "Testing should be done only once"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Repeating the same tests may not reveal new defects"]
+  },
+  {
+    "question": "What is primarily evaluated during the 'evaluating exit criteria and reporting' phase?",
+    "options": [
+      "The readiness of the software based on exit criteria",
+      "The setup of the test environment",
+      "Test strategies and test development",
+      "Whether all test cases have been executed"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["The readiness of the software based on exit criteria"]
+  },
+  {
+    "question": "What does early test design in the V-Model aim to achieve?",
+    "options": [
+      "To anticipate and address issues sooner",
+      "To focus only on system testing",
+      "To delay defect discovery",
+      "To increase development costs"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To anticipate and address issues sooner"]
+  },
+  {
+    "question": "Which principle states that the absence of reported defects doesn't necessarily mean the software is defect-free?",
+    "options": [
+      "Early Testing",
+      "Defect Clustering",
+      "Testing Shows Presence of Defects",
+      "Absence-of-Errors Fallacy"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Absence-of-Errors Fallacy"]
+  },
+  {
+    "question": "Why should testers maintain independence and objectivity?",
+    "options": [
+      "To introduce bias in their testing activities",
+      "To collaborate closely with developers",
+      "To avoid conflicts of interest and ensure unbiased assessments",
+      "To influence test results favorably"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To avoid conflicts of interest and ensure unbiased assessments"]
+  },
+  {
+    "question": "Non-functional testing focuses on which of the following aspects?",
+    "options": [
+      "User interactions only",
+      "Features and operations",
+      "Code quality",
+      "Performance, scalability, security, usability, and reliability"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Performance, scalability, security, usability, and reliability"]
+  },
+  {
+    "question": "Who primarily performs the test closure activities?",
+    "options": [
+      "Customers and users",
+      "Test analysts only",
+      "Developers and designers",
+      "Test managers and testers"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Test managers and testers"]
+  },
+  {
+    "question": "What is a key focus during acceptance testing?",
+    "options": [
+      "Testing the software under real-world conditions",
+      "Configuring the test environment",
+      "Writing unit tests",
+      "Developing new features"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Testing the software under real-world conditions"]
+  },
+  {
+    "question": "What is the most effective way to use testing to improve quality?",
+    "options": [
+      "By outsourcing testing to reduce costs",
+      "By only testing the new features of the software",
+      "By performing minimal testing on all features",
+      "By focusing on areas of the software most likely to have defects"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "By focusing on areas of the software most likely to have defects"
+    ]
+  },
+  {
+    "question": "In large-scale integration testing, what is critical for systems that rely on external services?",
+    "options": [
+      "Testing only the internal components",
+      "Ensuring seamless interactions between different systems or subsystems",
+      "Testing the user interface only",
+      "Ignoring external services"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Ensuring seamless interactions between different systems or subsystems"
+    ]
+  },
+  {
+    "question": "In the fundamental test process, what follows test planning and control?",
+    "options": [
+      "Test closure activities",
+      "Evaluating exit criteria and reporting",
+      "Test analysis and design",
+      "Test implementation and execution"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Test analysis and design"]
+  },
+  {
+    "question": "In the V-Model, which testing phase corresponds to the requirements analysis phase?",
+    "options": [
+      "Integration Testing",
+      "Unit Testing",
+      "Acceptance Testing",
+      "System Testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Acceptance Testing"]
+  },
+  {
+    "question": "What is a potential risk of not having independent testing?",
+    "options": [
+      "It can lead to redundant testing efforts.",
+      "Independent testing slows down the development process.",
+      "Too much reliance on developer testing can miss defects.",
+      "Independent testing always uncovers more defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Too much reliance on developer testing can miss defects."]
+  },
+  {
+    "question": "How does context dependency influence testing?",
+    "options": [
+      "It varies testing based on software's intended use and associated risks",
+      "It promotes the use of fewer testing tools",
+      "It encourages less testing to reduce costs",
+      "It mandates that all software should be tested in the same way"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It varies testing based on software's intended use and associated risks"
+    ]
+  },
+  {
+    "question": "Why is documenting lessons learned important in test closure activities?",
+    "options": [
+      "It is a mandatory requirement for all testing standards.",
+      "It helps improve future testing cycles and processes.",
+      "It assists developers in coding future applications.",
+      "It is used to grade tester performance."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It helps improve future testing cycles and processes."]
+  },
+  {
+    "question": "In integration testing, what are stubs used for?",
+    "options": [
+      "Generating test data",
+      "Mimicking the behavior of lower-level modules",
+      "Simulating higher-level modules",
+      "Replacing the entire system"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Mimicking the behavior of lower-level modules"]
+  },
+  {
+    "question": "What is the benefit of having test conditions specified before testing begins?",
+    "options": [
+      "It provides clear goals and objectives for the tests",
+      "It reduces the variety of tests needed",
+      "It allows developers to perform all tests",
+      "It eliminates the need for a testing team"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It provides clear goals and objectives for the tests"]
+  },
+  {
+    "question": "How does independent testing benefit the software development process?",
+    "options": [
+      "Introduces more defects for learning purposes",
+      "Reduces development time significantly",
+      "Ensures that the system is user-friendly",
+      "Provides an unbiased view, likely catching different defects"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Provides an unbiased view, likely catching different defects"]
+  },
+  {
+    "question": "What psychological barrier can affect effective testing?",
+    "options": [
+      "Lack of clear objectives and constructive feedback.",
+      "The use of advanced testing tools and technologies.",
+      "The physical location of the testing team.",
+      "Having too many testers in a team."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Lack of clear objectives and constructive feedback."]
+  },
+  {
+    "question": "What does independent testing provide that self-testing does not?",
+    "options": [
+      "Less formal and structured testing procedures",
+      "An unbiased perspective on quality and defects",
+      "Quicker feedback loops in the development cycle",
+      "A more relaxed approach to finding defects"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["An unbiased perspective on quality and defects"]
+  },
+  {
+    "question": "How should discrepancies between actual and expected results be handled?",
+    "options": [
+      "Ignored unless they cause application crashes",
+      "Managed through customer feedback only",
+      "Documented as incidents and analyzed",
+      "Directly fixed by testers without reporting"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Documented as incidents and analyzed"]
+  },
+  {
+    "question": "How do exit criteria influence the test process?",
+    "options": [
+      "They determine when the test activities should end.",
+      "They define when the different test activities should start.",
+      "They provide a standard for initiating the test process.",
+      "They are irrelevant to the actual test execution."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["They determine when the test activities should end."]
+  },
+  {
+    "question": "According to the psychology of testing, what are heuristics?",
+    "options": [
+      "Detailed test plans",
+      "Automated testing tools",
+      "Mental shortcuts or rules of thumb based on experience",
+      "Rigorous mathematical models used in testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Mental shortcuts or rules of thumb based on experience"]
+  },
+  {
+    "question": "What should be done if the exit criteria are not met in the evaluating exit criteria phase?",
+    "options": [
+      "Continue testing to meet the criteria",
+      "Begin test planning for the next cycle",
+      "Stop testing immediately",
+      "Archive all test results and end the test cycle"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Continue testing to meet the criteria"]
+  },
+  {
+    "question": "Which concept in the psychology of testing involves understanding how testers perceive software behavior and make decisions?",
+    "options": [
+      "Cognitive Processes",
+      "Biases and Fallacies",
+      "Creativity and Exploration",
+      "Heuristics and Mental Models"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Cognitive Processes"]
+  },
+  {
+    "question": "Why should clear objectives be established for testing?",
+    "options": [
+      "To facilitate precise and effective communication of expectations.",
+      "To ensure that the development team feels pressured.",
+      "To make the testing process longer and more thorough.",
+      "To minimize the need for tester involvement in planning."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "To facilitate precise and effective communication of expectations."
+    ]
+  },
+  {
+    "question": "What challenge does the 'Pesticide paradox' describe in software testing?",
+    "options": [
+      "Repeated use of the same tests enhances software performance.",
+      "All tests are equally effective at finding defects.",
+      "Pesticides are often used to eliminate software bugs.",
+      "The same tests, when repeated, eventually will not find new defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "The same tests, when repeated, eventually will not find new defects."
+    ]
+  },
+  {
+    "question": "How does the principle of transparency and accountability apply to software testing?",
+    "options": [
+      "By avoiding responsibility for testing actions",
+      "By hiding testing methodologies and findings",
+      "By providing clear and accurate information to stakeholders",
+      "By disclosing defects only to selected team members"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["By providing clear and accurate information to stakeholders"]
+  },
+  {
+    "question": "What is the purpose of conducting a post-mortem or lessons learned session in Test Closure?",
+    "options": [
+      "To execute more test cases",
+      "To set up new test environments",
+      "To identify strengths, weaknesses, and areas for improvement",
+      "To develop new test strategies"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To identify strengths, weaknesses, and areas for improvement"]
+  },
+  {
+    "question": "Which phase of the V-Model emphasizes the importance of defining acceptance criteria?",
+    "options": [
+      "Integration Testing",
+      "System Testing",
+      "Unit Testing",
+      "Acceptance Testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Acceptance Testing"]
+  },
+  {
+    "question": "How does the principle of 'Early testing' influence the testing timeline?",
+    "options": [
+      "Encourages integration of testing throughout the development lifecycle.",
+      "Recommends testing only after code is completely written.",
+      "Advises on testing only during the maintenance phase.",
+      "Suggests delaying testing until system testing phase."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Encourages integration of testing throughout the development lifecycle."
+    ]
+  },
+  {
+    "question": "What should be a key outcome of the evaluating exit criteria and reporting phase?",
+    "options": [
+      "Decisions regarding the continuation or stoppage of testing",
+      "Developing new test tools and methods",
+      "Finalizing the software release without further review",
+      "Planning for the next development cycle"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Decisions regarding the continuation or stoppage of testing"]
+  },
+  {
+    "question": "Why might a software defect introduced during requirements specification be particularly costly?",
+    "options": [
+      "It can propagate through to later stages, increasing fixing costs",
+      "It is less important than defects introduced during coding",
+      "It requires less testing resources",
+      "It is usually detected by the end users"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It can propagate through to later stages, increasing fixing costs"
+    ]
+  },
+  {
+    "question": "What psychological factor is important when giving feedback on defects?",
+    "options": [
+      "Ensuring feedback is timely but critical",
+      "Providing feedback in a constructive and positive manner",
+      "Emphasizing the quantity of defects found",
+      "Focusing on the personal faults of developers"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Providing feedback in a constructive and positive manner"]
+  },
+  {
+    "question": "How can testing contribute to improving future software projects?",
+    "options": [
+      "By requiring fewer tests in future projects",
+      "By documenting defects that can be avoided in future projects",
+      "By completely eliminating the need for testing",
+      "By ensuring that no future projects are necessary"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["By documenting defects that can be avoided in future projects"]
+  },
+  {
+    "question": "How does the mindset of a tester differ from that of a developer?",
+    "options": [
+      "Both roles focus on defect detection and fixing.",
+      "A tester critically evaluates the product for defects; a developer focuses on creating the product.",
+      "There is no significant difference; both perform the same functions.",
+      "A tester focuses only on documentation, whereas a developer focuses on building features."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "A tester critically evaluates the product for defects; a developer focuses on creating the product."
+    ]
+  },
+  {
+    "question": "Which type of software would likely require the most rigorous testing?",
+    "options": [
+      "A simple calculator app",
+      "A personal blog",
+      "A temporary data storage system",
+      "A safety-critical system in an automobile"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["A safety-critical system in an automobile"]
+  },
+  {
+    "question": "How do clear, respectful communications affect the testing process?",
+    "options": [
+      "They improve understanding and cooperation between team members.",
+      "They have no impact on the effectiveness of testing.",
+      "They discourage transparency about defects.",
+      "They limit the scope of testing to only critical defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "They improve understanding and cooperation between team members."
+    ]
+  },
+  {
+    "question": "What can hinder effective testing due to psychological factors?",
+    "options": [
+      "Over-reliance on automated testing tools",
+      "Clear objectives",
+      "Poor communication of defects",
+      "Independent testing practices"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Poor communication of defects"]
+  },
+  {
+    "question": "In the V-Model, what is the primary benefit of mapping each development phase to a corresponding testing phase?",
+    "options": [
+      "It ensures every phase has a corresponding validation process",
+      "It reduces the number of test cases",
+      "It skips the design phase",
+      "It delays the testing process"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It ensures every phase has a corresponding validation process"]
+  },
+  {
+    "question": "What does testing aim to achieve in terms of quality assurance?",
+    "options": [
+      "Prevention of defects by early detection and correction",
+      "Elimination of all errors before design",
+      "Assurance that no testing is required",
+      "Demonstration that defects do not exist"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Prevention of defects by early detection and correction"]
+  },
+  {
+    "question": "What is a key reason that software testing is necessary?",
+    "options": [
+      "To increase software complexity",
+      "To identify defects in software",
+      "To reduce software features",
+      "To speed up software development"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To identify defects in software"]
+  },
+  {
+    "question": "How does test planning and control assist in managing risks?",
+    "options": [
+      "By reporting defects post-release",
+      "By eliminating all risks through exhaustive testing",
+      "By ensuring all tests are automated",
+      "By defining test objectives linked to risk assessments"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["By defining test objectives linked to risk assessments"]
+  },
+  {
+    "question": "Which principle in the code of ethics emphasizes maintaining high standards of professional competence?",
+    "options": [
+      "Independence and Objectivity",
+      "Confidentiality",
+      "Integrity",
+      "Professional Competence"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Professional Competence"]
+  },
+  {
+    "question": "Why is early testing important in the software development lifecycle?",
+    "options": [
+      "It ensures defects are addressed before they become more challenging to fix",
+      "It delays the software release",
+      "It increases the cost of rectification",
+      "It allows for more features to be added"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It ensures defects are addressed before they become more challenging to fix"
+    ]
+  },
+  {
+    "question": "How does exhaustive testing differ from risk-based testing?",
+    "options": [
+      "Exhaustive testing tests every possible input and precondition",
+      "Risk-based testing is a theoretical concept only",
+      "Risk-based testing focuses only on module testing",
+      "Exhaustive testing is less thorough than risk-based testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Exhaustive testing tests every possible input and precondition"]
+  },
+  {
+    "question": "Which activity is part of the Test Closure phase?",
+    "options": [
+      "Preparing test closure reports and documentation",
+      "Identifying test conditions and scenarios",
+      "Executing test cases according to the test plan",
+      "Recording test results, including observed outcomes"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Preparing test closure reports and documentation"]
+  },
+  {
+    "question": "Why is automation used in component testing?",
+    "options": [
+      "To provide quick feedback and maintain code quality",
+      "To facilitate manual testing",
+      "To eliminate the need for testing",
+      "To slow down the testing process"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To provide quick feedback and maintain code quality"]
+  },
+  {
+    "question": "Which testing principle suggests that testing should be started as early as possible?",
+    "options": [
+      "Defect clustering",
+      "Exhaustive testing",
+      "Early testing",
+      "Pesticide paradox"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Early testing"]
+  },
+  {
+    "question": "Why might developers and testers have conflicts?",
+    "options": [
+      "Developers and testers always work in separate environments.",
+      "Their roles require adopting different mindsets toward the product.",
+      "Testers are often seen as responsible for project delays.",
+      "Testers and developers never interact directly."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Their roles require adopting different mindsets toward the product."
+    ]
+  },
+  {
+    "question": "What does the 'Pesticide paradox' suggest about the need for test case review?",
+    "options": [
+      "Reusing test cases guarantees the detection of more defects.",
+      "The more test cases, the better the software quality.",
+      "Test cases do not need regular updates.",
+      "Test cases need to be regularly reviewed and revised to find more defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Test cases need to be regularly reviewed and revised to find more defects."
+    ]
+  },
+  {
+    "question": "What does managing testware involve in test closure activities?",
+    "options": [
+      "Archiving test outputs and environments for future use",
+      "Ignoring testware once the product is released",
+      "Deleting all test cases to protect intellectual property",
+      "Reusing test cases for different test cycles without modification"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Archiving test outputs and environments for future use"]
+  },
+  {
+    "question": "Which of the following is a primary goal of software testing?",
+    "options": [
+      "To ensure that software is delivered without any documentation",
+      "To increase the number of features in the software",
+      "To improve the quality, reliability, and performance of software products",
+      "To shorten the development lifecycle"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "To improve the quality, reliability, and performance of software products"
+    ]
+  },
+  {
+    "question": "What does the principle of 'Testing is context dependent' emphasize?",
+    "options": [
+      "The approach to testing may vary depending on the software and its environment.",
+      "Testing methods do not vary in different situations.",
+      "The necessity to apply the same testing standards across all software types.",
+      "Testing should always be performed under the same conditions."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "The approach to testing may vary depending on the software and its environment."
+    ]
+  },
+  {
+    "question": "How should testers communicate about defects?",
+    "options": [
+      "In a detailed and technical language only",
+      "Only through written reports",
+      "Briefly and infrequently",
+      "Respectfully and constructively"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Respectfully and constructively"]
+  },
+  {
+    "question": "How can clear and objective testing objectives affect the testing process?",
+    "options": [
+      "They discourage thorough and detailed testing.",
+      "They are generally too difficult to define and rarely used.",
+      "They lead to a more focused and efficient testing effort.",
+      "They may cause confusion and misalignment in team goals."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["They lead to a more focused and efficient testing effort."]
+  },
+  {
+    "question": "What is the purpose of the test implementation and execution phase?",
+    "options": [
+      "To analyze the test basis and identify test conditions",
+      "To define the overall approach to testing",
+      "To evaluate whether testing is complete",
+      "To execute test cases and log the outcomes"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To execute test cases and log the outcomes"]
+  },
+  {
+    "question": "What role does courteous communication play in testing?",
+    "options": [
+      "It is not important in automated testing",
+      "It ensures faster project delivery",
+      "It increases the technical skills of the team",
+      "It helps convey defect feedback effectively"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It helps convey defect feedback effectively"]
+  },
+  {
+    "question": "What is an effect of poor communication between testers and developers?",
+    "options": [
+      "It may lead to misunderstandings and reduced software quality.",
+      "It has no effect as long as testing is done independently.",
+      "It improves the independence of the testing function.",
+      "It enhances the efficiency of the development and testing processes."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It may lead to misunderstandings and reduced software quality."]
+  },
+  {
+    "question": "What is a major challenge in testing modern software applications?",
+    "options": [
+      "The complexity and integration of systems",
+      "The absence of defects in software",
+      "The reduction in software functionality",
+      "The simplicity of software interfaces"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["The complexity and integration of systems"]
+  },
+  {
+    "question": "What is the role of root cause analysis in testing?",
+    "options": [
+      "To calculate the profitability of software projects",
+      "To determine the cost of software production",
+      "To identify the underlying reasons for defects",
+      "To decide the software release date"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To identify the underlying reasons for defects"]
+  },
+  {
+    "question": "What is the significance of context in testing according to the principles?",
+    "options": [
+      "It suggests that testing should always follow the same international standards.",
+      "It is irrelevant since all testing follows the same standard.",
+      "It is critical as testing approaches should vary based on the specific context.",
+      "Context is only important in large, complex systems."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It is critical as testing approaches should vary based on the specific context."
+    ]
+  },
+  {
+    "question": "Who is typically responsible for conducting acceptance testing?",
+    "options": [
+      "System administrators",
+      "Developers",
+      "End-users or clients",
+      "Testers only"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["End-users or clients"]
+  },
+  {
+    "question": "Which of the following best defines software testing?",
+    "options": [
+      "The process of compiling software code",
+      "The process of writing code for software",
+      "The process of evaluating a software application to identify defects",
+      "The process of installing software on user devices"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "The process of evaluating a software application to identify defects"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of exit criteria in testing?",
+    "options": [
+      "To define when a test phase can be concluded",
+      "To specify the software release date",
+      "To identify the initial testing requirements",
+      "To increase the complexity of tests"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To define when a test phase can be concluded"]
+  },
+  {
+    "question": "What is the main focus of system testing in terms of functionality?",
+    "options": [
+      "Conducting user training",
+      "Integrating subsystems",
+      "Ensuring system functions conform to specified requirements",
+      "Testing individual components"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Ensuring system functions conform to specified requirements"]
+  },
+  {
+    "question": "What is the Pesticide Paradox principle in software testing?",
+    "options": [
+      "Repeating the same tests will continue to find new defects",
+      "Repeating the same tests may not reveal new defects",
+      "Defects are evenly distributed throughout the software",
+      "Testing should be done only once"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Repeating the same tests may not reveal new defects"]
+  },
+  {
+    "question": "What is primarily evaluated during the 'evaluating exit criteria and reporting' phase?",
+    "options": [
+      "The readiness of the software based on exit criteria",
+      "The setup of the test environment",
+      "Test strategies and test development",
+      "Whether all test cases have been executed"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["The readiness of the software based on exit criteria"]
+  },
+  {
+    "question": "What does early test design in the V-Model aim to achieve?",
+    "options": [
+      "To anticipate and address issues sooner",
+      "To focus only on system testing",
+      "To delay defect discovery",
+      "To increase development costs"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To anticipate and address issues sooner"]
+  },
+  {
+    "question": "Which principle states that the absence of reported defects doesn't necessarily mean the software is defect-free?",
+    "options": [
+      "Early Testing",
+      "Defect Clustering",
+      "Testing Shows Presence of Defects",
+      "Absence-of-Errors Fallacy"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Absence-of-Errors Fallacy"]
+  },
+  {
+    "question": "Why should testers maintain independence and objectivity?",
+    "options": [
+      "To introduce bias in their testing activities",
+      "To collaborate closely with developers",
+      "To avoid conflicts of interest and ensure unbiased assessments",
+      "To influence test results favorably"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To avoid conflicts of interest and ensure unbiased assessments"]
+  },
+  {
+    "question": "Non-functional testing focuses on which of the following aspects?",
+    "options": [
+      "User interactions only",
+      "Features and operations",
+      "Code quality",
+      "Performance, scalability, security, usability, and reliability"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Performance, scalability, security, usability, and reliability"]
+  },
+  {
+    "question": "Who primarily performs the test closure activities?",
+    "options": [
+      "Customers and users",
+      "Test analysts only",
+      "Developers and designers",
+      "Test managers and testers"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Test managers and testers"]
+  },
+  {
+    "question": "What is a key focus during acceptance testing?",
+    "options": [
+      "Testing the software under real-world conditions",
+      "Configuring the test environment",
+      "Writing unit tests",
+      "Developing new features"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Testing the software under real-world conditions"]
+  },
+  {
+    "question": "What is the most effective way to use testing to improve quality?",
+    "options": [
+      "By outsourcing testing to reduce costs",
+      "By only testing the new features of the software",
+      "By performing minimal testing on all features",
+      "By focusing on areas of the software most likely to have defects"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "By focusing on areas of the software most likely to have defects"
+    ]
+  },
+  {
+    "question": "In large-scale integration testing, what is critical for systems that rely on external services?",
+    "options": [
+      "Testing only the internal components",
+      "Ensuring seamless interactions between different systems or subsystems",
+      "Testing the user interface only",
+      "Ignoring external services"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Ensuring seamless interactions between different systems or subsystems"
+    ]
+  },
+  {
+    "question": "In the fundamental test process, what follows test planning and control?",
+    "options": [
+      "Test closure activities",
+      "Evaluating exit criteria and reporting",
+      "Test analysis and design",
+      "Test implementation and execution"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Test analysis and design"]
+  },
+  {
+    "question": "In the V-Model, which testing phase corresponds to the requirements analysis phase?",
+    "options": [
+      "Integration Testing",
+      "Unit Testing",
+      "Acceptance Testing",
+      "System Testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Acceptance Testing"]
+  },
+  {
+    "question": "What is a potential risk of not having independent testing?",
+    "options": [
+      "It can lead to redundant testing efforts.",
+      "Independent testing slows down the development process.",
+      "Too much reliance on developer testing can miss defects.",
+      "Independent testing always uncovers more defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Too much reliance on developer testing can miss defects."]
+  },
+  {
+    "question": "How does context dependency influence testing?",
+    "options": [
+      "It varies testing based on software's intended use and associated risks",
+      "It promotes the use of fewer testing tools",
+      "It encourages less testing to reduce costs",
+      "It mandates that all software should be tested in the same way"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It varies testing based on software's intended use and associated risks"
+    ]
+  },
+  {
+    "question": "Why is documenting lessons learned important in test closure activities?",
+    "options": [
+      "It is a mandatory requirement for all testing standards.",
+      "It helps improve future testing cycles and processes.",
+      "It assists developers in coding future applications.",
+      "It is used to grade tester performance."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It helps improve future testing cycles and processes."]
+  },
+  {
+    "question": "In integration testing, what are stubs used for?",
+    "options": [
+      "Generating test data",
+      "Mimicking the behavior of lower-level modules",
+      "Simulating higher-level modules",
+      "Replacing the entire system"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Mimicking the behavior of lower-level modules"]
+  },
+  {
+    "question": "What is the benefit of having test conditions specified before testing begins?",
+    "options": [
+      "It provides clear goals and objectives for the tests",
+      "It reduces the variety of tests needed",
+      "It allows developers to perform all tests",
+      "It eliminates the need for a testing team"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It provides clear goals and objectives for the tests"]
+  },
+  {
+    "question": "How does independent testing benefit the software development process?",
+    "options": [
+      "Introduces more defects for learning purposes",
+      "Reduces development time significantly",
+      "Ensures that the system is user-friendly",
+      "Provides an unbiased view, likely catching different defects"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Provides an unbiased view, likely catching different defects"]
+  },
+  {
+    "question": "What psychological barrier can affect effective testing?",
+    "options": [
+      "Lack of clear objectives and constructive feedback.",
+      "The use of advanced testing tools and technologies.",
+      "The physical location of the testing team.",
+      "Having too many testers in a team."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Lack of clear objectives and constructive feedback."]
+  },
+  {
+    "question": "What does independent testing provide that self-testing does not?",
+    "options": [
+      "Less formal and structured testing procedures",
+      "An unbiased perspective on quality and defects",
+      "Quicker feedback loops in the development cycle",
+      "A more relaxed approach to finding defects"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["An unbiased perspective on quality and defects"]
+  },
+  {
+    "question": "How should discrepancies between actual and expected results be handled?",
+    "options": [
+      "Ignored unless they cause application crashes",
+      "Managed through customer feedback only",
+      "Documented as incidents and analyzed",
+      "Directly fixed by testers without reporting"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Documented as incidents and analyzed"]
+  },
+  {
+    "question": "How do exit criteria influence the test process?",
+    "options": [
+      "They determine when the test activities should end.",
+      "They define when the different test activities should start.",
+      "They provide a standard for initiating the test process.",
+      "They are irrelevant to the actual test execution."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["They determine when the test activities should end."]
+  },
+  {
+    "question": "According to the psychology of testing, what are heuristics?",
+    "options": [
+      "Detailed test plans",
+      "Automated testing tools",
+      "Mental shortcuts or rules of thumb based on experience",
+      "Rigorous mathematical models used in testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Mental shortcuts or rules of thumb based on experience"]
+  },
+  {
+    "question": "What should be done if the exit criteria are not met in the evaluating exit criteria phase?",
+    "options": [
+      "Continue testing to meet the criteria",
+      "Begin test planning for the next cycle",
+      "Stop testing immediately",
+      "Archive all test results and end the test cycle"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Continue testing to meet the criteria"]
+  },
+  {
+    "question": "Which concept in the psychology of testing involves understanding how testers perceive software behavior and make decisions?",
+    "options": [
+      "Cognitive Processes",
+      "Biases and Fallacies",
+      "Creativity and Exploration",
+      "Heuristics and Mental Models"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Cognitive Processes"]
+  },
+  {
+    "question": "Why should clear objectives be established for testing?",
+    "options": [
+      "To facilitate precise and effective communication of expectations.",
+      "To ensure that the development team feels pressured.",
+      "To make the testing process longer and more thorough.",
+      "To minimize the need for tester involvement in planning."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "To facilitate precise and effective communication of expectations."
+    ]
+  },
+  {
+    "question": "What challenge does the 'Pesticide paradox' describe in software testing?",
+    "options": [
+      "Repeated use of the same tests enhances software performance.",
+      "All tests are equally effective at finding defects.",
+      "Pesticides are often used to eliminate software bugs.",
+      "The same tests, when repeated, eventually will not find new defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "The same tests, when repeated, eventually will not find new defects."
+    ]
+  },
+  {
+    "question": "How does the principle of transparency and accountability apply to software testing?",
+    "options": [
+      "By avoiding responsibility for testing actions",
+      "By hiding testing methodologies and findings",
+      "By providing clear and accurate information to stakeholders",
+      "By disclosing defects only to selected team members"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["By providing clear and accurate information to stakeholders"]
+  },
+  {
+    "question": "What is the purpose of conducting a post-mortem or lessons learned session in Test Closure?",
+    "options": [
+      "To execute more test cases",
+      "To set up new test environments",
+      "To identify strengths, weaknesses, and areas for improvement",
+      "To develop new test strategies"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To identify strengths, weaknesses, and areas for improvement"]
+  },
+  {
+    "question": "Which phase of the V-Model emphasizes the importance of defining acceptance criteria?",
+    "options": [
+      "Integration Testing",
+      "System Testing",
+      "Unit Testing",
+      "Acceptance Testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Acceptance Testing"]
+  },
+  {
+    "question": "How does the principle of 'Early testing' influence the testing timeline?",
+    "options": [
+      "Encourages integration of testing throughout the development lifecycle.",
+      "Recommends testing only after code is completely written.",
+      "Advises on testing only during the maintenance phase.",
+      "Suggests delaying testing until system testing phase."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Encourages integration of testing throughout the development lifecycle."
+    ]
+  },
+  {
+    "question": "What should be a key outcome of the evaluating exit criteria and reporting phase?",
+    "options": [
+      "Decisions regarding the continuation or stoppage of testing",
+      "Developing new test tools and methods",
+      "Finalizing the software release without further review",
+      "Planning for the next development cycle"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Decisions regarding the continuation or stoppage of testing"]
+  },
+  {
+    "question": "Why might a software defect introduced during requirements specification be particularly costly?",
+    "options": [
+      "It can propagate through to later stages, increasing fixing costs",
+      "It is less important than defects introduced during coding",
+      "It requires less testing resources",
+      "It is usually detected by the end users"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It can propagate through to later stages, increasing fixing costs"
+    ]
+  },
+  {
+    "question": "What psychological factor is important when giving feedback on defects?",
+    "options": [
+      "Ensuring feedback is timely but critical",
+      "Providing feedback in a constructive and positive manner",
+      "Emphasizing the quantity of defects found",
+      "Focusing on the personal faults of developers"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Providing feedback in a constructive and positive manner"]
+  },
+  {
+    "question": "How can testing contribute to improving future software projects?",
+    "options": [
+      "By requiring fewer tests in future projects",
+      "By documenting defects that can be avoided in future projects",
+      "By completely eliminating the need for testing",
+      "By ensuring that no future projects are necessary"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["By documenting defects that can be avoided in future projects"]
+  },
+  {
+    "question": "How does the mindset of a tester differ from that of a developer?",
+    "options": [
+      "Both roles focus on defect detection and fixing.",
+      "A tester critically evaluates the product for defects; a developer focuses on creating the product.",
+      "There is no significant difference; both perform the same functions.",
+      "A tester focuses only on documentation, whereas a developer focuses on building features."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "A tester critically evaluates the product for defects; a developer focuses on creating the product."
+    ]
+  },
+  {
+    "question": "Which type of software would likely require the most rigorous testing?",
+    "options": [
+      "A simple calculator app",
+      "A personal blog",
+      "A temporary data storage system",
+      "A safety-critical system in an automobile"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["A safety-critical system in an automobile"]
+  },
+  {
+    "question": "How do clear, respectful communications affect the testing process?",
+    "options": [
+      "They improve understanding and cooperation between team members.",
+      "They have no impact on the effectiveness of testing.",
+      "They discourage transparency about defects.",
+      "They limit the scope of testing to only critical defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "They improve understanding and cooperation between team members."
+    ]
+  },
+  {
+    "question": "What can hinder effective testing due to psychological factors?",
+    "options": [
+      "Over-reliance on automated testing tools",
+      "Clear objectives",
+      "Poor communication of defects",
+      "Independent testing practices"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Poor communication of defects"]
+  },
+  {
+    "question": "In the V-Model, what is the primary benefit of mapping each development phase to a corresponding testing phase?",
+    "options": [
+      "It ensures every phase has a corresponding validation process",
+      "It reduces the number of test cases",
+      "It skips the design phase",
+      "It delays the testing process"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It ensures every phase has a corresponding validation process"]
+  },
+  {
+    "question": "What does testing aim to achieve in terms of quality assurance?",
+    "options": [
+      "Prevention of defects by early detection and correction",
+      "Elimination of all errors before design",
+      "Assurance that no testing is required",
+      "Demonstration that defects do not exist"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Prevention of defects by early detection and correction"]
+  },
+  {
+    "question": "What is a key reason that software testing is necessary?",
+    "options": [
+      "To increase software complexity",
+      "To identify defects in software",
+      "To reduce software features",
+      "To speed up software development"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To identify defects in software"]
+  },
+  {
+    "question": "How does test planning and control assist in managing risks?",
+    "options": [
+      "By reporting defects post-release",
+      "By eliminating all risks through exhaustive testing",
+      "By ensuring all tests are automated",
+      "By defining test objectives linked to risk assessments"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["By defining test objectives linked to risk assessments"]
+  },
+  {
+    "question": "Which principle in the code of ethics emphasizes maintaining high standards of professional competence?",
+    "options": [
+      "Independence and Objectivity",
+      "Confidentiality",
+      "Integrity",
+      "Professional Competence"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Professional Competence"]
+  },
+  {
+    "question": "Why is early testing important in the software development lifecycle?",
+    "options": [
+      "It ensures defects are addressed before they become more challenging to fix",
+      "It delays the software release",
+      "It increases the cost of rectification",
+      "It allows for more features to be added"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It ensures defects are addressed before they become more challenging to fix"
+    ]
+  },
+  {
+    "question": "How does exhaustive testing differ from risk-based testing?",
+    "options": [
+      "Exhaustive testing tests every possible input and precondition",
+      "Risk-based testing is a theoretical concept only",
+      "Risk-based testing focuses only on module testing",
+      "Exhaustive testing is less thorough than risk-based testing"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Exhaustive testing tests every possible input and precondition"]
+  },
+  {
+    "question": "Which activity is part of the Test Closure phase?",
+    "options": [
+      "Preparing test closure reports and documentation",
+      "Identifying test conditions and scenarios",
+      "Executing test cases according to the test plan",
+      "Recording test results, including observed outcomes"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Preparing test closure reports and documentation"]
+  },
+  {
+    "question": "Why is automation used in component testing?",
+    "options": [
+      "To provide quick feedback and maintain code quality",
+      "To facilitate manual testing",
+      "To eliminate the need for testing",
+      "To slow down the testing process"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To provide quick feedback and maintain code quality"]
+  },
+  {
+    "question": "Which testing principle suggests that testing should be started as early as possible?",
+    "options": [
+      "Defect clustering",
+      "Exhaustive testing",
+      "Early testing",
+      "Pesticide paradox"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Early testing"]
+  },
+  {
+    "question": "Why might developers and testers have conflicts?",
+    "options": [
+      "Developers and testers always work in separate environments.",
+      "Their roles require adopting different mindsets toward the product.",
+      "Testers are often seen as responsible for project delays.",
+      "Testers and developers never interact directly."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Their roles require adopting different mindsets toward the product."
+    ]
+  },
+  {
+    "question": "What does the 'Pesticide paradox' suggest about the need for test case review?",
+    "options": [
+      "Reusing test cases guarantees the detection of more defects.",
+      "The more test cases, the better the software quality.",
+      "Test cases do not need regular updates.",
+      "Test cases need to be regularly reviewed and revised to find more defects."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "Test cases need to be regularly reviewed and revised to find more defects."
+    ]
+  },
+  {
+    "question": "What does managing testware involve in test closure activities?",
+    "options": [
+      "Archiving test outputs and environments for future use",
+      "Ignoring testware once the product is released",
+      "Deleting all test cases to protect intellectual property",
+      "Reusing test cases for different test cycles without modification"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Archiving test outputs and environments for future use"]
+  },
+  {
+    "question": "Which of the following is a primary goal of software testing?",
+    "options": [
+      "To ensure that software is delivered without any documentation",
+      "To increase the number of features in the software",
+      "To improve the quality, reliability, and performance of software products",
+      "To shorten the development lifecycle"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "To improve the quality, reliability, and performance of software products"
+    ]
+  },
+  {
+    "question": "What does the principle of 'Testing is context dependent' emphasize?",
+    "options": [
+      "The approach to testing may vary depending on the software and its environment.",
+      "Testing methods do not vary in different situations.",
+      "The necessity to apply the same testing standards across all software types.",
+      "Testing should always be performed under the same conditions."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "The approach to testing may vary depending on the software and its environment."
+    ]
+  },
+  {
+    "question": "How should testers communicate about defects?",
+    "options": [
+      "In a detailed and technical language only",
+      "Only through written reports",
+      "Briefly and infrequently",
+      "Respectfully and constructively"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Respectfully and constructively"]
+  },
+  {
+    "question": "How can clear and objective testing objectives affect the testing process?",
+    "options": [
+      "They discourage thorough and detailed testing.",
+      "They are generally too difficult to define and rarely used.",
+      "They lead to a more focused and efficient testing effort.",
+      "They may cause confusion and misalignment in team goals."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["They lead to a more focused and efficient testing effort."]
+  },
+  {
+    "question": "What is the purpose of the test implementation and execution phase?",
+    "options": [
+      "To analyze the test basis and identify test conditions",
+      "To define the overall approach to testing",
+      "To evaluate whether testing is complete",
+      "To execute test cases and log the outcomes"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To execute test cases and log the outcomes"]
+  },
+  {
+    "question": "What role does courteous communication play in testing?",
+    "options": [
+      "It is not important in automated testing",
+      "It ensures faster project delivery",
+      "It increases the technical skills of the team",
+      "It helps convey defect feedback effectively"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It helps convey defect feedback effectively"]
+  },
+  {
+    "question": "What is an effect of poor communication between testers and developers?",
+    "options": [
+      "It may lead to misunderstandings and reduced software quality.",
+      "It has no effect as long as testing is done independently.",
+      "It improves the independence of the testing function.",
+      "It enhances the efficiency of the development and testing processes."
+    ],
+    "description": "Progress Test 1",
+    "answer": ["It may lead to misunderstandings and reduced software quality."]
+  },
+  {
+    "question": "What is a major challenge in testing modern software applications?",
+    "options": [
+      "The complexity and integration of systems",
+      "The absence of defects in software",
+      "The reduction in software functionality",
+      "The simplicity of software interfaces"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["The complexity and integration of systems"]
+  },
+  {
+    "question": "What is the role of root cause analysis in testing?",
+    "options": [
+      "To calculate the profitability of software projects",
+      "To determine the cost of software production",
+      "To identify the underlying reasons for defects",
+      "To decide the software release date"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To identify the underlying reasons for defects"]
+  },
+  {
+    "question": "What is the significance of context in testing according to the principles?",
+    "options": [
+      "It suggests that testing should always follow the same international standards.",
+      "It is irrelevant since all testing follows the same standard.",
+      "It is critical as testing approaches should vary based on the specific context.",
+      "Context is only important in large, complex systems."
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "It is critical as testing approaches should vary based on the specific context."
+    ]
+  },
+  {
+    "question": "Who is typically responsible for conducting acceptance testing?",
+    "options": [
+      "System administrators",
+      "Developers",
+      "End-users or clients",
+      "Testers only"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["End-users or clients"]
+  },
+  {
+    "question": "Which of the following best defines software testing?",
+    "options": [
+      "The process of compiling software code",
+      "The process of writing code for software",
+      "The process of evaluating a software application to identify defects",
+      "The process of installing software on user devices"
+    ],
+    "description": "Progress Test 1",
+    "answer": [
+      "The process of evaluating a software application to identify defects"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of exit criteria in testing?",
+    "options": [
+      "To define when a test phase can be concluded",
+      "To specify the software release date",
+      "To identify the initial testing requirements",
+      "To increase the complexity of tests"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["To define when a test phase can be concluded"]
+  },
+  {
+    "question": "What is the main focus of system testing in terms of functionality?",
+    "options": [
+      "Conducting user training",
+      "Integrating subsystems",
+      "Ensuring system functions conform to specified requirements",
+      "Testing individual components"
+    ],
+    "description": "Progress Test 1",
+    "answer": ["Ensuring system functions conform to specified requirements"]
+  }
+]
