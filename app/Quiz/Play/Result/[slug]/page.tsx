@@ -45,7 +45,7 @@ const Result = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white py-8 px-4">
+    <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white py-8 px-4" style={{ backgroundImage: "var(--background-color)"}}>
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 mb-6">
           <div className="flex flex-col md:flex-row items-center justify-between">

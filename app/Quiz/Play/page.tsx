@@ -198,7 +198,7 @@ export default function Play() {
                 )}
               </div>
 
-              {selectedQuestions.length > 0 && (
+              {selectedQuestions.length > 0 && currentIndex !== selectedQuestions.length - 1 && (
                 <div className="text-center">
                   <button
                     onClick={() => handleSubmit()}

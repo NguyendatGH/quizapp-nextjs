@@ -19,6 +19,11 @@ const Historical = () => {
     router.push(`/Quiz/Play/Result/${id}`);
   };
 
+  const handleClearHistory = () => {
+      localStorage.removeItem("quizResults");
+      setAllResult([]); 
+  }
+
   const formatDate = (timestamp: number) => {
     const date = new Date(timestamp);
     return date.toLocaleDateString(undefined, { 
@@ -38,7 +43,7 @@ const Historical = () => {
 
   if (!allResult || allResult.length === 0) {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white py-8 px-4 flex items-center justify-center">
+      <div className="min-h-screen  py-8 px-4 flex items-center justify-center" style={{ backgroundImage: "var(--background-color)"}}>
         <div className="max-w-md w-full bg-white rounded-xl shadow-sm border border-gray-100 p-8 text-center">
           <svg xmlns="http://www.w3.org/2000/svg" className="h-16 w-16 mx-auto text-gray-400 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
@@ -55,9 +60,9 @@ const Historical = () => {
       </div>
     );
   }
-
+// bg-gradient-to-b from-blue-50 to-white
   return (
-    <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white py-8 px-4">
+    <div className="min-h-screen  py-8 px-4" style={{ backgroundImage: "var(--background-color)"}}>
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 mb-6">
           <h1 className="text-2xl font-semibold text-gray-800 mb-6">Quiz History</h1>
@@ -116,12 +121,18 @@ const Historical = () => {
           </div>
         </div>
         
-        <div className="text-center">
+        <div className="flex justify-center items-center gap-10 mt-6 ">
           <button 
             onClick={() => router.push("/")}
             className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-6 rounded-md transition-colors"
           >
             Back to Home
+          </button>
+          <button 
+            onClick={() => handleClearHistory()}
+            className="bg-red-600 hover:bg-red-700 text-white font-medium py-2 px-6 rounded-md transition-colors"
+          >
+           Clear all
           </button>
         </div>
       </div>

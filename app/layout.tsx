@@ -1,4 +1,3 @@
-
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
@@ -30,15 +29,16 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <ThemeProvider
-         attribute="class"
-         defaultTheme="system"
-         enableSystem
-         disableTransitionOnChange>
-          <main>
-          <div className="absolute right-3.5 bottom-2.5">
-            <ThemeToggle />
-          </div>
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <main className="relative">
             <div>{children}</div>
+            <div className="fixed right-3.5 bottom-2.5">
+              <ThemeToggle />
+            </div>
           </main>
         </ThemeProvider>
       </body>
