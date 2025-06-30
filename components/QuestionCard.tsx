@@ -67,7 +67,7 @@ export default function QuestionCard({
         ))}
       </div>
       {question.description && (
-        <p className="text-gray-500 text-sm mt-4 italic border-l-2 border-gray-200 pl-3">
+        <p className="text-green-800 text-sm mt-4 italic border-l-2 border-gray-200 pl-3">
           {question.description}
         </p>
       )}

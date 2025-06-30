@@ -1,0 +1,3386 @@
+[
+  {
+    "question": "In state transition testing, what is primarily examined?",
+    "options": [
+      "The percentage of executable statements tested",
+      "The internal structure of the code",
+      "The flow of data through the program",
+      "The software's response to different events in various states"
+    ],
+    "description": "Single choice",
+    "answer": ["The software's response to different events in various states"]
+  },
+  {
+    "question": "During which test level are stubs and drivers most commonly used?",
+    "options": [
+      "Component testing",
+      "System testing",
+      "Integration testing",
+      "Acceptance testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Integration testing"]
+  },
+  {
+    "question": "What distinguishes maintenance testing from new software testing?",
+    "options": [
+      "Maintenance testing is optional.",
+      "Maintenance testing deals with existing operational systems.",
+      "Maintenance testing is less structured.",
+      "Maintenance testing focuses only on new software features."
+    ],
+    "description": "Single choice",
+    "answer": ["Maintenance testing deals with existing operational systems."]
+  },
+  {
+    "question": "Which of the following are key objectives of static analysis?",
+    "options": [
+      "Finding potential security vulnerabilities",
+      "Identifying runtime performance issues",
+      "Locating unreachable code",
+      "Detecting coding standard violations"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Finding potential security vulnerabilities",
+      "Locating unreachable code",
+      "Detecting coding standard violations"
+    ]
+  },
+  {
+    "question": "What is static analysis?",
+    "options": [
+      "Examining code structure and syntax without executing the program",
+      "Executing the program to find errors",
+      "Checking the performance of the software"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Examining code structure and syntax without executing the program"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following techniques are classified as White Box testing?<br></p><p dir=\"ltr\" style=\"text-align: left;\">i.&nbsp; Statement Coverage<br>ii.&nbsp; Branch Coverage<br>iii. Equivalence Partitioning<br>iv.&nbsp; Paths Through Code<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iv</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iv</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>"
+    ],
+    "description": "Single choice",
+    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iv</p>"]
+  },
+  {
+    "question": "How does ad-hoc corrective maintenance differ from planned maintenance?",
+    "options": [
+      "It occurs as a response to immediate and critical defects.",
+      "It is less important and can be delayed indefinitely.",
+      "It involves extensive documentation and planning.",
+      "It is scheduled regularly and involves no urgent fixes."
+    ],
+    "description": "Single choice",
+    "answer": ["It occurs as a response to immediate and critical defects."]
+  },
+  {
+    "question": "Which factors contribute to the long-term costs of reviews?",
+    "options": [
+      "Increased training costs for reviewers",
+      "High cost of dynamic testing in later stages",
+      "Delays caused by excessive review meetings",
+      "Inefficient review processes leading to missed defects"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Delays caused by excessive review meetings",
+      "Inefficient review processes leading to missed defects"
+    ]
+  },
+  {
+    "question": "What type of testing would include load and performance testing?",
+    "options": [
+      "Acceptance testing",
+      "Integration testing",
+      "Component testing",
+      "System testing"
+    ],
+    "description": "Single choice",
+    "answer": ["System testing"]
+  },
+  {
+    "question": "Which of the following are examples of test scenarios best suited for black-box testing?",
+    "options": [
+      "Verifying the sorting algorithm within the code",
+      "Measuring the code coverage of a module",
+      "Testing the login functionality of a web application",
+      "Checking the response of an API to invalid inputs"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Testing the login functionality of a web application",
+      "Checking the response of an API to invalid inputs"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\"><span>What is Cyclomatic complexity ?</span></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Black box testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Yellow box testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Green box testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">White box testing<br></p>"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">White box testing<br></p>"
+    ]
+  },
+  {
+    "question": "What is the goal of decision coverage in white-box testing?",
+    "options": [
+      "Measure the extent to which internal structure is tested",
+      "Ensure every statement in the code is executed at least once",
+      "Test the software's response to different events in various states",
+      "Ensure every decision point is tested for both true and false outcomes"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Ensure every decision point is tested for both true and false outcomes"
+    ]
+  },
+  {
+    "question": "In what scenario might emergency changes require maintenance testing?",
+    "options": [
+      "When planned changes are to be implemented in the next release cycle.",
+      "When the system operates as expected without any issues.",
+      "When developers decide to redesign the user interface.",
+      "When immediate unforeseen issues need resolution to prevent system failure."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "When immediate unforeseen issues need resolution to prevent system failure."
+    ]
+  },
+  {
+    "question": "What are the primary characteristics of static testing?",
+    "options": [
+      "It includes activities like code reviews and walkthroughs",
+      "It is performed without executing the code",
+      "It helps identify defects early in the development lifecycle",
+      "It focuses on finding defects in the runtime behavior of the software"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "It includes activities like code reviews and walkthroughs",
+      "It is performed without executing the code",
+      "It helps identify defects early in the development lifecycle"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which black-box test techniques help in ensuring all possible combinations of inputs are tested?<br></p><p dir=\"ltr\" style=\"text-align: left;\"></p><span style=\"font-size: calc(0.90375rem + 0.045vw);\">i.&nbsp; Decision Table Testing</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">ii.&nbsp; Boundary Value Analysis</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">iii.&nbsp; Equivalence Partitioning</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">iv.&nbsp; Statement Coverage</span><br><br><p></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iii, iv</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii, iv</p>"
+    ],
+    "description": "Single choice",
+    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>"]
+  },
+  {
+    "question": "Which of the following are hidden costs of reviews?",
+    "options": [
+      "Increased runtime errors in production",
+      "Overhead from managing large review teams",
+      "Costs associated with preparing detailed review reports",
+      "Time lost due to incomplete or unclear review guidelines"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Overhead from managing large review teams",
+      "Time lost due to incomplete or unclear review guidelines"
+    ]
+  },
+  {
+    "question": "What does interoperability testing aim to verify?",
+    "options": [
+      "The ability of the system to withstand stress.",
+      "The system's capacity to interact with other systems.",
+      "The compliance of the system with security standards.",
+      "The system's ability to operate in different environments."
+    ],
+    "description": "Single choice",
+    "answer": ["The system's capacity to interact with other systems."]
+  },
+  {
+    "question": "Which factor is important for the success of reviews in static testing?",
+    "options": [
+      "Lack of preparation",
+      "Undefined roles",
+      "Minimal communication",
+      "Clear objectives and scope"
+    ],
+    "description": "Single choice",
+    "answer": ["Clear objectives and scope"]
+  },
+  {
+    "question": "What is a primary characteristic of agile development methodologies like Extreme Programming (XP)?",
+    "options": [
+      "Extensive planning and documentation are required.",
+      "Avoids user involvement to streamline testing.",
+      "Emphasizes frequent iteration and continuous feedback.",
+      "Development is sequential and rigid."
+    ],
+    "description": "Single choice",
+    "answer": ["Emphasizes frequent iteration and continuous feedback."]
+  },
+  {
+    "question": "Which costs are incurred when reviews are not conducted effectively?",
+    "options": [
+      "Higher defect leakage to later stages of development",
+      "Reduced cost of dynamic testing",
+      "Lower resource utilization during review sessions",
+      "Increased rework effort due to missed defects"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Higher defect leakage to later stages of development",
+      "Increased rework effort due to missed defects"
+    ]
+  },
+  {
+    "question": "Which of the following are costs that can be minimized through efficient review processes?",
+    "options": [
+      "Cost of maintaining outdated review templates",
+      "Time spent on defect rework",
+      "Effort required to identify root causes of defects",
+      "Cost of tools for dynamic testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Time spent on defect rework",
+      "Effort required to identify root causes of defects"
+    ]
+  },
+  {
+    "question": "Which of the following techniques are used to identify test cases in black-box testing?",
+    "options": [
+      "Use case testing",
+      "Code review",
+      "Path testing",
+      "Decision table testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Use case testing", "Decision table testing"]
+  },
+  {
+    "question": "Which of the following best describes compliance testing?",
+    "options": [
+      "Testing against internal company standards.",
+      "Testing against external standards that the product is expected to meet.",
+      "Testing against user requirements.",
+      "Testing the system's performance under various network conditions."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Testing against external standards that the product is expected to meet."
+    ]
+  },
+  {
+    "question": "What is an example of perfective maintenance?",
+    "options": [
+      "Enhancing software performance based on user feedback.",
+      "Adapting software to run on a new operating system.",
+      "Fixing a security flaw found during a routine check.",
+      "Archiving old data as part of system retirement."
+    ],
+    "description": "Single choice",
+    "answer": ["Enhancing software performance based on user feedback."]
+  },
+  {
+    "question": "Which of the following are advantages of black-box testing techniques?",
+    "options": [
+      "It guarantees zero defects in the software",
+      "Testers can focus on user experience and functionality",
+      "It ensures complete code coverage",
+      "Tests can be designed without knowledge of the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Testers can focus on user experience and functionality",
+      "Tests can be designed without knowledge of the code"
+    ]
+  },
+  {
+    "question": "Which tools are commonly used in static analysis?",
+    "options": [
+      "Vulnerability scanners",
+      "Linting tools (e.g., ESLint, Pylint)",
+      "Code coverage tools",
+      "Compilers with built-in error checking"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Vulnerability scanners",
+      "Linting tools (e.g., ESLint, Pylint)",
+      "Compilers with built-in error checking"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Static Analysis involves formal or informal evaluation of documents and code by reviewers.<br></p>",
+    "options": ["false", "true"],
+    "description": "Single choice",
+    "answer": ["false"]
+  },
+  {
+    "question": "Why might a software team conduct alpha testing?",
+    "options": [
+      "To perform stress testing exclusively.",
+      "To test the software in a controlled environment with the presence of developers.",
+      "To replace system testing.",
+      "To correct all remaining defects."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To test the software in a controlled environment with the presence of developers."
+    ]
+  },
+  {
+    "question": "What is a primary objective of static analysis?",
+    "options": [
+      "Identify syntax errors and potential vulnerabilities without executing code",
+      "Measure the performance of the software",
+      "Test the boundaries between partitions",
+      "Ensure every statement in the code is executed at least once"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Identify syntax errors and potential vulnerabilities without executing code"
+    ]
+  },
+  {
+    "question": "What is the primary focus of validation testing within any software development life cycle?",
+    "options": [
+      "Ensuring the software meets user needs and requirements.",
+      "Finding as many defects as possible.",
+      "Ensuring the software is developed in a sequential manner.",
+      "Checking the software against specifications."
+    ],
+    "description": "Single choice",
+    "answer": ["Ensuring the software meets user needs and requirements."]
+  },
+  {
+    "question": "What does the term \"Big-bang model\" imply about the approach to software development?",
+    "options": [
+      "Regular testing from the beginning of the project",
+      "User involvement is mandatory",
+      "Integration of all components at once without prior testing",
+      "Detailed and extensive planning"
+    ],
+    "description": "Single choice",
+    "answer": ["Integration of all components at once without prior testing"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Data flow analysis tracks the flow of data through the program to identify anomalies.<br></p>",
+    "options": ["false", "true"],
+    "description": "Single choice",
+    "answer": ["true"]
+  },
+  {
+    "question": "Which of the following are examples of boundary value analysis in black-box testing?",
+    "options": [
+      "Testing the internal logic of a loop",
+      "Testing inputs that exceed the maximum allowed limit",
+      "Testing input values at the edges of valid ranges",
+      "Testing all possible paths in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Testing inputs that exceed the maximum allowed limit",
+      "Testing input values at the edges of valid ranges"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following are static (non-execution) techniques?<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">State Transition Testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Equivalence Partitioning<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Reviews<br></p>"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Reviews<br></p>"
+    ]
+  },
+  {
+    "question": "How does the RAD model handle changes in requirements?",
+    "options": [
+      "Changes are discouraged once development begins.",
+      "Only initial requirements are considered throughout the project.",
+      "It allows for rapid changes and adaptation during development cycles.",
+      "Changes are addressed only during the final stages."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "It allows for rapid changes and adaptation during development cycles."
+    ]
+  },
+  {
+    "question": "What are the main differences between static testing and dynamic testing?",
+    "options": [
+      "Static testing is only applicable to functional testing scenarios",
+      "Static testing is performed without executing the code, while dynamic testing requires code execution",
+      "Static testing is less effective in detecting runtime errors compared to dynamic testing",
+      "Dynamic testing focuses on verifying system behavior under various conditions"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Static testing is performed without executing the code, while dynamic testing requires code execution",
+      "Static testing is less effective in detecting runtime errors compared to dynamic testing",
+      "Dynamic testing focuses on verifying system behavior under various conditions"
+    ]
+  },
+  {
+    "question": "Which testing is performed at the end of a development cycle in the waterfall model?",
+    "options": [
+      "Component testing",
+      "Acceptance testing",
+      "System testing",
+      "Integration testing"
+    ],
+    "description": "Single choice",
+    "answer": ["System testing"]
+  },
+  {
+    "question": "In the context of software testing, what is confirmation testing also known as?",
+    "options": [
+      "Regression testing",
+      "Black-box testing",
+      "Performance testing",
+      "Re-testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Re-testing"]
+  },
+  {
+    "question": "What is the goal of structural testing?",
+    "options": [
+      "To ensure that the system can operate under stress.",
+      "To verify the external functioning of the software.",
+      "To assess the internal structures or workings of a program.",
+      "To validate the behavior of a system based on its intended use."
+    ],
+    "description": "Single choice",
+    "answer": ["To assess the internal structures or workings of a program."]
+  },
+  {
+    "question": "What is tested during interoperability testing?",
+    "options": [
+      "System's ability to function with different browsers.",
+      "System's performance under peak user loads.",
+      "System's ability to interact with other systems and exchange data.",
+      "Interaction between components within the system."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "System's ability to interact with other systems and exchange data."
+    ]
+  },
+  {
+    "question": "Which of the following are valid use cases for equivalence partitioning in black-box testing?",
+    "options": [
+      "Testing every possible input value individually",
+      "Grouping inputs that produce similar outputs",
+      "Focusing exclusively on code-level defects",
+      "Reducing the number of test cases by identifying representative inputs"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Grouping inputs that produce similar outputs",
+      "Reducing the number of test cases by identifying representative inputs"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of static testing techniques?",
+    "options": [
+      "Boundary value analysis",
+      "Inspections",
+      "Walkthroughs",
+      "Code reviews"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Inspections", "Walkthroughs", "Code reviews"]
+  },
+  {
+    "question": "What should be the focus of maintenance testing when a system is retired?",
+    "options": [
+      "Testing new user interfaces for the system.",
+      "There is no need for testing when a system is retired.",
+      "Ensuring data migration or archiving processes work correctly.",
+      "Implementing new features as requested by users."
+    ],
+    "description": "Single choice",
+    "answer": ["Ensuring data migration or archiving processes work correctly."]
+  },
+  {
+    "question": "Which technique uses tables to represent combinations of inputs and outputs?",
+    "options": [
+      "Decision table testing",
+      "Boundary value analysis",
+      "Equivalence partitioning",
+      "State transition testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Decision table testing"]
+  },
+  {
+    "question": "What are the key benefits of static testing?",
+    "options": [
+      "Enhanced code maintainability",
+      "Early detection of defects",
+      "Improved system performance during runtime",
+      "Reduced cost of fixing defects"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Enhanced code maintainability",
+      "Early detection of defects",
+      "Reduced cost of fixing defects"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of functional defects?",
+    "options": [
+      "Poor response time under heavy load",
+      "Incorrect calculations in a financial application",
+      "Missing required features",
+      "Security vulnerabilities"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Incorrect calculations in a financial application",
+      "Missing required features"
+    ]
+  },
+  {
+    "question": "What does static analysis not assess?",
+    "options": [
+      "Software performance",
+      "Security vulnerabilities",
+      "Syntax errors",
+      "Code smells"
+    ],
+    "description": "Single choice",
+    "answer": ["Software performance"]
+  },
+  {
+    "question": "What are the key benefits of static testing?",
+    "options": [
+      "Improved system performance during runtime",
+      "Reduced cost of fixing defects",
+      "Enhanced code maintainability",
+      "Early detection of defects"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Reduced cost of fixing defects",
+      "Enhanced code maintainability",
+      "Early detection of defects"
+    ]
+  },
+  {
+    "question": "Which type of review in static testing is the most formal and follows a strict, structured process?",
+    "options": [
+      "Walkthrough",
+      "Informal review",
+      "Inspection",
+      "Technical review"
+    ],
+    "description": "Single choice",
+    "answer": ["Inspection"]
+  },
+  {
+    "question": "Which of the following are critical aspects of dynamic testing?",
+    "options": [
+      "Ensuring compliance with coding standards",
+      "Verifying the functionality of the software during execution",
+      "Detecting runtime errors and failures",
+      "Measuring software performance under load"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Verifying the functionality of the software during execution",
+      "Detecting runtime errors and failures",
+      "Measuring software performance under load"
+    ]
+  },
+  {
+    "question": "Which of the following defects are related to usability issues?",
+    "options": [
+      "Inconsistent screen layouts",
+      "Confusing navigation in a user interface",
+      "Memory leaks in the application",
+      "Incorrect API responses"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Inconsistent screen layouts",
+      "Confusing navigation in a user interface"
+    ]
+  },
+  {
+    "question": "Which types of defects are most likely to cause security issues?",
+    "options": [
+      "Slow database queries",
+      "Missing error messages",
+      "Hardcoded passwords in the code",
+      "Improper input validation"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Hardcoded passwords in the code", "Improper input validation"]
+  },
+  {
+    "question": "Which types of testing fall under dynamic testing?",
+    "options": [
+      "Functional testing",
+      "Usability testing",
+      "Code inspections",
+      "Performance testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Functional testing", "Usability testing", "Performance testing"]
+  },
+  {
+    "question": "What are the typical challenges of static and dynamic testing?",
+    "options": [
+      "Static testing requires significant manual effort for reviews",
+      "Dynamic testing may fail to cover all possible execution paths",
+      "Static analysis tools may produce false positives",
+      "Dynamic testing is only suitable for small-scale projects"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Static testing requires significant manual effort for reviews",
+      "Dynamic testing may fail to cover all possible execution paths",
+      "Static analysis tools may produce false positives"
+    ]
+  },
+  {
+    "question": "Which type of review is typically led by the author of the work product and focuses on gathering feedback?",
+    "options": [
+      "Technical review",
+      "Walkthrough",
+      "Inspection",
+      "Informal review"
+    ],
+    "description": "Single choice",
+    "answer": ["Walkthrough"]
+  },
+  {
+    "question": "Which of the following tools can assist in black-box testing techniques?",
+    "options": [
+      "Code coverage measurement tools",
+      "Test management tools (e.g., JIRA, TestRail)",
+      "Automated functional testing tools (e.g., Selenium, Postman)",
+      "Static code analysis tools (e.g., SonarQube)"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Test management tools (e.g., JIRA, TestRail)",
+      "Automated functional testing tools (e.g., Selenium, Postman)"
+    ]
+  },
+  {
+    "question": "Which defects are typically related to performance problems?",
+    "options": [
+      "Incorrect business logic",
+      "Memory leaks",
+      "Broken links in the UI",
+      "Inefficient algorithms"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Memory leaks", "Inefficient algorithms"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">What is Verification?<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\"></p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"634\"> <tbody><tr>  <td width=\"495\" valign=\"top\">  <p>The process of evaluating a system  or component</p>  </td> </tr></tbody></table><br><p></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\"><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"634\"> <tbody><tr>  <td width=\"495\" valign=\"top\">  <p>Determination of the correctness of the products of  software development</p>  </td> </tr></tbody></table><br>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">The process of detecting and removing ofexisting and potential errors in a software code<br></p>"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\"></p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"634\"> <tbody><tr>  <td width=\"495\" valign=\"top\">  <p>The process of evaluating a system  or component</p>  </td> </tr></tbody></table><br><p></p>"
+    ]
+  },
+  {
+    "question": "What distinguishes stress testing from load testing?",
+    "options": [
+      "Stress testing measures the system's performance under extreme conditions, while load testing measures under normal conditions.",
+      "Stress testing is concerned with functional requirements, whereas load testing focuses on performance.",
+      "Stress testing is a type of functional testing, while load testing is non-functional.",
+      "There is no difference; both are focused on performance under extreme conditions."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Stress testing measures the system's performance under extreme conditions, while load testing measures under normal conditions."
+    ]
+  },
+  {
+    "question": "What is the purpose of beta testing within the acceptance testing phase?",
+    "options": [
+      "To provide a final round of performance testing before public release.",
+      "To allow potential users to evaluate the software in their own environment.",
+      "To perform security testing by exposing the software to the end users.",
+      "To assess the compatibility of the software with other software."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To allow potential users to evaluate the software in their own environment."
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of white-box testing techniques?",
+    "options": [
+      "Testing is based on the internal structure of the code",
+      "Testers require knowledge of the code implementation",
+      "Testing focuses on input-output behavior only",
+      "Testing can be used to verify code paths and logic"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Testing is based on the internal structure of the code",
+      "Testers require knowledge of the code implementation",
+      "Testing can be used to verify code paths and logic"
+    ]
+  },
+  {
+    "question": "What should integration testing primarily focus on?",
+    "options": [
+      "Ensuring that software modules work together",
+      "Evaluating user satisfaction with the product",
+      "Testing the database and data processing",
+      "Checking that the system is ready for live deployment"
+    ],
+    "description": "Single choice",
+    "answer": ["Ensuring that software modules work together"]
+  },
+  {
+    "question": "At which test level is user feedback most significant?",
+    "options": [
+      "Component testing",
+      "Integration testing",
+      "System testing",
+      "Acceptance testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Acceptance testing"]
+  },
+  {
+    "question": "How do Agile methodologies handle testing compared to traditional models?",
+    "options": [
+      "Testing is outsourced to ensure objectivity.",
+      "Testing is less frequent and follows a strict schedule.",
+      "Testing is conducted only after development is completed.",
+      "Testing and development are intertwined throughout the project lifecycle."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Testing and development are intertwined throughout the project lifecycle."
+    ]
+  },
+  {
+    "question": "What does change-related testing include?",
+    "options": [
+      "Security and reliability testing",
+      "Confirmation and regression testing",
+      "Usability and compliance testing",
+      "Performance and stress testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Confirmation and regression testing"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which work products can be examined during static testing?<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Source code<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">User manuals<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Performance logs<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Requirements documents<br></p>"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Source code<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">User manuals<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Requirements documents<br></p>"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">What are the costs associated with reviews in static testing?<br></p><p dir=\"ltr\" style=\"text-align: left;\">i.&nbsp; Time and resources spent by reviewers.</p><p dir=\"ltr\" style=\"text-align: left;\">ii.&nbsp; Increased system performance.</p><p dir=\"ltr\" style=\"text-align: left;\">iii.&nbsp;&nbsp;Training and preparation costs.</p><p dir=\"ltr\" style=\"text-align: left;\">iv.&nbsp; Costs related to load testing tools<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iii<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iv</p>"
+    ],
+    "description": "Single choice",
+    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>"]
+  },
+  {
+    "question": "Which of the following review types is best suited for quickly identifying obvious defects without formal documentation?",
+    "options": [
+      "Inspection",
+      "Walkthrough",
+      "Informal review",
+      "Technical review"
+    ],
+    "description": "Single choice",
+    "answer": ["Informal review"]
+  },
+  {
+    "question": "What is a key characteristic of the V-model of software development?",
+    "options": [
+      "It includes early test design and planning.",
+      "It is a non-iterative model.",
+      "Testing is only done after coding.",
+      "Feedback is not encouraged throughout the process."
+    ],
+    "description": "Single choice",
+    "answer": ["It includes early test design and planning."]
+  },
+  {
+    "question": "What distinguishes integration testing from other levels of testing?",
+    "options": [
+      "It verifies the interaction between different components within a system",
+      "It is always performed by external testers",
+      "It focuses on the system's non-functional characteristics",
+      "It tests the system's compliance with regulatory standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "It verifies the interaction between different components within a system"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of compatibility defects?",
+    "options": [
+      "Application not running on a specific browser version",
+      "Failure to support a specific operating system",
+      "Incorrect calculations in a report",
+      "Missing error handling in a form"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Application not running on a specific browser version",
+      "Failure to support a specific operating system"
+    ]
+  },
+  {
+    "question": "What is primarily verified during component testing?",
+    "options": [
+      "Compliance with business and regulatory requirements",
+      "The system's overall performance and reliability",
+      "The functionality of specific, isolated parts of the software",
+      "The interaction between different software applications"
+    ],
+    "description": "Single choice",
+    "answer": ["The functionality of specific, isolated parts of the software"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which activities are part of static testing?<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Performance testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Inspections<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Stress testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Inspections<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>"
+    ]
+  },
+  {
+    "question": "What is the main reason for performing component integration testing?",
+    "options": [
+      "To test the system's performance under load",
+      "To assess the system's overall behavior",
+      "To evaluate system security",
+      "To verify the interactions between different components"
+    ],
+    "description": "Single choice",
+    "answer": ["To verify the interactions between different components"]
+  },
+  {
+    "question": "What is the primary focus of component testing?",
+    "options": [
+      "To verify the behavior of the entire system",
+      "To test the system's response to non-functional requirements",
+      "To identify defects within separately testable components",
+      "To test the interactions between different systems"
+    ],
+    "description": "Single choice",
+    "answer": ["To identify defects within separately testable components"]
+  },
+  {
+    "question": "Which of the following techniques are commonly used in white-box testing?",
+    "options": [
+      "Statement coverage",
+      "Decision coverage",
+      "Equivalence partitioning",
+      "Path coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Statement coverage", "Decision coverage", "Path coverage"]
+  },
+  {
+    "question": "What is the primary goal of system testing?",
+    "options": [
+      "To ensure the system as a whole meets specified requirements",
+      "To validate the software against user expectations",
+      "To verify the functionality of individual components",
+      "To test interactions within an integrated environment"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure the system as a whole meets specified requirements"]
+  },
+  {
+    "question": "Which model is known for its adaptability to changing project scope at any point during the project?",
+    "options": ["Waterfall model", "Spiral model", "Agile model", "V-model"],
+    "description": "Single choice",
+    "answer": ["Agile model"]
+  },
+  {
+    "question": "Which of the following work products can be examined during static testing?",
+    "options": [
+      "Executable code",
+      "Test environments",
+      "Requirements specifications",
+      "Design documents"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Requirements specifications", "Design documents"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\"><span lang=\"EN\">_____________x000D_\nis a type of incremental integration testing approach, low-level modules are_x000D_\ntested first, and then high-level modules are tested</span><br><br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Top-Down Testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Bottom-up Testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Big-Bang Testing<br></p>"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Bottom-up Testing<br></p>"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\"><span lang=\"EN\">____________is_x000D_\na type of testing where software modules are integrated logically and tested as_x000D_\na group.</span><br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Integration testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Unit testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Regression testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Validation testing<br></p>"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Integration testing<br></p>"
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">The Cyclomatic complexity C = _____<br></p><p dir=\"ltr\" style=\"text-align: left;\"><br><img src=\"https://edunextstrorage.blob.core.windows.net/image/c6076d52-fb1b-4555-a093-7e47ec71835e-question-import-from-xml-0\" alt=\"Image\" style=\"cursor: pointer; width: auto!important; height: auto!important; max-width: 350px!important;\"><br><br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">4</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">5</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">3</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">2</p>"
+    ],
+    "description": "Single choice",
+    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">3</p>"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Static testing involves executing the program to identify defects.<br></p>",
+    "options": ["true", "false"],
+    "description": "Single choice",
+    "answer": ["false"]
+  },
+  {
+    "question": "What is a characteristic of non-functional testing?",
+    "options": [
+      "It does not include performance testing.",
+      "It is always performed after functional testing.",
+      "It focuses on how well the system performs certain actions.",
+      "It is concerned solely with what the system does."
+    ],
+    "description": "Single choice",
+    "answer": ["It focuses on how well the system performs certain actions."]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which techniques are used to ensure all possible branches of the code are tested?<br></p><p dir=\"ltr\" style=\"text-align: left;\"></p><span style=\"font-size: calc(0.90375rem + 0.045vw);\">i.&nbsp; Decision Table Testing</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">ii.&nbsp; Equivalence Partitioning<br></span><span>iii.&nbsp; Branch Coverage</span><br>iv.&nbsp; Paths Through Code<br><br><p></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">iii, iv</p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii, iv</p>"
+    ],
+    "description": "Single choice",
+    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">iii, iv</p>"]
+  },
+  {
+    "question": "Which type of testing focuses on the system's non-functional attributes?",
+    "options": [
+      "Usability testing",
+      "Functional testing",
+      "Structural testing",
+      "Compliance testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Usability testing"]
+  },
+  {
+    "question": "Which of the following is NOT typically an objective of acceptance testing?",
+    "options": [
+      "To catch all defects before the product reaches the market.",
+      "To evaluate system security from an end-user perspective.",
+      "To determine if the system satisfies the user and business requirements.",
+      "To verify the system is acceptable for delivery."
+    ],
+    "description": "Single choice",
+    "answer": ["To catch all defects before the product reaches the market."]
+  },
+  {
+    "question": "Which of the following are examples of documentation reviewed during static testing?",
+    "options": [
+      "Performance logs",
+      "User manuals",
+      "Test plans",
+      "Code structure diagrams"
+    ],
+    "description": "Multiple choice",
+    "answer": ["User manuals", "Test plans"]
+  },
+  {
+    "question": "Which of the following factors influence the choice of test techniques?",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Time &amp; Budget<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Tester Knowledge &amp; Skills<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Available Tools<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Test Environment<br></p>"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Time &amp; Budget<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Tester Knowledge &amp; Skills<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Available Tools<br></p>"
+    ]
+  },
+  {
+    "question": "Which of the following is the least formal type of review in static testing?",
+    "options": [
+      "Inspection",
+      "Walkthrough",
+      "Informal review",
+      "Technical review"
+    ],
+    "description": "Single choice",
+    "answer": ["Informal review"]
+  },
+  {
+    "question": "Which of the following is a structural (white box) testing technique?",
+    "options": [
+      "Decision table testing",
+      "Branch coverage",
+      "Equivalence partitioning",
+      "State transition testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Branch coverage"]
+  },
+  {
+    "question": "What distinguishes system testing from integration testing?",
+    "options": [
+      "Integration testing focuses on performance and efficiency.",
+      "System testing is performed first.",
+      "Integration testing validates the product against user expectations.",
+      "System testing focuses on external behaviors and interfaces."
+    ],
+    "description": "Single choice",
+    "answer": ["System testing focuses on external behaviors and interfaces."]
+  },
+  {
+    "question": "Which of the following are examples of test scenarios best suited for white-box testing?",
+    "options": [
+      "Checking the performance of a web application",
+      "Verifying the control flow of a loop",
+      "Identifying unused variables in the code",
+      "Testing the logic of a sorting algorithm"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Verifying the control flow of a loop",
+      "Identifying unused variables in the code",
+      "Testing the logic of a sorting algorithm"
+    ]
+  },
+  {
+    "question": "In iterative models, what type of testing becomes increasingly important with each increment?",
+    "options": [
+      "Component testing",
+      "Acceptance testing",
+      "Regression testing",
+      "System testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Regression testing"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">What are the success factors for reviews in static testing?<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Clear objectives and scope<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Extensive performance testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Frequent code execution<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Effective communication and collaboration<br></p>"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Clear objectives and scope<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Effective communication and collaboration<br></p>"
+    ]
+  },
+  {
+    "question": "What triggers maintenance testing?",
+    "options": [
+      "The initial development of the software.",
+      "Modifications, migration, or retirement of the system.",
+      "Routine checks when no changes have been made to the software.",
+      "Only when the software fails completely."
+    ],
+    "description": "Single choice",
+    "answer": ["Modifications, migration, or retirement of the system."]
+  },
+  {
+    "question": "When is maintenance testing considered successful?",
+    "options": [
+      "When it confirms that the maintenance objectives have been met and the system functions as expected.",
+      "When no tests fail.",
+      "When it only focuses on new functions.",
+      "When the entire software is rewritten."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "When it confirms that the maintenance objectives have been met and the system functions as expected."
+    ]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">One of the benefits of static testing is the early detection of defects.<br></p>",
+    "options": ["true", "false"],
+    "description": "Single choice",
+    "answer": ["true"]
+  },
+  {
+    "question": "Which of the following are primary objectives of data flow analysis in static testing?",
+    "options": [
+      "Analyzing code performance",
+      "Identifying unreachable code",
+      "Detecting variable misuse",
+      "Ensuring code readability"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Identifying unreachable code", "Detecting variable misuse"]
+  },
+  {
+    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following are static analysis techniques?<br></p>",
+    "options": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Control flow analysis<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Data flow analysis<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Load testing<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Stress testing<br></p>"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "<p dir=\"ltr\" style=\"text-align: left;\">Control flow analysis<br></p>",
+      "<p dir=\"ltr\" style=\"text-align: left;\">Data flow analysis<br></p>"
+    ]
+  },
+  {
+    "question": "In which model is the 'test often and early' principle most emphasized?",
+    "options": ["V-model", "Waterfall model", "Agile model", "RAD"],
+    "description": "Single choice",
+    "answer": ["Agile model"]
+  },
+  {
+    "question": "How does the Spiral model address risk in software development?",
+    "options": [
+      "Risk assessment is optional.",
+      "It identifies and mitigates risks in iterative phases.",
+      "It ignores risk until the final phases.",
+      "It only addresses risk during the first cycle."
+    ],
+    "description": "Single choice",
+    "answer": ["It identifies and mitigates risks in iterative phases."]
+  },
+  {
+    "question": "Which work products are typically examined in static testing to ensure alignment with requirements?",
+    "options": [
+      "Test scripts",
+      "Business process models",
+      "Code execution reports",
+      "Functional specifications"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Business process models", "Functional specifications"]
+  },
+  {
+    "question": "Which testing type is specifically designed to verify that the system meets regulatory requirements?",
+    "options": [
+      "Security testing",
+      "Usability testing",
+      "Compliance testing",
+      "Stress testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Compliance testing"]
+  },
+  {
+    "question": "What is the goal of configuration testing?",
+    "options": [
+      "To determine how software performs under typical usage conditions.",
+      "To establish the optimal configuration settings for the software.",
+      "To validate the security settings of the software.",
+      "To see how well the software performs on different hardware and software configurations."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To see how well the software performs on different hardware and software configurations."
+    ]
+  },
+  {
+    "question": "Which elements are commonly analyzed during data flow analysis in static testing?",
+    "options": [
+      "Function calls",
+      "Variable usages",
+      "Variable definitions",
+      "Code comments"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Variable usages", "Variable definitions"]
+  },
+  {
+    "question": "Which techniques are often used in data flow analysis to identify issues in code?",
+    "options": [
+      "Syntax highlighting",
+      "Code beautification",
+      "Control flow graph",
+      "Data flow graph"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Control flow graph", "Data flow graph"]
+  },
+  {
+    "question": "Which of the following are objectives of static testing?",
+    "options": [
+      "Identify defects early in the development cycle",
+      "Verify adherence to coding standards",
+      "Ensure software meets performance requirements",
+      "Improve software quality"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Identify defects early in the development cycle",
+      "Verify adherence to coding standards",
+      "Improve software quality"
+    ]
+  },
+  {
+    "question": "Which of the following metrics are used in white-box testing to measure code coverage?",
+    "options": [
+      "Statement coverage",
+      "User acceptance coverage",
+      "Branch coverage",
+      "Function coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Statement coverage", "Branch coverage", "Function coverage"]
+  },
+  {
+    "question": "Which of the following are experience-based test techniques?",
+    "options": [
+      "Exploratory Testing",
+      "Decision Coverage",
+      "Equivalence Partitioning",
+      "Error Guessing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Exploratory Testing", "Error Guessing"]
+  },
+  {
+    "question": "Why is regression testing important in all levels of testing?",
+    "options": [
+      "It ensures that new features work as expected.",
+      "It helps to catch new errors introduced by changes or enhancements.",
+      "It checks the stability of a software release.",
+      "It is only required during system testing."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "It helps to catch new errors introduced by changes or enhancements."
+    ]
+  },
+  {
+    "question": "Why is load testing conducted?",
+    "options": [
+      "To ensure that the software meets functional requirements.",
+      "To verify the system's behavior under normal conditions.",
+      "To measure the system's response to being accessed by many users simultaneously.",
+      "To confirm the system's compatibility with other software."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To measure the system's response to being accessed by many users simultaneously."
+    ]
+  },
+  {
+    "question": "What is white box testing?",
+    "options": [
+      "Cause-effect graphing",
+      "Equivalence partitioning",
+      "State transition testing",
+      "Data flow testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Data flow testing"]
+  },
+  {
+    "question": "Branch Coverage and Decision Coverage are the same, both ensuring all decision points are evaluated.",
+    "options": ["false", "true"],
+    "description": "Single choice",
+    "answer": ["false"]
+  },
+  {
+    "question": "Alpha testing is done at _______",
+    "options": [
+      "Userâ��s end",
+      "Developerâ��s & Userâ��s end",
+      "Developerâ��s end"
+    ],
+    "description": "Single choice",
+    "answer": ["Developerâ��s end"]
+  },
+  {
+    "question": "What type of testing is specifically designed to test the interfaces between components?",
+    "options": [
+      "Acceptance testing",
+      "Component testing",
+      "System testing",
+      "Integration testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Integration testing"]
+  },
+  {
+    "question": "Structural Coverage is a black-box testing technique.",
+    "options": ["false", "true"],
+    "description": "Single choice",
+    "answer": ["false"]
+  },
+  {
+    "question": "Which defects are typically caused by boundary-related issues?",
+    "options": [
+      "Failure to handle maximum input values",
+      "Incorrect calculations in formulas",
+      "Poor documentation of requirements",
+      "Crashes when input length exceeds limits"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Failure to handle maximum input values",
+      "Crashes when input length exceeds limits"
+    ]
+  },
+  {
+    "question": "White Box techniques are also classified as ___________",
+    "options": [
+      "Error guessing technique",
+      "Structural testing",
+      "Design based testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Structural testing"]
+  },
+  {
+    "question": "What is the primary objective of functional testing?",
+    "options": [
+      "To verify that the software functions according to the specified requirements.",
+      "To check the internal code structure of the software.",
+      "To assess the system's non-functional characteristics like performance.",
+      "To evaluate the system's capacity to handle high loads."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To verify that the software functions according to the specified requirements."
+    ]
+  },
+  {
+    "question": "Which of the following best describes the purpose of regression testing?",
+    "options": [
+      "To check the compliance of software with business requirements",
+      "To validate the functionality of a software component",
+      "To confirm that a recent program or code change has not adversely affected existing features",
+      "To ensure that the interfaces between components function correctly"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To confirm that a recent program or code change has not adversely affected existing features"
+    ]
+  },
+  {
+    "question": "Maintenance testing is performed using which methodology?",
+    "options": [
+      "Retesting",
+      "Breadth test and depth test",
+      "Confirmation testing",
+      "Sanity testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Breadth test and depth test"]
+  },
+  {
+    "question": "Which technique involves testers using their experience to guess where defects might be found?",
+    "options": [
+      "Boundary value analysis",
+      "State transition testing",
+      "Error guessing",
+      "Exploratory testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Error guessing"]
+  },
+  {
+    "question": "Which of the following are objectives of static testing related to quality improvement?",
+    "options": [
+      "Improving test execution speed",
+      "Ensuring adherence to coding and design standards",
+      "Identifying incomplete or ambiguous requirements",
+      "Detecting inconsistencies in documentation"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Ensuring adherence to coding and design standards",
+      "Identifying incomplete or ambiguous requirements",
+      "Detecting inconsistencies in documentation"
+    ]
+  },
+  {
+    "question": "Which of the following defects are related to logical errors?",
+    "options": [
+      "Unclear error messages",
+      "Flawed business rule execution",
+      "Incorrect implementation of a conditional statement",
+      "Slow rendering of large datasets"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Flawed business rule execution",
+      "Incorrect implementation of a conditional statement"
+    ]
+  },
+  {
+    "question": "Which of the following are key work products for static testing in the design phase?",
+    "options": [
+      "Deployment plans",
+      "Interface specifications",
+      "Architectural diagrams",
+      "Unit test results"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Interface specifications", "Architectural diagrams"]
+  },
+  {
+    "question": "Static analysis tools can identify potential bugs and security vulnerabilities without executing the code.",
+    "options": ["false", "true"],
+    "description": "Single choice",
+    "answer": ["true"]
+  },
+  {
+    "question": "In which model is continuous integration and testing a fundamental aspect?",
+    "options": ["Waterfall model", "Agile model", "Big-bang model", "V-model"],
+    "description": "Single choice",
+    "answer": ["Agile model"]
+  },
+  {
+    "question": "Which scenarios are likely to indicate a problem during data flow analysis?",
+    "options": [
+      "Variables defined but never used",
+      "Variables defined multiple times consecutively",
+      "Functions called without parameters",
+      "Variables used without prior definition"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Variables defined but never used",
+      "Variables used without prior definition"
+    ]
+  },
+  {
+    "question": "What are the various Testing Levels?",
+    "options": [
+      "Integration Testing",
+      "Unit Testing",
+      "System Testing",
+      "All of the mentioned"
+    ],
+    "description": "Single choice",
+    "answer": ["All of the mentioned"]
+  },
+  {
+    "question": "What is the primary purpose of maintenance testing?",
+    "options": [
+      "To test the software only before it goes live for the first time.",
+      "To develop new software applications from scratch.",
+      "To completely redesign existing software systems.",
+      "To verify changes made during software updates and ensure no new defects are introduced."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To verify changes made during software updates and ensure no new defects are introduced."
+    ]
+  },
+  {
+    "question": "What is a key factor in choosing test techniques for regulatory compliance?",
+    "options": [
+      "The tester's personal preferences",
+      "The type of documentation available",
+      "The complexity of the system",
+      "Formality of the testing process"
+    ],
+    "description": "Single choice",
+    "answer": ["Formality of the testing process"]
+  },
+  {
+    "question": "What is the role of regression testing in maintenance testing?",
+    "options": [
+      "To check the functionality of new hardware only.",
+      "To ensure that new features disrupt existing functionalities.",
+      "To verify that bug fixes and enhancements do not introduce new defects into existing functionalities.",
+      "To focus testing solely on new features."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To verify that bug fixes and enhancements do not introduce new defects into existing functionalities."
+    ]
+  },
+  {
+    "question": "Which work products are most relevant for static testing in the early stages of software development?",
+    "options": [
+      "Requirements documents",
+      "Risk analysis reports",
+      "Code commits",
+      "Prototypes"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Requirements documents", "Risk analysis reports"]
+  },
+  {
+    "question": "What does the branch coverage technique ensure?",
+    "options": [
+      "Every possible branch from each decision point is executed",
+      "The internal structure of the code is tested",
+      "All possible paths through the code are identified and tested",
+      "Every decision point is tested for true and false outcomes"
+    ],
+    "description": "Single choice",
+    "answer": ["Every possible branch from each decision point is executed"]
+  },
+  {
+    "question": "Which of the following are tools or methods commonly used for data flow analysis in static testing?",
+    "options": [
+      "Unit testing frameworks",
+      "Static analysis tools",
+      "Compiler warnings",
+      "Code review sessions"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Static analysis tools", "Compiler warnings"]
+  },
+  {
+    "question": "Which of the following are work products examined during static testing?",
+    "options": ["ii, iii, iv", "i, iii, iv", "i, iv", "ii, iv"],
+    "description": "Single choice",
+    "answer": ["i, iii, iv"]
+  },
+  {
+    "question": "What feature of the Agile model enhances its adaptability to changing requirements?",
+    "options": [
+      "Incremental development with regular revisions",
+      "Fixed roles and responsibilities",
+      "Long-term project planning",
+      "Complete documentation before development starts"
+    ],
+    "description": "Single choice",
+    "answer": ["Incremental development with regular revisions"]
+  },
+  {
+    "question": "What are the key objectives of the review process in static testing?",
+    "options": ["i, iii", "ii, iv", "i, iii, iv", "i, ii, iv"],
+    "description": "Single choice",
+    "answer": ["i, iii, iv"]
+  },
+  {
+    "question": "Why perform regression testing?",
+    "options": [
+      "To ensure that new changes do not adversely affect existing functionality.",
+      "To test new features added to the software.",
+      "To assess the user interface design.",
+      "To check the performance under extreme conditions."
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that new changes do not adversely affect existing functionality."
+    ]
+  },
+  {
+    "question": "What does system integration testing primarily focus on?",
+    "options": [
+      "Testing the database management system",
+      "Verifying that separate systems can work together",
+      "Validating the software's usability",
+      "Ensuring that individual components function correctly within the system"
+    ],
+    "description": "Single choice",
+    "answer": ["Verifying that separate systems can work together"]
+  },
+  {
+    "question": "Which of the following are advantages of white-box testing techniques?",
+    "options": [
+      "Ensuring complete code coverage",
+      "Detecting hidden errors in the code logic",
+      "Reducing the number of test cases needed",
+      "Identifying performance bottlenecks"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Ensuring complete code coverage",
+      "Detecting hidden errors in the code logic",
+      "Identifying performance bottlenecks"
+    ]
+  },
+  {
+    "question": "The primary objective of static testing is to improve the runtime performance of the software.",
+    "options": ["true", "false"],
+    "description": "Single choice",
+    "answer": ["false"]
+  },
+  {
+    "question": "Which techniques are associated with ensuring all decision points are tested for true and false outcomes?",
+    "options": [
+      "Decision Coverage",
+      "Paths Through Code",
+      "State Transition Testing",
+      "Branch Coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Decision Coverage", "Branch Coverage"]
+  },
+  {
+    "question": "Formality in the testing process can influence the choice of test techniques.",
+    "options": ["false", "true"],
+    "description": "Single choice",
+    "answer": ["true"]
+  },
+  {
+    "question": "Which of the following are valid use cases for path coverage in white-box testing?",
+    "options": [
+      "Verifying the logic of conditional statements",
+      "Testing input-output behavior without accessing code",
+      "Ensuring all possible execution paths are tested",
+      "Identifying redundant code paths"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Verifying the logic of conditional statements",
+      "Ensuring all possible execution paths are tested",
+      "Identifying redundant code paths"
+    ]
+  },
+  {
+    "question": "Which of the following tools can assist in white-box testing techniques?",
+    "options": [
+      "Code coverage tools (e.g., JaCoCo, Istanbul)",
+      "Automated functional testing tools (e.g., Selenium)",
+      "Debugging tools (e.g., GDB, Visual Studio Debugger)",
+      "Static code analysis tools (e.g., SonarQube)"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Code coverage tools (e.g., JaCoCo, Istanbul)",
+      "Debugging tools (e.g., GDB, Visual Studio Debugger)",
+      "Static code analysis tools (e.g., SonarQube)"
+    ]
+  },
+  {
+    "question": "Which test level is specifically aimed at validating the software against business requirements?",
+    "options": [
+      "System testing",
+      "Integration testing",
+      "Acceptance testing",
+      "Component testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Acceptance testing"]
+  },
+  {
+    "question": "What is a benefit of using the Rapid Application Development (RAD) model?",
+    "options": [
+      "Slower testing and feedback cycles.",
+      "It avoids user involvement until late in the process.",
+      "No need for early testing.",
+      "Early and continuous software deliveries."
+    ],
+    "description": "Single choice",
+    "answer": ["Early and continuous software deliveries."]
+  },
+  {
+    "question": "A __________ consists of a set of test cases covering the end-to-end functionality of a software application.",
+    "options": ["Test Case", "Test Scenario", "Test Scripts"],
+    "description": "Single choice",
+    "answer": ["Test Scenario"]
+  },
+  {
+    "question": "Which of the following are primary objectives of static testing?",
+    "options": [
+      "Identifying defects early in the development lifecycle",
+      "Detecting potential design flaws",
+      "Improving runtime performance of the application",
+      "Ensuring compliance with coding standards"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Identifying defects early in the development lifecycle",
+      "Detecting potential design flaws",
+      "Ensuring compliance with coding standards"
+    ]
+  },
+  {
+    "question": "Which of the following is non-functional testing?",
+    "options": ["Unit testing", "Black box testing", "Performance testing"],
+    "description": "Single choice",
+    "answer": ["Performance testing"]
+  },
+  {
+    "question": "What does cyclomatic complexity measure in static testing?",
+    "options": [
+      "The number of variables used in a program",
+      "The runtime performance of a program",
+      "The number of lines of code in a program",
+      "The logical complexity of a program's control flow"
+    ],
+    "description": "Single choice",
+    "answer": ["The logical complexity of a program's control flow"]
+  },
+  {
+    "question": "Which formula is used to calculate cyclomatic complexity?",
+    "options": [
+      "V(G)=Eâ��Nâ��P",
+      "V(G)=Eâ��N+2P",
+      "V(G)=Nâ��E+P",
+      "V(G)=E+Nâ��P"
+    ],
+    "description": "Single choice",
+    "answer": ["V(G)=Eâ��N+2P"]
+  },
+  {
+    "question": "Which of the following are primary benefits of static testing?",
+    "options": [
+      "Reduced cost of fixing defects",
+      "Early detection of defects",
+      "Increased test coverage during execution",
+      "Improved runtime performance"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Reduced cost of fixing defects", "Early detection of defects"]
+  },
+  {
+    "question": "Which of the following are types of defects that white-box testing can identify?",
+    "options": [
+      "Logical errors in algorithms",
+      "Incorrect loop conditions",
+      "Unreachable code",
+      "Missing requirements in documentation"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Logical errors in algorithms",
+      "Incorrect loop conditions",
+      "Unreachable code"
+    ]
+  },
+  {
+    "question": "Which objectives of static testing contribute to better team collaboration?",
+    "options": [
+      "Facilitating knowledge sharing through code reviews",
+      "Enhancing communication between developers and testers",
+      "Identifying unclear requirements early",
+      "Reducing the need for dynamic testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Facilitating knowledge sharing through code reviews",
+      "Enhancing communication between developers and testers",
+      "Identifying unclear requirements early"
+    ]
+  },
+  {
+    "question": "Which of the following are objectives of static testing that directly impact defect prevention?",
+    "options": [
+      "Validating test case designs before execution",
+      "Identifying potential security vulnerabilities",
+      "Detecting logical errors in code",
+      "Reducing runtime errors during production"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Validating test case designs before execution",
+      "Identifying potential security vulnerabilities",
+      "Detecting logical errors in code"
+    ]
+  },
+  {
+    "question": "What are the benefits of static testing?",
+    "options": [
+      "Prevention of defects in later stages",
+      "Enhanced system performance",
+      "Improved quality of code and documentation",
+      "Early detection of defects"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Prevention of defects in later stages",
+      "Improved quality of code and documentation",
+      "Early detection of defects"
+    ]
+  },
+  {
+    "question": "Why is acceptance testing crucial before deploying the software?",
+    "options": [
+      "It helps in identifying defects in individual components",
+      "It verifies the accuracy of data flow between components",
+      "It tests the functionalities of the software modules",
+      "It assesses whether the software meets user requirements and is ready for deployment"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "It assesses whether the software meets user requirements and is ready for deployment"
+    ]
+  },
+  {
+    "question": "What are the types of reviews in static testing?",
+    "options": ["Load testing", "Inspection", "Walkthrough", "Informal review"],
+    "description": "Multiple choice",
+    "answer": ["Inspection", "Walkthrough", "Informal review"]
+  },
+  {
+    "question": "What type of testing is conducted to verify that software components or functions operate together correctly?",
+    "options": [
+      "Integration testing",
+      "System testing",
+      "Acceptance testing",
+      "Unit testing"
+    ],
+    "description": "Single choice",
+    "answer": ["Integration testing"]
+  },
+  {
+    "question": "Which of the following factors influence the choice of test techniques?",
+    "options": [
+      "The level and type of risk involved",
+      "The objectives of testing",
+      "The popularity of the technique",
+      "The preferences of the development team"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "The level and type of risk involved",
+      "The objectives of testing"
+    ]
+  },
+  {
+    "question": "Which test techniques help in reducing the number of test cases while maintaining coverage?",
+    "options": [
+      "Decision Table Testing",
+      "Equivalence Partitioning",
+      "State Transition Testing",
+      "Boundary Value Analysis"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Decision Table Testing",
+      "Equivalence Partitioning",
+      "Boundary Value Analysis"
+    ]
+  },
+  {
+    "question": "Which objectives of static testing are related to improving documentation?",
+    "options": [
+      "Identifying inconsistencies in technical documents",
+      "Detecting defects in user manuals",
+      "Improving system performance",
+      "Ensuring clarity and completeness of requirements"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Identifying inconsistencies in technical documents",
+      "Detecting defects in user manuals",
+      "Ensuring clarity and completeness of requirements"
+    ]
+  },
+  {
+    "question": "What is the main focus of performance testing?",
+    "options": [
+      "To validate compliance with design specifications.",
+      "To ensure the software is bug-free.",
+      "To identify defects in the software.",
+      "To measure the speed and effectiveness of the system."
+    ],
+    "description": "Single choice",
+    "answer": ["To measure the speed and effectiveness of the system."]
+  },
+  {
+    "question": "Which of the following are characteristics of exploratory testing?",
+    "options": [
+      "It follows a strict test plan",
+      "It relies on tester intuition and experience",
+      "It is performed without predefined test cases",
+      "It focuses on executing pre-written scripts"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "It relies on tester intuition and experience",
+      "It is performed without predefined test cases"
+    ]
+  },
+  {
+    "question": "What is the primary goal of usability testing?",
+    "options": [
+      "To verify the system's performance under heavy load",
+      "To ensure the software is intuitive and easy to use",
+      "To check the internal logic of the code",
+      "To validate compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure the software is intuitive and easy to use"]
+  },
+  {
+    "question": "Which of the following defects are commonly identified during static testing?",
+    "options": [
+      "Runtime crashes",
+      "Inconsistent documentation",
+      "Missing requirements",
+      "Code syntax errors"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Inconsistent documentation",
+      "Missing requirements",
+      "Code syntax errors"
+    ]
+  },
+  {
+    "question": "What is the purpose of sanity testing?",
+    "options": [
+      "To perform a comprehensive test of all system features",
+      "To quickly verify that major functionalities work after a minor change",
+      "To validate the system's performance under extreme conditions",
+      "To ensure compliance with regulatory standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To quickly verify that major functionalities work after a minor change"
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of using automated static analysis tools?",
+    "options": [
+      "Improved runtime performance",
+      "Detection of potential security vulnerabilities",
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in code reviews"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Detection of potential security vulnerabilities",
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in code reviews"
+    ]
+  },
+  {
+    "question": "What is the key difference between verification and validation in software testing?",
+    "options": [
+      "Verification ensures the product is built correctly, while validation ensures it meets user needs",
+      "Verification focuses on runtime behavior, while validation focuses on code structure",
+      "Verification is performed after validation",
+      "Verification is dynamic, while validation is static"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Verification ensures the product is built correctly, while validation ensures it meets user needs"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of non-functional testing types?",
+    "options": [
+      "Unit testing",
+      "Security testing",
+      "Usability testing",
+      "Integration testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Security testing", "Usability testing"]
+  },
+  {
+    "question": "What is the primary purpose of smoke testing?",
+    "options": [
+      "To verify the system's performance under load",
+      "To ensure that the major features of a system are functioning correctly",
+      "To validate the system's compliance with external standards",
+      "To test the internal logic of individual components"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that the major features of a system are functioning correctly"
+    ]
+  },
+  {
+    "question": "Which of the following is a key characteristic of the Waterfall model?",
+    "options": [
+      "It supports iterative development",
+      "It emphasizes sequential phases with clear milestones",
+      "It allows frequent changes in requirements",
+      "It integrates testing throughout the development process"
+    ],
+    "description": "Single choice",
+    "answer": ["It emphasizes sequential phases with clear milestones"]
+  },
+  {
+    "question": "Which of the following are considered dynamic testing techniques?",
+    "options": [
+      "Code reviews",
+      "Exploratory testing",
+      "Unit testing",
+      "Static analysis"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Exploratory testing", "Unit testing"]
+  },
+  {
+    "question": "What is the main purpose of security testing?",
+    "options": [
+      "To verify the system's performance under high load",
+      "To identify vulnerabilities and ensure the system is secure",
+      "To validate the user interface design",
+      "To check the correctness of business logic"
+    ],
+    "description": "Single choice",
+    "answer": ["To identify vulnerabilities and ensure the system is secure"]
+  },
+  {
+    "question": "Which of the following are typical defects found during integration testing?",
+    "options": [
+      "Incorrect data transfer between modules",
+      "Poor user interface design",
+      "Mismatched interfaces between components",
+      "Slow response times under normal conditions"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Incorrect data transfer between modules",
+      "Mismatched interfaces between components"
+    ]
+  },
+  {
+    "question": "What is the purpose of equivalence partitioning in black-box testing?",
+    "options": [
+      "To test every possible input individually",
+      "To divide input data into partitions expected to exhibit similar behavior",
+      "To analyze the internal code structure",
+      "To ensure all code paths are executed"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To divide input data into partitions expected to exhibit similar behavior"
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of the Spiral model?",
+    "options": [
+      "It emphasizes risk analysis at each iteration",
+      "It follows a strict sequential process",
+      "It includes prototyping and iterative development",
+      "It avoids user feedback until the final phase"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "It emphasizes risk analysis at each iteration",
+      "It includes prototyping and iterative development"
+    ]
+  },
+  {
+    "question": "What is the primary focus of acceptance testing?",
+    "options": [
+      "To verify the internal code structure",
+      "To validate that the system meets business and user requirements",
+      "To test the interactions between system components",
+      "To measure the system's performance under load"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To validate that the system meets business and user requirements"
+    ]
+  },
+  {
+    "question": "Which of the following are advantages of using decision table testing in black-box testing?",
+    "options": [
+      "It simplifies complex business rules",
+      "It ensures complete code coverage",
+      "It reduces the number of test cases needed",
+      "It identifies unreachable code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "It simplifies complex business rules",
+      "It reduces the number of test cases needed"
+    ]
+  },
+  {
+    "question": "What is a key benefit of conducting reviews in static testing?",
+    "options": [
+      "It guarantees zero defects in production",
+      "It reduces the cost of finding and fixing defects early",
+      "It replaces the need for dynamic testing",
+      "It focuses only on runtime behavior"
+    ],
+    "description": "Single choice",
+    "answer": ["It reduces the cost of finding and fixing defects early"]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during system testing?",
+    "options": [
+      "Incorrect integration between modules",
+      "Failure to meet performance requirements",
+      "Inconsistent user interface behavior",
+      "Syntax errors in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Failure to meet performance requirements",
+      "Inconsistent user interface behavior"
+    ]
+  },
+  {
+    "question": "What is the purpose of using stubs and drivers in integration testing?",
+    "options": [
+      "To simulate missing components or modules",
+      "To test the system's performance under load",
+      "To validate user requirements",
+      "To replace manual code reviews"
+    ],
+    "description": "Single choice",
+    "answer": ["To simulate missing components or modules"]
+  },
+  {
+    "question": "Which of the following is a key objective of regression testing?",
+    "options": [
+      "To validate new features only",
+      "To ensure that existing functionalities are unaffected by changes",
+      "To test the system's performance under stress",
+      "To verify compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that existing functionalities are unaffected by changes"
+    ]
+  },
+  {
+    "question": "Which of the following are types of maintenance testing?",
+    "options": [
+      "Corrective maintenance testing",
+      "Adaptive maintenance testing",
+      "Performance maintenance testing",
+      "Perfective maintenance testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Corrective maintenance testing",
+      "Adaptive maintenance testing",
+      "Perfective maintenance testing"
+    ]
+  },
+  {
+    "question": "What is the primary goal of load testing?",
+    "options": [
+      "To verify the system's functionality under normal conditions",
+      "To test the system's behavior under extreme conditions",
+      "To ensure the system can handle expected user loads",
+      "To validate the system's compliance with security standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure the system can handle expected user loads"]
+  },
+  {
+    "question": "Which of the following are examples of black-box testing techniques?",
+    "options": [
+      "Statement coverage",
+      "Boundary value analysis",
+      "Use case testing",
+      "Path coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Boundary value analysis", "Use case testing"]
+  },
+  {
+    "question": "What is the primary purpose of static testing in the software development lifecycle?",
+    "options": [
+      "To execute the software to find runtime errors",
+      "To improve the quality of work products before execution",
+      "To measure the system's performance",
+      "To validate the system's compatibility with other systems"
+    ],
+    "description": "Single choice",
+    "answer": ["To improve the quality of work products before execution"]
+  },
+  {
+    "question": "Which of the following are examples of defects that can be identified during static analysis?",
+    "options": [
+      "Unreachable code",
+      "Security vulnerabilities",
+      "Poor response time under load",
+      "Missing error handling"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Unreachable code",
+      "Security vulnerabilities",
+      "Missing error handling"
+    ]
+  },
+  {
+    "question": "What is the primary difference between alpha and beta testing?",
+    "options": [
+      "Alpha testing is performed by developers, while beta testing is performed by end users",
+      "Alpha testing is done in a live environment, while beta testing is done in a controlled environment",
+      "Alpha testing focuses on performance, while beta testing focuses on functionality",
+      "Alpha testing is conducted after beta testing"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Alpha testing is performed by developers, while beta testing is performed by end users"
+    ]
+  },
+  {
+    "question": "Which of the following are key factors for successful static testing?",
+    "options": [
+      "Clear review guidelines",
+      "Use of automated testing tools",
+      "Defined roles and responsibilities",
+      "Frequent execution of the software"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Clear review guidelines", "Defined roles and responsibilities"]
+  },
+  {
+    "question": "What is the purpose of state transition testing in black-box testing?",
+    "options": [
+      "To verify the internal code structure",
+      "To test the system's behavior when transitioning between different states",
+      "To measure the system's performance under load",
+      "To validate the system's compatibility with other systems"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To test the system's behavior when transitioning between different states"
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of performing integration testing?",
+    "options": [
+      "Ensuring components work together correctly",
+      "Identifying defects in individual components",
+      "Validating the system's performance under load",
+      "Detecting interface mismatches early"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Ensuring components work together correctly",
+      "Detecting interface mismatches early"
+    ]
+  },
+  {
+    "question": "What is a key characteristic of the Rapid Application Development (RAD) model?",
+    "options": [
+      "It emphasizes extensive upfront planning",
+      "It focuses on rapid prototyping and user feedback",
+      "It avoids iterative development",
+      "It requires complete requirements before starting development"
+    ],
+    "description": "Single choice",
+    "answer": ["It focuses on rapid prototyping and user feedback"]
+  },
+  {
+    "question": "Which of the following defects are typically identified during usability testing?",
+    "options": [
+      "Inconsistent user interface elements",
+      "Incorrect data processing logic",
+      "Confusing navigation flows",
+      "Security vulnerabilities in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Inconsistent user interface elements",
+      "Confusing navigation flows"
+    ]
+  },
+  {
+    "question": "What is the main objective of compliance testing?",
+    "options": [
+      "To verify the system's performance under load",
+      "To ensure the system adheres to external standards and regulations",
+      "To test the internal logic of the system",
+      "To validate the user interface design"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure the system adheres to external standards and regulations"
+    ]
+  },
+  {
+    "question": "Which of the following are key challenges in dynamic testing?",
+    "options": [
+      "Difficulty in achieving full code coverage",
+      "Time-consuming manual review processes",
+      "Inability to detect runtime errors",
+      "Dependence on test environment setup"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Difficulty in achieving full code coverage",
+      "Dependence on test environment setup"
+    ]
+  },
+  {
+    "question": "What is the purpose of exploratory testing in dynamic testing?",
+    "options": [
+      "To execute predefined test cases",
+      "To explore the system without predefined scripts to find defects",
+      "To measure system performance under load",
+      "To validate compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To explore the system without predefined scripts to find defects"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of work products reviewed during static testing?",
+    "options": [
+      "Test execution logs",
+      "System architecture documents",
+      "User requirements specifications",
+      "Performance test results"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "System architecture documents",
+      "User requirements specifications"
+    ]
+  },
+  {
+    "question": "What is the primary goal of stress testing?",
+    "options": [
+      "To verify the system's functionality under normal conditions",
+      "To test the system's behavior under extreme conditions",
+      "To validate the system's compliance with user requirements",
+      "To ensure the system integrates well with other systems"
+    ],
+    "description": "Single choice",
+    "answer": ["To test the system's behavior under extreme conditions"]
+  },
+  {
+    "question": "Which of the following are advantages of using automated testing tools in dynamic testing?",
+    "options": [
+      "Improved consistency in test execution",
+      "Reduced time for repetitive test cases",
+      "Elimination of all manual testing",
+      "Detection of logical errors in code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Improved consistency in test execution",
+      "Reduced time for repetitive test cases"
+    ]
+  },
+  {
+    "question": "What is the primary focus of unit testing?",
+    "options": [
+      "To validate the system's overall functionality",
+      "To test individual components in isolation",
+      "To verify interactions between integrated components",
+      "To measure the system's performance under load"
+    ],
+    "description": "Single choice",
+    "answer": ["To test individual components in isolation"]
+  },
+  {
+    "question": "Which of the following are objectives of performance testing?",
+    "options": [
+      "To verify the system's compliance with coding standards",
+      "To measure the system's response time under various loads",
+      "To ensure the system meets user requirements",
+      "To evaluate the system's scalability and reliability"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "To measure the system's response time under various loads",
+      "To evaluate the system's scalability and reliability"
+    ]
+  },
+  {
+    "question": "What is a key characteristic of the V-model in software development?",
+    "options": [
+      "It emphasizes iterative development",
+      "It aligns testing phases with development phases",
+      "It avoids early test planning",
+      "It focuses solely on functional testing"
+    ],
+    "description": "Single choice",
+    "answer": ["It aligns testing phases with development phases"]
+  },
+  {
+    "question": "Which of the following are examples of defects found during performance testing?",
+    "options": [
+      "Slow response times under high load",
+      "Incorrect business logic",
+      "System crashes under peak usage",
+      "Missing user requirements"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Slow response times under high load",
+      "System crashes under peak usage"
+    ]
+  },
+  {
+    "question": "What is the purpose of configuration testing?",
+    "options": [
+      "To validate the system's functionality in a single environment",
+      "To test the system's performance on different hardware and software configurations",
+      "To verify the system's compliance with coding standards",
+      "To ensure the system meets user requirements"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To test the system's performance on different hardware and software configurations"
+    ]
+  },
+  {
+    "question": "Which of the following are key success factors for effective reviews in static testing?",
+    "options": [
+      "Clear objectives and defined roles",
+      "Frequent execution of the code",
+      "Use of automated testing tools",
+      "Effective communication among reviewers"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Clear objectives and defined roles",
+      "Effective communication among reviewers"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of data flow analysis in static testing?",
+    "options": [
+      "To measure the system's performance",
+      "To identify anomalies in how data is used and transferred in the code",
+      "To validate the system's user interface",
+      "To ensure the system meets regulatory requirements"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To identify anomalies in how data is used and transferred in the code"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of black-box testing scenarios?",
+    "options": [
+      "Testing the response time of a web application",
+      "Verifying the internal logic of a function",
+      "Testing the system's behavior with invalid inputs",
+      "Checking code coverage metrics"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Testing the response time of a web application",
+      "Testing the system's behavior with invalid inputs"
+    ]
+  },
+  {
+    "question": "What is the main difference between functional and non-functional testing?",
+    "options": [
+      "Functional testing focuses on what the system does, while non-functional testing focuses on how well it performs",
+      "Functional testing is performed without executing the code, while non-functional testing requires execution",
+      "Functional testing is always manual, while non-functional testing is automated",
+      "Functional testing focuses on performance, while non-functional testing focuses on user requirements"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "Functional testing focuses on what the system does, while non-functional testing focuses on how well it performs"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of tools used in dynamic testing?",
+    "options": [
+      "Selenium for automated functional testing",
+      "SonarQube for static code analysis",
+      "JMeter for performance testing",
+      "ESLint for code linting"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Selenium for automated functional testing",
+      "JMeter for performance testing"
+    ]
+  },
+  {
+    "question": "What is the primary goal of interoperability testing?",
+    "options": [
+      "To verify the system's performance under load",
+      "To ensure the system can interact with other systems or components",
+      "To validate the system's compliance with coding standards",
+      "To test the system's user interface"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure the system can interact with other systems or components"
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of the Agile model in software development?",
+    "options": [
+      "Frequent delivery of working software",
+      "Emphasis on extensive upfront planning",
+      "Continuous collaboration with stakeholders",
+      "Fixed requirements throughout the project"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Frequent delivery of working software",
+      "Continuous collaboration with stakeholders"
+    ]
+  },
+  {
+    "question": "What is the purpose of boundary value analysis in black-box testing?",
+    "options": [
+      "To test the internal structure of the code",
+      "To verify the system's behavior at the edges of input ranges",
+      "To measure the system's performance under load",
+      "To validate the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To verify the system's behavior at the edges of input ranges"]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during acceptance testing?",
+    "options": [
+      "Failure to meet user requirements",
+      "Incorrect integration between modules",
+      "Inconsistent user interface behavior",
+      "Syntax errors in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Failure to meet user requirements",
+      "Inconsistent user interface behavior"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of regression testing in iterative development models?",
+    "options": [
+      "To validate new features introduced in each iteration",
+      "To ensure that new changes do not negatively impact existing functionality",
+      "To test the system's performance under load",
+      "To verify the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that new changes do not negatively impact existing functionality"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of static testing activities?",
+    "options": [
+      "Executing test cases",
+      "Reviewing requirements documents",
+      "Performing code walkthroughs",
+      "Running performance tests"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Reviewing requirements documents",
+      "Performing code walkthroughs"
+    ]
+  },
+  {
+    "question": "What is the main objective of component testing?",
+    "options": [
+      "To validate the system's overall functionality",
+      "To verify the functionality of individual components in isolation",
+      "To test the interactions between integrated components",
+      "To measure the system's performance under load"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To verify the functionality of individual components in isolation"
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of using white-box testing techniques?",
+    "options": [
+      "Improved code coverage",
+      "Detection of logical errors in the code",
+      "Validation of user requirements",
+      "Simplified test case design"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Improved code coverage",
+      "Detection of logical errors in the code"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of system testing?",
+    "options": [
+      "To verify the functionality of individual components",
+      "To validate the system as a whole against specified requirements",
+      "To test the interactions between different systems",
+      "To ensure the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To validate the system as a whole against specified requirements"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during static testing?",
+    "options": [
+      "Ambiguous requirements",
+      "Runtime performance issues",
+      "Inconsistent documentation",
+      "Code syntax errors"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Ambiguous requirements",
+      "Inconsistent documentation",
+      "Code syntax errors"
+    ]
+  },
+  {
+    "question": "What is the purpose of using decision tables in black-box testing?",
+    "options": [
+      "To analyze the internal code structure",
+      "To represent complex business rules and their test cases",
+      "To measure the system's performance under load",
+      "To validate the system's compatibility with other systems"
+    ],
+    "description": "Single choice",
+    "answer": ["To represent complex business rules and their test cases"]
+  },
+  {
+    "question": "Which of the following are characteristics of the Waterfall model in software development?",
+    "options": [
+      "Sequential phases with clear deliverables",
+      "Frequent iterations and feedback loops",
+      "Fixed requirements throughout the project",
+      "Emphasis on continuous integration"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Sequential phases with clear deliverables",
+      "Fixed requirements throughout the project"
+    ]
+  },
+  {
+    "question": "What is the primary goal of maintenance testing?",
+    "options": [
+      "To validate new features in the initial release",
+      "To ensure that changes or updates do not introduce new defects",
+      "To test the system's performance under load",
+      "To verify the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure that changes or updates do not introduce new defects"]
+  },
+  {
+    "question": "Which of the following are examples of tools used in static testing?",
+    "options": [
+      "Selenium for automated testing",
+      "SonarQube for code analysis",
+      "JMeter for performance testing",
+      "Checkstyle for coding standards"
+    ],
+    "description": "Multiple choice",
+    "answer": ["SonarQube for code analysis", "Checkstyle for coding standards"]
+  },
+  {
+    "question": "What is the purpose of path coverage in white-box testing?",
+    "options": [
+      "To validate the system's user interface",
+      "To ensure all possible execution paths in the code are tested",
+      "To measure the system's performance under load",
+      "To verify the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure all possible execution paths in the code are tested"]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during integration testing?",
+    "options": [
+      "Incorrect data transfer between components",
+      "Poor user interface design",
+      "Mismatched interfaces between modules",
+      "Syntax errors in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Incorrect data transfer between components",
+      "Mismatched interfaces between modules"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of alpha testing?",
+    "options": [
+      "To validate the system in a real-world environment",
+      "To test the system in a controlled environment with developers present",
+      "To verify the system's performance under load",
+      "To ensure the system meets external standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To test the system in a controlled environment with developers present"
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of black-box testing?",
+    "options": [
+      "Testers need knowledge of the internal code structure",
+      "Testing focuses on input-output behavior",
+      "It is based on the system's requirements and specifications",
+      "It ensures complete code coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Testing focuses on input-output behavior",
+      "It is based on the system's requirements and specifications"
+    ]
+  },
+  {
+    "question": "What is the purpose of regression testing in software maintenance?",
+    "options": [
+      "To validate new features only",
+      "To ensure that existing functionalities are unaffected by changes",
+      "To test the system's performance under load",
+      "To verify the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that existing functionalities are unaffected by changes"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of static analysis tools?",
+    "options": ["Selenium", "SonarQube", "JMeter", "Checkstyle"],
+    "description": "Multiple choice",
+    "answer": ["SonarQube", "Checkstyle"]
+  },
+  {
+    "question": "What is the primary focus of security testing?",
+    "options": [
+      "To validate the system's user interface",
+      "To identify vulnerabilities and ensure system security",
+      "To measure the system's performance under load",
+      "To verify the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To identify vulnerabilities and ensure system security"]
+  },
+  {
+    "question": "Which of the following are examples of non-functional requirements tested during system testing?",
+    "options": [
+      "Correctness of business logic",
+      "System response time",
+      "User interface consistency",
+      "Scalability under high load"
+    ],
+    "description": "Multiple choice",
+    "answer": ["System response time", "Scalability under high load"]
+  },
+  {
+    "question": "What is the purpose of using stubs in integration testing?",
+    "options": [
+      "To simulate the behavior of missing components",
+      "To measure the system's performance under load",
+      "To validate the system's user interface",
+      "To ensure the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To simulate the behavior of missing components"]
+  },
+  {
+    "question": "Which of the following are benefits of using the V-model in software development?",
+    "options": [
+      "Early test planning and design",
+      "Support for frequent requirement changes",
+      "Clear alignment between development and testing phases",
+      "Emphasis on iterative development"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Early test planning and design",
+      "Clear alignment between development and testing phases"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of usability testing?",
+    "options": [
+      "To verify the system's performance under load",
+      "To ensure the system is intuitive and user-friendly",
+      "To validate the system's compliance with external standards",
+      "To test the internal logic of the system"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure the system is intuitive and user-friendly"]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during dynamic testing?",
+    "options": [
+      "Syntax errors in the code",
+      "Runtime crashes",
+      "Incorrect business logic",
+      "Ambiguous requirements"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Runtime crashes", "Incorrect business logic"]
+  },
+  {
+    "question": "What is the primary purpose of system integration testing?",
+    "options": [
+      "To verify the functionality of individual components",
+      "To ensure that integrated systems work together correctly",
+      "To validate the system's performance under load",
+      "To test the system's user interface"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure that integrated systems work together correctly"]
+  },
+  {
+    "question": "Which of the following are examples of white-box testing techniques?",
+    "options": [
+      "Boundary value analysis",
+      "Statement coverage",
+      "Decision coverage",
+      "Use case testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Statement coverage", "Decision coverage"]
+  },
+  {
+    "question": "What is the primary goal of beta testing?",
+    "options": [
+      "To test the system in a controlled environment with developers",
+      "To validate the system in a real-world environment with end users",
+      "To verify the system's performance under load",
+      "To ensure the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To validate the system in a real-world environment with end users"
+    ]
+  },
+  {
+    "question": "Which of the following are key factors influencing the choice of test techniques?",
+    "options": [
+      "Project budget and timeline",
+      "Tester experience and skills",
+      "Availability of test environments",
+      "Popularity of the testing tool"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Project budget and timeline",
+      "Tester experience and skills",
+      "Availability of test environments"
+    ]
+  },
+  {
+    "question": "What is the purpose of decision coverage in white-box testing?",
+    "options": [
+      "To ensure all possible execution paths are tested",
+      "To verify that every decision point is evaluated for true and false outcomes",
+      "To validate the system's user interface",
+      "To measure the system's performance under load"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To verify that every decision point is evaluated for true and false outcomes"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during maintenance testing?",
+    "options": [
+      "New defects introduced by recent changes",
+      "Inconsistent user interface behavior",
+      "Regression issues in existing functionality",
+      "Syntax errors in new code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "New defects introduced by recent changes",
+      "Regression issues in existing functionality"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of static analysis in software development?",
+    "options": [
+      "To execute the software to find runtime errors",
+      "To analyze code and documentation without execution",
+      "To validate the system's performance under load",
+      "To verify the system's compliance with user requirements"
+    ],
+    "description": "Single choice",
+    "answer": ["To analyze code and documentation without execution"]
+  },
+  {
+    "question": "Which of the following are benefits of using automated tools in static testing?",
+    "options": [
+      "Improved detection of logical errors",
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in reviews",
+      "Elimination of all dynamic testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in reviews"
+    ]
+  },
+  {
+    "question": "What is the primary focus of exploratory testing?",
+    "options": [
+      "To execute predefined test cases",
+      "To explore the system to identify defects based on tester experience",
+      "To validate the system's performance under load",
+      "To ensure the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To explore the system to identify defects based on tester experience"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of non-functional testing types?",
+    "options": [
+      "Unit testing",
+      "Performance testing",
+      "Security testing",
+      "Integration testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Performance testing", "Security testing"]
+  },
+  {
+    "question": "What is the primary purpose of smoke testing?",
+    "options": [
+      "To verify the system's performance under load",
+      "To ensure that the major features of a system are functioning correctly",
+      "To validate the system's compliance with external standards",
+      "To test the internal logic of individual components"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that the major features of a system are functioning correctly"
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of the Spiral model in software development?",
+    "options": [
+      "Emphasis on risk analysis and mitigation",
+      "Sequential development phases",
+      "Iterative development with prototyping",
+      "Fixed requirements throughout the project"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Emphasis on risk analysis and mitigation",
+      "Iterative development with prototyping"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of regression testing?",
+    "options": [
+      "To validate new features introduced in the system",
+      "To ensure that existing functionalities are unaffected by changes",
+      "To test the system's performance under load",
+      "To verify the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that existing functionalities are unaffected by changes"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of static testing techniques?",
+    "options": [
+      "Code reviews",
+      "Exploratory testing",
+      "Walkthroughs",
+      "Performance testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Code reviews", "Walkthroughs"]
+  },
+  {
+    "question": "What is the primary purpose of acceptance testing?",
+    "options": [
+      "To verify the functionality of individual components",
+      "To validate that the system meets business and user requirements",
+      "To test the interactions between integrated components",
+      "To measure the system's performance under load"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To validate that the system meets business and user requirements"
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of using decision table testing in black-box testing?",
+    "options": [
+      "It simplifies complex business rules",
+      "It ensures complete code coverage",
+      "It reduces the number of test cases needed",
+      "It identifies unreachable code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "It simplifies complex business rules",
+      "It reduces the number of test cases needed"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of static testing?",
+    "options": [
+      "To execute the software to find runtime errors",
+      "To improve the quality of work products before execution",
+      "To measure the system's performance",
+      "To validate the system's compatibility with other systems"
+    ],
+    "description": "Single choice",
+    "answer": ["To improve the quality of work products before execution"]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during system testing?",
+    "options": [
+      "Incorrect integration between modules",
+      "Failure to meet performance requirements",
+      "Inconsistent user interface behavior",
+      "Syntax errors in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Failure to meet performance requirements",
+      "Inconsistent user interface behavior"
+    ]
+  },
+  {
+    "question": "What is the purpose of using stubs and drivers in integration testing?",
+    "options": [
+      "To simulate missing components or modules",
+      "To test the system's performance under load",
+      "To validate user requirements",
+      "To replace manual code reviews"
+    ],
+    "description": "Single choice",
+    "answer": ["To simulate missing components or modules"]
+  },
+  {
+    "question": "Which of the following are types of maintenance testing?",
+    "options": [
+      "Corrective maintenance testing",
+      "Adaptive maintenance testing",
+      "Performance maintenance testing",
+      "Perfective maintenance testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Corrective maintenance testing",
+      "Adaptive maintenance testing",
+      "Perfective maintenance testing"
+    ]
+  },
+  {
+    "question": "What is the primary goal of load testing?",
+    "options": [
+      "To verify the system's functionality under normal conditions",
+      "To test the system's behavior under extreme conditions",
+      "To ensure the system can handle expected user loads",
+      "To validate the system's compliance with security standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure the system can handle expected user loads"]
+  },
+  {
+    "question": "Which of the following are examples of black-box testing techniques?",
+    "options": [
+      "Statement coverage",
+      "Boundary value analysis",
+      "Use case testing",
+      "Path coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Boundary value analysis", "Use case testing"]
+  },
+  {
+    "question": "What is the primary purpose of static analysis in software development?",
+    "options": [
+      "To execute the software to find runtime errors",
+      "To analyze code and documentation without execution",
+      "To validate the system's performance under load",
+      "To verify the system's compliance with user requirements"
+    ],
+    "description": "Single choice",
+    "answer": ["To analyze code and documentation without execution"]
+  },
+  {
+    "question": "Which of the following are benefits of using automated tools in static testing?",
+    "options": [
+      "Improved detection of logical errors",
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in reviews",
+      "Elimination of all dynamic testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in reviews"
+    ]
+  },
+  {
+    "question": "What is the primary focus of exploratory testing?",
+    "options": [
+      "To execute predefined test cases",
+      "To explore the system to identify defects based on tester experience",
+      "To validate the system's performance under load",
+      "To ensure the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To explore the system to identify defects based on tester experience"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of non-functional testing types?",
+    "options": [
+      "Unit testing",
+      "Performance testing",
+      "Security testing",
+      "Integration testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Performance testing", "Security testing"]
+  },
+  {
+    "question": "What is the primary purpose of smoke testing?",
+    "options": [
+      "To verify the system's performance under load",
+      "To ensure that the major features of a system are functioning correctly",
+      "To validate the system's compliance with external standards",
+      "To test the internal logic of individual components"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that the major features of a system are functioning correctly"
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of the Spiral model in software development?",
+    "options": [
+      "Emphasis on risk analysis and mitigation",
+      "Sequential development phases",
+      "Iterative development with prototyping",
+      "Fixed requirements throughout the project"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Emphasis on risk analysis and mitigation",
+      "Iterative development with prototyping"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of regression testing?",
+    "options": [
+      "To validate new features introduced in the system",
+      "To ensure that existing functionalities are unaffected by changes",
+      "To test the system's performance under load",
+      "To verify the system's compliance with coding standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To ensure that existing functionalities are unaffected by changes"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of static testing techniques?",
+    "options": [
+      "Code reviews",
+      "Exploratory testing",
+      "Walkthroughs",
+      "Performance testing"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Code reviews", "Walkthroughs"]
+  },
+  {
+    "question": "What is the primary purpose of acceptance testing?",
+    "options": [
+      "To verify the functionality of individual components",
+      "To validate that the system meets business and user requirements",
+      "To test the interactions between integrated components",
+      "To measure the system's performance under load"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To validate that the system meets business and user requirements"
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of using decision table testing in black-box testing?",
+    "options": [
+      "It simplifies complex business rules",
+      "It ensures complete code coverage",
+      "It reduces the number of test cases needed",
+      "It identifies unreachable code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "It simplifies complex business rules",
+      "It reduces the number of test cases needed"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of static testing?",
+    "options": [
+      "To execute the software to find runtime errors",
+      "To improve the quality of work products before execution",
+      "To measure the system's performance",
+      "To validate the system's compatibility with other systems"
+    ],
+    "description": "Single choice",
+    "answer": ["To improve the quality of work products before execution"]
+  },
+  {
+    "question": "Which of the following are examples of defects typically found during system testing?",
+    "options": [
+      "Incorrect integration between modules",
+      "Failure to meet performance requirements",
+      "Inconsistent user interface behavior",
+      "Syntax errors in the code"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Failure to meet performance requirements",
+      "Inconsistent user interface behavior"
+    ]
+  },
+  {
+    "question": "What is the purpose of using stubs and drivers in integration testing?",
+    "options": [
+      "To simulate missing components or modules",
+      "To test the system's performance under load",
+      "To validate user requirements",
+      "To replace manual code reviews"
+    ],
+    "description": "Single choice",
+    "answer": ["To simulate missing components or modules"]
+  },
+  {
+    "question": "Which of the following are types of maintenance testing?",
+    "options": [
+      "Corrective maintenance testing",
+      "Adaptive maintenance testing",
+      "Performance maintenance testing",
+      "Perfective maintenance testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Corrective maintenance testing",
+      "Adaptive maintenance testing",
+      "Perfective maintenance testing"
+    ]
+  },
+  {
+    "question": "What is the primary goal of load testing?",
+    "options": [
+      "To verify the system's functionality under normal conditions",
+      "To test the system's behavior under extreme conditions",
+      "To ensure the system can handle expected user loads",
+      "To validate the system's compliance with security standards"
+    ],
+    "description": "Single choice",
+    "answer": ["To ensure the system can handle expected user loads"]
+  },
+  {
+    "question": "Which of the following are examples of black-box testing techniques?",
+    "options": [
+      "Statement coverage",
+      "Boundary value analysis",
+      "Use case testing",
+      "Path coverage"
+    ],
+    "description": "Multiple choice",
+    "answer": ["Boundary value analysis", "Use case testing"]
+  },
+  {
+    "question": "What is the primary purpose of static analysis in software development?",
+    "options": [
+      "To execute the software to find runtime errors",
+      "To analyze code and documentation without execution",
+      "To validate the system's performance under load",
+      "To verify the system's compliance with user requirements"
+    ],
+    "description": "Single choice",
+    "answer": ["To analyze code and documentation without execution"]
+  },
+  {
+    "question": "Which of the following are benefits of using automated tools in static testing?",
+    "options": [
+      "Improved detection of logical errors",
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in reviews",
+      "Elimination of all dynamic testing"
+    ],
+    "description": "Multiple choice",
+    "answer": [
+      "Consistency in identifying coding standard violations",
+      "Reduced manual effort in reviews"
+    ]
+  },
+  {
+    "question": "What is the primary focus of exploratory testing?",
+    "options": [
+      "To execute predefined test cases",
+      "To explore the system to identify defects based on tester experience",
+      "To validate the system's performance under load",
+      "To ensure the system's compliance with external standards"
+    ],
+    "description": "Single choice",
+    "answer": [
+      "To explore the system to identify defects based on tester experience"
+    ]
+  }
+]
