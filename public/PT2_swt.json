@@ -121,17 +121,15 @@
     ]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\"><span>What is Cyclomatic complexity ?</span></p>",
+    "question": "What is Cyclomatic complexity?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Black box testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Yellow box testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Green box testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">White box testing<br></p>"
+      "Black box testing",
+      "Yellow box testing",
+      "Green box testing",
+      "White box testing"
     ],
     "description": "Single choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">White box testing<br></p>"
-    ]
+    "answer": ["White box testing"]
   },
   {
     "question": "What is the goal of decision coverage in white-box testing?",
@@ -175,15 +173,10 @@
     ]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which black-box test techniques help in ensuring all possible combinations of inputs are tested?<br></p><p dir=\"ltr\" style=\"text-align: left;\"></p><span style=\"font-size: calc(0.90375rem + 0.045vw);\">i.&nbsp; Decision Table Testing</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">ii.&nbsp; Boundary Value Analysis</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">iii.&nbsp; Equivalence Partitioning</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">iv.&nbsp; Statement Coverage</span><br><br><p></p>",
-    "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iii, iv</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii, iv</p>"
-    ],
+    "question": "Which black-box test techniques help in ensuring all possible combinations of inputs are tested?\n1. Decision Table Testing\n2. Boundary Value Analysis\n3. Equivalence Partitioning\n4. Statement Coverage",
+    "options": ["ii, iii, iv", "ii, iii", "i, iii", "i, iii, iv"],
     "description": "Single choice",
-    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>"]
+    "answer": ["i, iii"]
   },
   {
     "question": "Which of the following are hidden costs of reviews?",
@@ -325,7 +318,7 @@
     ]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Static Analysis involves formal or informal evaluation of documents and code by reviewers.<br></p>",
+    "question": "Static Analysis involves formal or informal evaluation of documents and code by reviewers.",
     "options": ["false", "true"],
     "description": "Single choice",
     "answer": ["false"]
@@ -379,7 +372,7 @@
     "answer": ["Integration of all components at once without prior testing"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Data flow analysis tracks the flow of data through the program to identify anomalies.<br></p>",
+    "question": "Data flow analysis tracks the flow of data through the program to identify anomalies.",
     "options": ["false", "true"],
     "description": "Single choice",
     "answer": ["true"]
@@ -399,18 +392,15 @@
     ]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following are static (non-execution) techniques?<br></p>",
+    "question": "Which of the following are static (non-execution) techniques?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">State Transition Testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Equivalence Partitioning<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Reviews<br></p>"
+      "State Transition Testing",
+      "Equivalence Partitioning",
+      "Walkthroughs",
+      "Reviews"
     ],
     "description": "Multiple choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Reviews<br></p>"
-    ]
+    "answer": ["Walkthroughs", "Reviews"]
   },
   {
     "question": "How does the RAD model handle changes in requirements?",
@@ -702,16 +692,14 @@
     "answer": ["Memory leaks", "Inefficient algorithms"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">What is Verification?<br></p>",
+    "question": "What is Verification?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\"></p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"634\"> <tbody><tr>  <td width=\"495\" valign=\"top\">  <p>The process of evaluating a system  or component</p>  </td> </tr></tbody></table><br><p></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\"><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"634\"> <tbody><tr>  <td width=\"495\" valign=\"top\">  <p>Determination of the correctness of the products of  software development</p>  </td> </tr></tbody></table><br>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">The process of detecting and removing ofexisting and potential errors in a software code<br></p>"
+      "The process of evaluating a system or component",
+      "Determination of the correctness of the products of software development",
+      "The process of detecting and removing existing and potential errors in a software code"
     ],
     "description": "Single choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\"></p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"634\"> <tbody><tr>  <td width=\"495\" valign=\"top\">  <p>The process of evaluating a system  or component</p>  </td> </tr></tbody></table><br><p></p>"
-    ]
+    "answer": ["The process of evaluating a system or component"]
   },
   {
     "question": "What distinguishes stress testing from load testing?",
@@ -801,30 +789,21 @@
     "answer": ["Confirmation and regression testing"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which work products can be examined during static testing?<br></p>",
+    "question": "Which work products can be examined during static testing?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Source code<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">User manuals<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Performance logs<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Requirements documents<br></p>"
+      "Source code",
+      "User manuals",
+      "Performance logs",
+      "Requirements documents"
     ],
     "description": "Multiple choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Source code<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">User manuals<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Requirements documents<br></p>"
-    ]
+    "answer": ["Source code", "User manuals", "Requirements documents"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">What are the costs associated with reviews in static testing?<br></p><p dir=\"ltr\" style=\"text-align: left;\">i.&nbsp; Time and resources spent by reviewers.</p><p dir=\"ltr\" style=\"text-align: left;\">ii.&nbsp; Increased system performance.</p><p dir=\"ltr\" style=\"text-align: left;\">iii.&nbsp;&nbsp;Training and preparation costs.</p><p dir=\"ltr\" style=\"text-align: left;\">iv.&nbsp; Costs related to load testing tools<br></p>",
-    "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iii<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iv</p>"
-    ],
+    "question": "What are the costs associated with reviews in static testing?\n1. Time and resources spent by reviewers.\n2. Increased system performance.\n3. Training and preparation costs.\n4. Costs related to load testing tools",
+    "options": ["i, iii", "ii, iii", "i, ii, iii", "i, ii, iv"],
     "description": "Single choice",
-    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>"]
+    "answer": ["i, iii"]
   },
   {
     "question": "Which of the following review types is best suited for quickly identifying obvious defects without formal documentation?",
@@ -887,18 +866,15 @@
     "answer": ["The functionality of specific, isolated parts of the software"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which activities are part of static testing?<br></p>",
+    "question": "Which activities are part of static testing?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Performance testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Inspections<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Stress testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>"
+      "Performance testing",
+      "Inspections",
+      "Stress testing",
+      "Walkthroughs"
     ],
     "description": "Multiple choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Inspections<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Walkthroughs<br></p>"
-    ]
+    "answer": ["Inspections", "Walkthroughs"]
   },
   {
     "question": "What is the main reason for performing component integration testing?",
@@ -962,69 +938,53 @@
     "answer": ["Requirements specifications", "Design documents"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\"><span lang=\"EN\">_____________x000D_\nis a type of incremental integration testing approach, low-level modules are_x000D_\ntested first, and then high-level modules are tested</span><br><br></p>",
-    "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Top-Down Testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Bottom-up Testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Big-Bang Testing<br></p>"
-    ],
+    "question": "_____________ is a type of incremental integration testing approach, low-level modules are tested first, and then high-level modules are tested",
+    "options": ["Top-Down Testing", "Bottom-up Testing", "Big-Bang Testing"],
     "description": "Single choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Bottom-up Testing<br></p>"
-    ]
+    "answer": ["Bottom-up Testing"]
   },
-  {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\"><span lang=\"EN\">____________is_x000D_\na type of testing where software modules are integrated logically and tested as_x000D_\na group.</span><br></p>",
-    "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Integration testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Unit testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Regression testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Validation testing<br></p>"
-    ],
-    "description": "Single choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Integration testing<br></p>"
-    ]
-  },
-  {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">The Cyclomatic complexity C = _____<br></p><p dir=\"ltr\" style=\"text-align: left;\"><br><img src=\"https://edunextstrorage.blob.core.windows.net/image/c6076d52-fb1b-4555-a093-7e47ec71835e-question-import-from-xml-0\" alt=\"Image\" style=\"cursor: pointer; width: auto!important; height: auto!important; max-width: 350px!important;\"><br><br></p>",
-    "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">4</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">5</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">3</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">2</p>"
-    ],
-    "description": "Single choice",
-    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">3</p>"]
-  },
-  {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Static testing involves executing the program to identify defects.<br></p>",
-    "options": ["true", "false"],
-    "description": "Single choice",
-    "answer": ["false"]
-  },
-  {
-    "question": "What is a characteristic of non-functional testing?",
-    "options": [
-      "It does not include performance testing.",
-      "It is always performed after functional testing.",
-      "It focuses on how well the system performs certain actions.",
-      "It is concerned solely with what the system does."
-    ],
-    "description": "Single choice",
-    "answer": ["It focuses on how well the system performs certain actions."]
-  },
-  {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which techniques are used to ensure all possible branches of the code are tested?<br></p><p dir=\"ltr\" style=\"text-align: left;\"></p><span style=\"font-size: calc(0.90375rem + 0.045vw);\">i.&nbsp; Decision Table Testing</span><br><span style=\"font-size: calc(0.90375rem + 0.045vw);\">ii.&nbsp; Equivalence Partitioning<br></span><span>iii.&nbsp; Branch Coverage</span><br>iv.&nbsp; Paths Through Code<br><br><p></p>",
-    "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">iii, iv</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii, iv</p>"
-    ],
-    "description": "Single choice",
-    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">iii, iv</p>"]
-  },
+  [
+    {
+      "question": "____________ is a type of testing where software modules are integrated logically and tested as a group.",
+      "options": [
+        "Integration testing",
+        "Unit testing",
+        "Regression testing",
+        "Validation testing"
+      ],
+      "description": "Single choice",
+      "answer": ["Integration testing"]
+    },
+    {
+      "question": "The Cyclomatic complexity C = _____ (image reference removed)",
+      "options": ["4", "5", "3", "2"],
+      "description": "Single choice",
+      "answer": ["3"]
+    },
+    {
+      "question": "Static testing involves executing the program to identify defects.",
+      "options": ["true", "false"],
+      "description": "Single choice",
+      "answer": ["false"]
+    },
+    {
+      "question": "What is a characteristic of non-functional testing?",
+      "options": [
+        "It does not include performance testing.",
+        "It is always performed after functional testing.",
+        "It focuses on how well the system performs certain actions.",
+        "It is concerned solely with what the system does."
+      ],
+      "description": "Single choice",
+      "answer": ["It focuses on how well the system performs certain actions."]
+    },
+    {
+      "question": "Which techniques are used to ensure all possible branches of the code are tested?\n1. Decision Table Testing\n2. Equivalence Partitioning\n3. Branch Coverage\n4. Paths Through Code",
+      "options": ["i, ii, iii", "i, iii", "iii, iv", "i, iii, iv"],
+      "description": "Single choice",
+      "answer": ["iii, iv"]
+    }
+  ],
   {
     "question": "Which type of testing focuses on the system's non-functional attributes?",
     "options": [
@@ -1061,17 +1021,13 @@
   {
     "question": "Which of the following factors influence the choice of test techniques?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Time &amp; Budget<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Tester Knowledge &amp; Skills<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Available Tools<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Test Environment<br></p>"
+      "Time & Budget",
+      "Tester Knowledge & Skills",
+      "Available Tools",
+      "Test Environment"
     ],
     "description": "Multiple choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Time &amp; Budget<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Tester Knowledge &amp; Skills<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Available Tools<br></p>"
-    ]
+    "answer": ["Time & Budget", "Tester Knowledge & Skills", "Available Tools"]
   },
   {
     "question": "Which of the following is the least formal type of review in static testing?",
@@ -1133,17 +1089,17 @@
     "answer": ["Regression testing"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">What are the success factors for reviews in static testing?<br></p>",
+    "question": "What are the success factors for reviews in static testing?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Clear objectives and scope<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Extensive performance testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Frequent code execution<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Effective communication and collaboration<br></p>"
+      "Clear objectives and scope",
+      "Extensive performance testing",
+      "Frequent code execution",
+      "Effective communication and collaboration"
     ],
     "description": "Multiple choice",
     "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Clear objectives and scope<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Effective communication and collaboration<br></p>"
+      "Clear objectives and scope",
+      "Effective communication and collaboration"
     ]
   },
   {
@@ -1171,7 +1127,7 @@
     ]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">One of the benefits of static testing is the early detection of defects.<br></p>",
+    "question": "One of the benefits of static testing is the early detection of defects.",
     "options": ["true", "false"],
     "description": "Single choice",
     "answer": ["true"]
@@ -1188,18 +1144,15 @@
     "answer": ["Identifying unreachable code", "Detecting variable misuse"]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following are static analysis techniques?<br></p>",
+    "question": "Which of the following are static analysis techniques?",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Control flow analysis<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Data flow analysis<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Load testing<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Stress testing<br></p>"
+      "Control flow analysis",
+      "Data flow analysis",
+      "Load testing",
+      "Stress testing"
     ],
     "description": "Multiple choice",
-    "answer": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">Control flow analysis<br></p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">Data flow analysis<br></p>"
-    ]
+    "answer": ["Control flow analysis", "Data flow analysis"]
   },
   {
     "question": "In which model is the 'test often and early' principle most emphasized?",
