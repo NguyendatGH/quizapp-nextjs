@@ -60,15 +60,15 @@
     ]
   },
   {
-    "question": "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following techniques are classified as White Box testing?<br></p><p dir=\"ltr\" style=\"text-align: left;\">i.&nbsp; Statement Coverage<br>ii.&nbsp; Branch Coverage<br>iii. Equivalence Partitioning<br>iv.&nbsp; Paths Through Code<br></p>",
+    "question": "Which of the following techniques are classified as White Box testing?\n1. Statement Coverage\n2. Branch Coverage\n3. Equivalence Partitioning\n4. Paths Through Code",
     "options": [
-      "<p dir=\"ltr\" style=\"text-align: left;\">ii, iv</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iii</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iv</p>",
-      "<p dir=\"ltr\" style=\"text-align: left;\">i, iii</p>"
+      "i, ii and iii",
+      "i, ii and iv",
+      "ii, iii and iv",
+      "i, iii and iv"
     ],
-    "description": "Single choice",
-    "answer": ["<p dir=\"ltr\" style=\"text-align: left;\">i, ii, iv</p>"]
+    "description": "Progress Test 1",
+    "answer": ["i, ii and iv"]
   },
   {
     "question": "How does ad-hoc corrective maintenance differ from planned maintenance?",
