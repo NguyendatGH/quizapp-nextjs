@@ -30,7 +30,7 @@ export default function QuestionCard({
         <span className="bg-blue-600 text-white rounded-xl min-w-10 h-10 flex items-center justify-center font-bold text-sm shadow-sm">
           {index + 1}
         </span>
-        <h3 className="text-lg font-semibold text-gray-800 leading-relaxed pt-1">
+        <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200 leading-relaxed pt-1">
           {question.question}
         </h3>
       </div>
@@ -40,15 +40,15 @@ export default function QuestionCard({
             key={opt}
             className={`rounded-xl transition-all duration-200 ${
               selectedAnswers.includes(opt)
-                ? "bg-blue-50 border-2 border-blue-300 shadow-sm"
-                : "bg-gray-50 border-2 border-transparent hover:border-gray-200 hover:bg-white"
+                ? "bg-blue-50 dark:bg-blue-900/30 border-2 border-blue-300 dark:border-blue-600 shadow-sm"
+                : "bg-gray-50 dark:bg-gray-800 border-2 border-transparent hover:border-gray-200 dark:hover:border-gray-600 hover:bg-white dark:hover:bg-gray-700"
             }`}
           >
             <label className="flex items-center cursor-pointer p-4 w-full">
               <div className={`w-6 h-6 rounded-lg border-2 flex items-center justify-center mr-4 shrink-0 transition-all duration-200 ${
                 selectedAnswers.includes(opt)
                   ? "bg-blue-500 border-blue-500"
-                  : "border-gray-300"
+                  : "border-gray-300 dark:border-gray-500"
               }`}>
                 {selectedAnswers.includes(opt) && (
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-white" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -63,13 +63,13 @@ export default function QuestionCard({
                 onChange={() => handleCheckboxChange(opt)}
                 className="sr-only"
               />
-              <span className="text-gray-700 font-medium">{opt}</span>
+              <span className="text-gray-700 dark:text-gray-300 font-medium">{opt}</span>
             </label>
           </div>
         ))}
       </div>
       {question.description && (
-        <p className="text-gray-500 text-sm mt-6 leading-relaxed border-l-4 border-blue-200 pl-4 italic">
+        <p className="text-gray-500 dark:text-gray-400 text-sm mt-6 leading-relaxed border-l-4 border-blue-200 dark:border-blue-800 pl-4 italic">
           {question.description}
         </p>
       )}
