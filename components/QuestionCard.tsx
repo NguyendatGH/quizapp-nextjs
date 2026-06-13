@@ -25,31 +25,33 @@ export default function QuestionCard({
   };
 
   return (
-    <div className="bg-white p-6 rounded-lg shadow-md border border-gray-100 mb-6 transition-all hover:shadow-lg">
-      <h3 className="text-lg font-medium text-gray-800 mb-4 flex ">
-        <span className="bg-blue-50 text-blue-600 rounded-full h-8 w-8 flex items-center justify-center mr-3 font-semibold">
+    <div>
+      <div className="flex items-start gap-4 mb-6">
+        <span className="bg-blue-600 text-white rounded-xl min-w-10 h-10 flex items-center justify-center font-bold text-sm shadow-sm">
           {index + 1}
         </span>
-        {question.question}
-      </h3>
-      <div className="space-y-2 mt-4">
+        <h3 className="text-lg font-semibold text-gray-800 leading-relaxed pt-1">
+          {question.question}
+        </h3>
+      </div>
+      <div className="space-y-3">
         {question.options.map((opt) => (
           <div
             key={opt}
-            className={`rounded-md transition-all duration-200 ${
+            className={`rounded-xl transition-all duration-200 ${
               selectedAnswers.includes(opt)
-                ? "bg-blue-50 border border-blue-200"
-                : "bg-gray-50 border border-gray-100 hover:border-gray-200"
+                ? "bg-blue-50 border-2 border-blue-300 shadow-sm"
+                : "bg-gray-50 border-2 border-transparent hover:border-gray-200 hover:bg-white"
             }`}
           >
-            <label className="flex items-center cursor-pointer p-3 w-full">
-              <div className={`w-5 h-5 rounded border flex items-center justify-center mr-3 ${
+            <label className="flex items-center cursor-pointer p-4 w-full">
+              <div className={`w-6 h-6 rounded-lg border-2 flex items-center justify-center mr-4 shrink-0 transition-all duration-200 ${
                 selectedAnswers.includes(opt)
                   ? "bg-blue-500 border-blue-500"
                   : "border-gray-300"
               }`}>
                 {selectedAnswers.includes(opt) && (
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3 text-white" viewBox="0 0 20 20" fill="currentColor">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-white" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
                 )}
@@ -61,13 +63,13 @@ export default function QuestionCard({
                 onChange={() => handleCheckboxChange(opt)}
                 className="sr-only"
               />
-              <span className="text-gray-700">{opt}</span>
+              <span className="text-gray-700 font-medium">{opt}</span>
             </label>
           </div>
         ))}
       </div>
       {question.description && (
-        <p className="text-green-800 text-sm mt-4 italic border-l-2 border-gray-200 pl-3">
+        <p className="text-gray-500 text-sm mt-6 leading-relaxed border-l-4 border-blue-200 pl-4 italic">
           {question.description}
         </p>
       )}

@@ -1,6 +1,7 @@
 "use client";
 import QuestionCard from "@/components/QuestionCard";
-import { useEffect, useState } from "react";
+import QuestionMap from "@/components/QuestionMap";
+import { useEffect, useState, useMemo } from "react";
 import { Question } from "@/types/question";
 import { useRouter } from "next/navigation";
 import { useCornerFireworks } from "@/hooks/useCornerFireworks";
@@ -41,6 +42,19 @@ export default function Play() {
       [index]: selectedAns,
     }));
   };
+
+  const handleJumpToQuestion = (index: number) => {
+    setCurrentIndex(index);
+  };
+
+  const answeredSet = useMemo(
+    () => new Set(
+      Object.entries(userAnswers)
+        .filter(([, answers]) => answers.length > 0)
+        .map(([index]) => Number(index))
+    ),
+    [userAnswers]
+  );
   const fireworkEffect = useCornerFireworks();
   const handleSubmit = () => {
     let count = 0;
@@ -50,6 +64,7 @@ export default function Play() {
       const correctAns = quest.answer || [];
 
       const isCorrect =
+        correctAns.length > 0 &&
         userAnswer.length === correctAns.length &&
         userAnswer.every((answer) => correctAns.includes(answer));
       if (isCorrect) {
@@ -86,126 +101,125 @@ export default function Play() {
         <div className="text-center text-lg mt-10">Loading questions...</div>
       ) : (
         <>
-          <main className="min-h-screen  py-8 px-4"  style={{ backgroundImage: "var(--background-color)" }}>
-            <div className="max-w-2xl mx-auto">
-              <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 mb-6">
-                <h1 className="text-2xl font-semibold text-gray-800 mb-2">
-                  Quiz in Progress
-                </h1>
-
-                {selectedQuestions.length > 0 && (
-                  <div className="flex items-center mb-6">
-                    <div className="bg-blue-100 text-blue-800 rounded-full px-4 py-1 text-sm font-medium">
-                      Question {currentIndex + 1} of {selectedQuestions.length}
+          <main className="min-h-screen py-8 px-4 md:px-8" style={{ backgroundImage: "var(--background-color)" }}>
+            <div className="max-w-6xl mx-auto">
+              {selectedQuestions.length > 0 && (
+                <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-5 mb-6">
+                  <div className="flex flex-col sm:flex-row sm:items-center gap-3">
+                    <div className="flex items-center gap-3">
+                      <h1 className="text-xl font-bold text-gray-800">
+                        Quiz in Progress
+                      </h1>
+                      <span className="bg-green-50 text-green-700 text-sm font-semibold px-3 py-1 rounded-lg">
+                        {answeredSet.size}/{selectedQuestions.length} answered
+                      </span>
                     </div>
-                    <div className="ml-auto h-2 bg-gray-100 rounded-full w-40">
-                      <div
-                        className="h-2 bg-blue-500 rounded-full"
-                        style={{
-                          width: `${
-                            ((currentIndex + 1) / selectedQuestions.length) *
-                            100
-                          }%`,
-                        }}
+                    <div className="sm:ml-auto flex-1 sm:max-w-xs">
+                      <div className="flex items-center gap-2">
+                        <span className="text-xs text-gray-400 font-medium whitespace-nowrap">
+                          {Math.round((answeredSet.size / selectedQuestions.length) * 100)}%
+                        </span>
+                        <div className="flex-1 h-2.5 bg-gray-100 rounded-full overflow-hidden">
+                          <div
+                            className="h-full bg-green-500 rounded-full transition-all duration-300"
+                            style={{
+                              width: `${(answeredSet.size / selectedQuestions.length) * 100}%`,
+                            }}
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {selectedQuestions.length === 0 ? (
+                <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-12 text-center">
+                  <div className="w-16 h-16 bg-gray-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-gray-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                      <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                  <p className="text-gray-500 mb-6">
+                    No questions selected. Please go back and start the quiz.
+                  </p>
+                  <button
+                    onClick={() => router.push("/Quiz")}
+                    className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2.5 px-6 rounded-lg transition-colors cursor-pointer"
+                  >
+                    Back to Quiz Setup
+                  </button>
+                </div>
+              ) : (
+                <div className="flex flex-col lg:flex-row gap-6">
+                  <div className="lg:w-96 shrink-0">
+                    <div className="lg:sticky lg:top-8">
+                      <QuestionMap
+                        totalQuestions={selectedQuestions.length}
+                        currentIndex={currentIndex}
+                        answeredQuestions={answeredSet}
+                        onJumpTo={handleJumpToQuestion}
                       />
                     </div>
                   </div>
-                )}
 
-                {selectedQuestions.length === 0 ? (
-                  <div className="text-center py-12">
-                    <p className="text-gray-500">
-                      No questions selected. Please go back and start the quiz.
-                    </p>
-                    <button
-                      onClick={() => router.push("/Quiz")}
-                      className="mt-4 bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition-colors"
-                    >
-                      Back to Quiz Setup
-                    </button>
-                  </div>
-                ) : (
-                  <>
-                    <QuestionCard
-                      index={currentIndex}
-                      question={selectedQuestions[currentIndex]}
-                      selectedAnswers={userAnswers[currentIndex] || []}
-                      onSelectAnswer={handleAnswerSelected}
-                    />
+                  <div className="flex-1 min-w-0">
+                    <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 md:p-8">
+                      <QuestionCard
+                        index={currentIndex}
+                        question={selectedQuestions[currentIndex]}
+                        selectedAnswers={userAnswers[currentIndex] || []}
+                        onSelectAnswer={handleAnswerSelected}
+                      />
 
-                    <div className="flex items-center justify-between mt-6">
-                      <button
-                        onClick={() => handlePrevQuest(currentIndex)}
-                        disabled={currentIndex === 0}
-                        className="flex items-center bg-white hover:bg-gray-50 text-gray-700 font-medium py-2 px-4 rounded-md transition-colors border border-gray-200 disabled:opacity-50 disabled:cursor-not-allowed"
-                      >
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="h-5 w-5 mr-1"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                        >
-                          <path
-                            fillRule="evenodd"
-                            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
-                            clipRule="evenodd"
-                          />
-                        </svg>
-                        Previous
-                      </button>
-
-                      {currentIndex < selectedQuestions.length - 1 ? (
+                      <div className="flex items-center justify-between mt-8 pt-6 border-t border-gray-100">
                         <button
-                          onClick={() => handleNextQuest(currentIndex)}
-                          className="flex items-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition-colors"
+                          onClick={() => handlePrevQuest(currentIndex)}
+                          disabled={currentIndex === 0}
+                          className="flex items-center bg-white hover:bg-gray-50 text-gray-700 font-medium py-2.5 px-5 rounded-lg transition-colors border border-gray-200 disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
                         >
-                          Next
-                          <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            className="h-5 w-5 ml-1"
-                            viewBox="0 0 20 20"
-                            fill="currentColor"
-                          >
-                            <path
-                              fillRule="evenodd"
-                              d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-                              clipRule="evenodd"
-                            />
+                          <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                            <path fillRule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
+                          Previous
                         </button>
-                      ) : (
-                        <button
-                          onClick={() => handleSubmit()}
-                          className="flex items-center bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-md transition-colors"
-                        >
-                          Submit Quiz
-                          <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            className="h-5 w-5 ml-1"
-                            viewBox="0 0 20 20"
-                            fill="currentColor"
+
+                        {currentIndex < selectedQuestions.length - 1 ? (
+                          <button
+                            onClick={() => handleNextQuest(currentIndex)}
+                            className="flex items-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2.5 px-5 rounded-lg transition-colors shadow-sm cursor-pointer"
                           >
-                            <path
-                              fillRule="evenodd"
-                              d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                              clipRule="evenodd"
-                            />
-                          </svg>
-                        </button>
-                      )}
+                            Next
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                              <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                            </svg>
+                          </button>
+                        ) : (
+                          <button
+                            onClick={() => handleSubmit()}
+                            className="flex items-center bg-green-600 hover:bg-green-700 text-white font-semibold py-2.5 px-6 rounded-lg transition-colors shadow-sm cursor-pointer"
+                          >
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                              <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                            </svg>
+                            Submit Quiz
+                          </button>
+                        )}
+                      </div>
                     </div>
-                  </>
-                )}
-              </div>
 
-              {selectedQuestions.length > 0 && currentIndex !== selectedQuestions.length - 1 && (
-                <div className="text-center">
-                  <button
-                    onClick={() => handleSubmit()}
-                    className="bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-6 rounded-md transition-colors shadow-sm"
-                  >
-                    Submit Quiz
-                  </button>
+                    <div className="text-center mt-4">
+                      <button
+                        onClick={() => handleSubmit()}
+                        className="inline-flex items-center gap-2 bg-white hover:bg-red-50 text-gray-500 hover:text-red-600 font-medium py-2.5 px-5 rounded-lg transition-all duration-200 border border-gray-200 hover:border-red-200 cursor-pointer group"
+                      >
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 transition-colors duration-200 group-hover:text-red-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                          <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />
+                        </svg>
+                        End Quiz & Submit
+                      </button>
+                    </div>
+                  </div>
                 </div>
               )}
             </div>
