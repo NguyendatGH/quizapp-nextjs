@@ -166,6 +166,7 @@ export default function Play() {
                   <div className="flex-1 min-w-0">
                     <div className="bg-white dark:bg-gray-900 rounded-xl shadow-sm dark:shadow-gray-950/50 border border-gray-100 dark:border-gray-800 p-6 md:p-8">
                       <QuestionCard
+                        key={currentIndex}
                         index={currentIndex}
                         question={selectedQuestions[currentIndex]}
                         selectedAnswers={userAnswers[currentIndex] || []}
