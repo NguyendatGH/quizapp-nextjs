@@ -144,7 +144,7 @@ export default function Play() {
                     No questions selected. Please go back and start the quiz.
                   </p>
                   <button
-                    onClick={() => router.push("/Quiz")}
+                    onClick={() => router.push("/Quiz/Setup")}
                     className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2.5 px-6 rounded-lg transition-colors cursor-pointer"
                   >
                     Back to Quiz Setup

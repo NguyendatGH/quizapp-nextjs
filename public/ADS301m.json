@@ -1,0 +1,2901 @@
+[
+  {
+    "question": "Most of the content on your site will fall into the_ category.",
+    "options": [
+      "trending",
+      "general",
+      "seasonal",
+      "evergreen"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT one of the best practices regarding URLs?",
+    "options": [
+      "You should keep URLs short.",
+      "You should use keywords in URLs.",
+      "You should not optimize URLs from the start.",
+      "You should not change URLs lightly."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Status Code__ is presented when the server is down, maintenance is being performed, or the server is overloaded.",
+    "options": [
+      "200",
+      "404",
+      "500",
+      "503"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which one of the following is NOT one type of information you can analyze when using a tool such as Google Chrome's Share Metric?",
+    "options": [
+      "Level of audience activity on social sites.",
+      "The popularity of different sites among audience members.",
+      "How to imitate your competitors.",
+      "What features might be good to add to your own or your client's site."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Building your audience is essential to online success. Several of the following are ways to build your audience; which one is not?",
+    "options": [
+      "Share great content on social media to those who show an interest in your topic or share market space.",
+      "Selectively buy followers on social media to increase the apparent size of your audience.",
+      "Creating content of such quality that it will be shared with OPA, other people's audiences.",
+      "Seek to engage your audience."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following incorrectly pairs a type of query with its purpose?",
+    "options": [
+      "A navigational query is a search where you are looking for recommendations for how to make a decision about a product.",
+      "A transactional query is done once the purchase item is selected and is geared toward finding the right site from which to purchase.",
+      "An informational query is one where a user is looking for general content on a topic.",
+      "None of the others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is true regarding buyer's personas?",
+    "options": [
+      "Buyer's gender can influence vocabulary",
+      "Sites do not need a persona for both genders",
+      "The persona should only provide a general description of your target customer",
+      "None of the others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which algorithm update targets manipulative link practices, bad anchor text, link trading, among others?",
+    "options": [
+      "Hummingbird",
+      "Mobilegeddon",
+      "Panda",
+      "Penguin"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which one of the following is not a way you can give influencers reasons to share your content or write about it?",
+    "options": [
+      "Make it relevant.",
+      "Aggressively pursue a relationship with the influencer and relentlessly ask them to share your content with their audience.",
+      "Create truly excellent content.",
+      "Be trustworthy, because they will have to have a certain amount of trust in you."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Suppose you have separated keywords into thematic groups associated with specified areas of a site. You notice one group is performing poorly for keyword rankings; what should this prompt you to do?",
+    "options": [
+      "Revise all the keywords on the site.",
+      "Check all areas of the site with a complete site audit.",
+      "Go into the area of the site associated with that keyword group to see how that area can be improved.",
+      "All of these others"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is not one of the possible benefits of using Facebook in conjunction with your contact list as an advertising technique to gain extra visibility and targeted exposure for your high-quality content?",
+    "options": [
+      "Put your content in front of a look-alike audience who are similar in characteristic to everybody who is on your mailing list.",
+      "You gain the powerful ability to target ads directly to your select email list of media and influencers.",
+      "Make sure that your content reaches every person on your contact email list.",
+      "You gain extra visibility."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Performing a competitive analysis is essential to:",
+    "options": [
+      "Helping identify who true competitors are.",
+      "Revealing what competitors are doing in the marketplace.",
+      "Helping you identify what types of content to use.",
+      "Helping you determine what voice to use in your content",
+      "All of the others"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Considerable attention was given to discovering demographic information about various social media platforms such as Facebook, Twitter, Instagram, Pinterest, Snapchat, LinkedIn, and others. Why do you need such demographic information?",
+    "options": [
+      "To establish yourself as an expert in your market space",
+      "To get some sense of which social media platforms make the most sense for you",
+      "To get more links back to your site",
+      "Discover where your audience goes online, so that you can go where your audience goes",
+      "B and D are correct",
+      "A, B and C are correct"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding branding and SEO?",
+    "options": [
+      "Large part of SEO involves raising awareness",
+      "Branding and SEO are mutually exclusive.",
+      "Offline efforts can produce online results",
+      "None of the others."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is an A/B test?",
+    "options": [
+      "When you record people using the app to see how they navigate",
+      "Splitting traffic across different variations of the app",
+      "Measuring the CTR of visits from your website to your app listing",
+      "None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What should you pay attention to regarding using multiple keywords in the title tag?",
+    "options": [
+      "You should avoid using any special characters.",
+      "You should shorten the brand name if it's too long",
+      "You should ask the client about branding guidelines.",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Creating a custom CTR curve is:",
+    "options": [
+      "Absolutely necessary",
+      "There's no point because there are industry-standard ones",
+      "Helpful but not required",
+      "Not helpful"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to this module, content marketing is explained as being all of the things listed below, except one. Which item is NOT true about content marketing?",
+    "options": [
+      "Content marketing is the safest and best approach to obtaining high-quality links.",
+      "Content marketing is all about manipulation and bending the rules.",
+      "Content marketing is key to building the reputation and visibility of your business online.",
+      "Content marketing helps you receive high-quality links that drive higher SEO rankings."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is one of the cons of featured snippets?",
+    "options": [
+      "The result may answer a query and prevent them from clicking to your website.",
+      "It is not good for obtaining voice search results.",
+      "It is not good for branding",
+      "None of the others."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Suppose you are in your initial meeting with a new client; which of the following are questions you should ask?",
+    "options": [
+      "Has your company previously worked with an SEO firm?",
+      "Have you previously used other domain names?",
+      "(if they have worked with an SEO firm previously) ask, \"What did you like and dislike?\"",
+      "What keywords are you currently tracking?",
+      "All of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "The purpose of a keyword map is to help us:",
+    "options": [
+      "create focused pages grouped around a keyword or group of keywords.",
+      "determine the theme of the page.",
+      "avoid using duplicate keywords.",
+      "creates a reference document for clients.",
+      "All of the others"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "What is an example of ASO?",
+    "options": [
+      "Having a good content marketing strategy in place",
+      "Optimizing your apps titles and descriptions",
+      "Making sure that your website points to your app store listing",
+      "All of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When looking at traffic for a site, which of these should you most be concerned about:",
+    "options": [
+      "Directs Visits",
+      "Paid Visits",
+      "Organic Visits",
+      "Referring Site Visits",
+      "Total Visits"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Status Code ___ means okay/success, that the page is loaded properly.",
+    "options": [
+      "200",
+      "404",
+      "500",
+      "503"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Both ____and _____ have built-in A/B testing functionality.",
+    "options": [
+      "Google, Apple",
+      "Google, Amazon",
+      "Facebook, Nielsen",
+      "None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following statements is FALSE regarding the sitemaps?",
+    "options": [
+      "An XML sitemap is especially useful for new sites that have not yet been discovered by search engines.",
+      "An XML sitemap is a file intended to be read by search engine robots.",
+      "A website only needs either the HTML sitemap or the XML sitemap.",
+      "Larger sites will generally split up their HTML sitemap content into different categories."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to the module \"The content marketing ecosystem\", search engines like:",
+    "options": [
+      "A well-structured site",
+      "Page relevance for common search terms",
+      "Earned links from third-party sites",
+      "All of these",
+      "None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "____ are a video or article that Google displays at the very top of organic search",
+    "options": [
+      "Rich snippets",
+      "FAQS",
+      "Featured snippets",
+      "Related searches"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which is not one of the good tactics to build relationships with influencers?",
+    "options": [
+      "Engage them in dialog online or in person.",
+      "Ask influencers to interview you for their audience.",
+      "Get an introduction from someone they trust.",
+      "Re-share their content."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which one of the following is NOT one of the questions to ask regarding content analysis?",
+    "options": [
+      "Do all articles and blog posts have an eye-catching and supportive image?",
+      "Are there other supporting pages within our site that the content can link to?",
+      "Are there external resources we can link to in order to provide a better user experience?",
+      "None of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following statements is true regarding title tags?",
+    "options": [
+      "From an SEO standpoint, Google places more importance on the words at the beginning than at the end",
+      "It is recommended that companies should keep the brand at the end of the title tag",
+      "Title tags should not be longer than 55-60 characters.",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "In analyzing keywords, the Google Semantic Algorithm can be a helpful tool for:",
+    "options": [
+      "Ranking keywords",
+      "Recognizing relationships between keywords",
+      "Refining which words to target",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "ASO stands for:",
+    "options": [
+      "App Store Optimization",
+      "App Simulation Organization",
+      "Align Store Optimization",
+      "None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a way to help build an audience on social media platforms?",
+    "options": [
+      "Be a genuine part of the community",
+      "Bring value to the community",
+      "Give many times before you ask others to give to or do for you",
+      "All of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT one of the best practices regarding meta descriptions?",
+    "options": [
+      "You should use no more than 150-160 characters.",
+      "You should include keywords.",
+      "You should use a lot of quotations.",
+      "You should include a call to action."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A target audience generally consists of____",
+    "options": [
+      "Only Media and Customers.",
+      "Media, Bloggers, Influencers, Potential Customers, Customers, and other people in your market space.",
+      "Media, Bloggers, Influencers, and Potential Customers.",
+      "Media, Bloggers, Influencers, and Customers."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In your initial conversation with clients, why is it a good idea to share a few quick wins and opportunities?",
+    "options": [
+      "Quick wins provide a means to show immediate value to your services.",
+      "Identifying opportunities helps to identify ways that your expertise is needed.",
+      "It provides a complete road map of all of the work you will do during the project.",
+      "A and B are correct",
+      "A and C are correct"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Why shouldn't you change a URL for SEO?",
+    "options": [
+      "The webpage may lose the history and authority it has already built up.",
+      "It needs less parameters in the URL.",
+      "Important keywords are not at the beginning of a URL.",
+      "The keywords and subdirectories are not as accurate as they should be."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is considered a \"hack\" to help you get started with collaboration as you seek to build relationships with influencers?",
+    "options": [
+      "The Opportunities Hack: where you watch for opportunities on social media and respond if you can",
+      "The Round-up Hack: where you get brief contributions on a theme from several influencers.",
+      "Pick Low-hanging Fruit Hack: where you make the most of opportunities that become available to you",
+      "All of these others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What are some ways of thinking about links to your site?",
+    "options": [
+      "Valid citations in a research paper",
+      "A P.O.E.M.",
+      "Votes in a popular election",
+      "A spider crawling its web",
+      "A, C and D are correct",
+      "A and C are correct"
+    ],
+    "answer": "F"
+  },
+  {
+    "question": "What are some ways of thinking about links to your site? (Select that all apply)",
+    "options": [
+      "A spider crawling its web",
+      "Valid citations in a research paper",
+      "External links to guest posts",
+      "Link exchanges"
+    ],
+    "answer": "BC"
+  },
+  {
+    "question": "Which of the following IS NOT an example of a company adjusting for the seasonality of searches?",
+    "options": [
+      "A car company posts blog posts about the safety ratings of their new cars during the fall months when the new cars come out.",
+      "A lip balm company increases web advertising during the winter months.",
+      "A tuxedo rental company includes web content geared toward a female audience since they know their research shows that women planning weddings are the majority of their site visitors.",
+      "None of the others"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding the importance of links?",
+    "options": [
+      "Importance of links has slightly declined.",
+      "This metric was hard to manipulate.",
+      "Off-site SEO requires creativity and patience,",
+      "Low quality links can result in penalties."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following statements is FALSE regarding long-tail keywords?",
+    "options": [
+      "They are less frequently used and difficult to optimize.",
+      "More traffic comes from long-tail keywords.",
+      "The probability of conversion is lower with long-tail keywords.",
+      "None of the others"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following strategies is the recommended way to choose the best platform for your business?",
+    "options": [
+      "Use the platform that everyone uses.",
+      "Experiment with multiple platforms before finalizing a strategy.",
+      "Read extensively and choose without trying any of the platforms.",
+      "All of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following IS NOT a SMART goal?",
+    "options": [
+      "Increase sales of Adidas brand shoes by 25% by the end of the fiscal year.",
+      "Increase leads generated from our website by 10% by the end of the quarter.",
+      "Generate more site traffic within three months.",
+      "Reduce the site bounce rate by 15% in six months."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "________ SEOs tend to get hit by penalties more frequently, and are known for more churn and burn approach to SEO.",
+    "options": [
+      "White hat",
+      "Gray hat",
+      "Red hat",
+      "Black hat"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Content marketing should focus on building or gaining things as the best way to obtain high-quality links and trigger other behavior patterns that online search engines use as ranking signals. What are one of these things?",
+    "options": [
+      "A large email marketing list",
+      "Visibility",
+      "Contacts with media",
+      "A list of influencers in your market",
+      "None"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the best way to get links to your site?",
+    "options": [
+      "Optimize keyword searches for each page.",
+      "Solicit other sites to link to yours.",
+      "Content marketing - when viewed as an ecosystem.",
+      "All of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following IS NOT a characteristic of a great keyword?",
+    "options": [
+      "It captures a longer tail phrase related to your website's topic",
+      "It is general in order to cast a wide net",
+      "It is aligned with buyer intent.",
+      "The word has low competition"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which algorithm update targets thin/low quality sites, duplicate content, and excessive ads?",
+    "options": [
+      "Hummingbird",
+      "Mobilegeddon",
+      "Panda",
+      "Penguin"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is a soft 404 error?",
+    "options": [
+      "A 404 error page that is designed to ease end user distress.",
+      "A 404 error that is rapidly addressed by a web team.",
+      "A page that no longer exists but still returns a 200, or okay, status code.",
+      "A soft 404 is a type of error that is easier to recognize and solve than a traditional 404 error."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In______ one main page contains all content, and users must scroll for information, while content is broken up by forms, purchase buttons, and pop-ups.",
+    "options": [
+      "Meta refresh",
+      "Doorway pages",
+      "Squeeze pages",
+      "Bad guest posts"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "ROI stands for:",
+    "options": [
+      "Revenue Opposition Investment",
+      "Revenue on Impact",
+      "Really Optimistic Indexing",
+      "Return on Investment"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the primary difference between an XML sitemap and an HTML sitemap in SEO?",
+    "options": [
+      "An XML sitemap is for search engines, while an HTML sitemap is for users.",
+      "An XML sitemap includes multimedia content, while an HTML sitemap focuses on textual content.",
+      "An XML sitemap is only visible to website administrators, while an HTML sitemap is accessible to all users.",
+      "An XML sitemap helps with website design, while an HTML sitemap aids in website navigation."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an unrealistic client expectation that should be reframed early in your relationship?",
+    "options": [
+      "Within 12 months, site traffic will triple.",
+      "By the end of the fiscal year 50% fewer visitors will bounce from the site.",
+      "Within eight months, attain a number one rank for their top keyword",
+      "The client expects 20% more completed checkouts within six months."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A_____view of the content marketing ecosystem conveys the idea that the whole is more than merely the sum of its parts, in theory, or practice.",
+    "options": [
+      "Holistic",
+      "Democratic",
+      "Bureaucratic",
+      "Simulation"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of evergreen content in SEO?",
+    "options": [
+      "Breaking news articles about current events.",
+      "Seasonal gift guides for the holiday season.",
+      "Step-by-step tutorials on how to use software.",
+      "Product reviews for the latest gadgets."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Imagine that one of your client's primary goals is to increase the amount of traffic to their site. The chart below compares this year's data (in blue) to last year's data (in red). Is this year's dip (in blue) after June an indicator that you are likely to have trouble meeting the client's goal?",
+    "options": [
+      "Definitely. There is a clear need to shift approach based on the decline in traffic.",
+      "All of these statements are incorrect",
+      "Probably not. The traffic is still significantly higher than where it was at the same time last year. There is some reason to think that this is a seasonal dip.",
+      "Probably. The traffic dramatically decreased from June to July. These spell trouble."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "___focuses on the content on the page, keyword choice for the page, and optimizing the pages metadata.",
+    "options": [
+      "On-page optimization",
+      "Technical optimization",
+      "Non-technical optimization",
+      "Off-site optimization"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The three main areas of SEO are on-page optimization, off-site optimization, and____ optimization",
+    "options": [
+      "technical",
+      "non-technical",
+      "advanced",
+      "meta"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is a factor Google looks at when judging your site authority based on your back link profile?",
+    "options": [
+      "The amount of links your website has.",
+      "How relevant the site linking to your site is.",
+      "The placement of the link",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding title tag length?",
+    "options": [
+      "The title tags could impact future visits to your site.",
+      "The end of the title tags has the most weight.",
+      "You should only use important keywords in the title tags.",
+      "The title tags could impact click-through to your site."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "KPI stands for:",
+    "options": [
+      "Key Performance Indicator",
+      "Keyword Personalization Index",
+      "Key Paid Indicators",
+      "None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the main reason that you should do a mini-audit of a site prior to working with a client?",
+    "options": [
+      "It helps you identify problems for the client that you will not be able to address.",
+      "It helps you provide a list of problems that previous SEO work has caused for the site.",
+      "It helps you identify the costs associated with each of the client's SMART goals.",
+      "It helps you identify ways to provide immediate value and set the timeline for the project."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following statements is true regarding optimizing content?",
+    "options": [
+      "You should take as much content from other sources as possible to diversify your content.",
+      "Copying a page and paraphrasing the content will turn it into unique content.",
+      "You should write articles that don't match your usual keywords and topics to diversify your content.",
+      "You should break up the keyword use throughout the article."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Suppose you are seeking to increase your site's ranking with search engines. You want the links to and from your site to be seen as highly valuable to search engines. What kinds of links are considered most valuable?",
+    "options": [
+      "Links from sites considered authoritative in your market space",
+      "Links you bought without consideration for relevance or authority",
+      "Links that have topical relevance to your site and within your market space",
+      "A and B are correct",
+      "B and C are correct",
+      "A and C are correct"
+    ],
+    "answer": "F"
+  },
+  {
+    "question": "Which of the following is NOT one of the steps in the process for building a good relationship with an influencer?",
+    "options": [
+      "Add more value than what you expect in return.",
+      "See what non-professional interests they seem to like such as sports, wine, or cars.",
+      "Try to discover their home address and send them a personal note or drop off a gift."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What are two fundamental pieces that there's actually a whole bunch of tech behind this, a whole bunch of different systems that are determining what results get shown to the user?",
+    "options": [
+      "There's Penguin and Panda",
+      "There's Google Analytics and Google Adwords",
+      "There's the paid search engine and the organic engine",
+      "There's binary data and meta data"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT one of the old SEO tactics?",
+    "options": [
+      "Adding list of keywords as white text over white backgrounds",
+      "Creating hundreds of pages for each variation of keywords",
+      "Relying heavily on keyword-rich domain names",
+      "Paying attention to social networks as search engines"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding search engine algorithms?",
+    "options": [
+      "Details on each algorithm update are clear and specific",
+      "SEOs need to be proactive to avoid constantly playing catch-up",
+      "Google algorithms have the most impact due to market share",
+      "Google algorithms are updated daily"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Things that will help prove your____ include links and citations from press and media mentions.",
+    "options": [
+      "expertise",
+      "authority",
+      "trust",
+      "none of the others"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What can you do to avoid getting local and personalized results when analyzing keywords in SEO?",
+    "options": [
+      "Use a VPN to mask your location and access global search results.",
+      "Clear your browser cookies and cache before conducting keyword analysis.",
+      "Use an incognito or private browsing mode in your web browser.",
+      "Disable location services on your device to prevent personalized results."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the main purpose of the 302 HTTP status code in SEO?",
+    "options": [
+      "It indicates that a webpage has been permanently moved to a new URL.",
+      "It informs search engines that a webpage cannot be found or does not exist.",
+      "It temporarily redirects a webpage to a different URL without transferring SEO value.",
+      "It signifies that a webpage is accessible and functioning properly."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements is NOT true regarding Google Search Console?",
+    "options": [
+      "Google Search Console mainly gives you insights about user behavior.",
+      "Google Search Console is a free tool.",
+      "Google Search Console may help you determine search queries that get a lot of impressions, clicks.",
+      "None of the others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of seasonal content in SEO?",
+    "options": [
+      "A comprehensive guide on nutrition and healthy eating.",
+      "A tutorial on how to design a logo using graphic design software.",
+      "A gift guide for Valentine's Day featuring romantic gift ideas.",
+      "A case study analyzing the effectiveness of email marketing campaigns."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an example of a navigational query in SEO?",
+    "options": [
+      "\"How to bake a chocolate cake from scratch\"",
+      "\"Best restaurants in New York City\"",
+      "\"Benefits of regular exercise\"",
+      "\"Facebook login\""
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is an example of a transactional query in SEO?",
+    "options": [
+      "\"How to change a car tire\"",
+      "\"Best hotels in London\"",
+      "\"Buy iPhone X online\"",
+      "\"Benefits of drinking green tea\""
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Google algorithm updates happen every single_____",
+    "options": [
+      "day",
+      "week",
+      "month",
+      "none of the others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which algorithm update was released in 2012, focusing on combating Black Hat link building tactics?",
+    "options": [
+      "Penguin",
+      "Panda",
+      "Hummingbird",
+      "RankBrain"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What does local SEO primarily focus on?",
+    "options": [
+      "Targeting a global audience for international businesses.",
+      "Optimizing online presence to attract local customers and clients.",
+      "Improving website visibility in search results for any location.",
+      "Enhancing website performance and loading speed for better user experience."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the recommended length of the meta description?",
+    "options": [
+      "150-160 characters",
+      "170-200 characters",
+      "Over 200 characters",
+      "There is no recommended length"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is NOT a specialization under SEO?",
+    "options": [
+      "Local SEO",
+      "Technical SEO",
+      "SEO copywriting",
+      "none of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is an advantage of using evergreen content in SEO?",
+    "options": [
+      "Evergreen content allows for frequent updates and modifications.",
+      "Evergreen content attracts more backlinks from other websites.",
+      "Evergreen content generates immediate and short-term traffic boosts.",
+      "Evergreen content remains relevant and valuable over an extended period."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is not Google Ads keyword match type?",
+    "options": [
+      "Broad Match",
+      "Phrase Match",
+      "Exact Match",
+      "Specific Match"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is the first step in how search engines work?",
+    "options": [
+      "Web crawling",
+      "Information collecting",
+      "Indexing",
+      "Ranking"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the recommended action to take when users land on a 404 page in SEO?",
+    "options": [
+      "Display a generic error message and encourage users to navigate back to the homepage.",
+      "Redirect users to the website's homepage to avoid a negative user experience.",
+      "Customize the 404 page to provide helpful information and suggest relevant alternative pages.",
+      "Disable the 404 page and display a blank page to avoid any negative impact on SEO."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why should you optimize screenshots?",
+    "options": [
+      "To clearly state the price of your app",
+      "To make sure your app is featured in the right category",
+      "To meet quality guidelines of the app stores",
+      "To improve downloads and retention"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "E.A.T stands for expertise,_____, and trust.",
+    "options": [
+      "action",
+      "authority",
+      "authorization",
+      "access"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "You should view your site from a/an ________ perspective to be sure the content is helpful, valuable, and relevant.",
+    "options": [
+      "user's",
+      "webmaster's",
+      "advertiser's",
+      "client's"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is true regarding consumer persona?",
+    "options": [
+      "You should build only one persona for all target customers.",
+      "The consumer's age may impact keyword choices.",
+      "The gender of the buyer plays no role in vocabulary choices.",
+      "None of the others"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT one of the purposes of a keyword map in SEO?",
+    "options": [
+      "Organizing and structuring website content based on target keywords.",
+      "Identifying keyword opportunities and gaps in the website's content.",
+      "Monitoring keyword rankings and performance in search engine results.",
+      "Generating backlinks and improving link building strategies."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "When____ was penalized, webmasters turned to javascript and creative links.",
+    "options": [
+      "Meta refresh",
+      "Doorway pages",
+      "Squeeze pages",
+      "Bad guest posts"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The protocol that was created in the early days of the Internet to prevent robots from crawling areas of the Web they were not supposed to access is referred to as:",
+    "options": [
+      "robots.txt",
+      "XML sitemap",
+      "HTML sitemap",
+      "None of the others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Once you have assembled a list of competitors, the main factors to check for include:",
+    "options": [
+      "A ranked homepage",
+      "Site authority",
+      "Optimized title tag",
+      "Quality of content",
+      "All of the others"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Which of the following is an example of an informational query in SEO?",
+    "options": [
+      "\"Nike shoes for sale\"",
+      "\"How to tie a necktie\"",
+      "\"Best pizza delivery near me\"",
+      "None of the others"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which is a characteristic of great content?",
+    "options": [
+      "It has to be findable on search engines.",
+      "It should prompt action by the user.",
+      "It should be share worthy.",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The block of text under the title and URL, describing what the page is about is called the_____",
+    "options": [
+      "meta tag",
+      "meta description",
+      "title tag",
+      "rich snippet"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding meta description?",
+    "options": [
+      "Meta descriptions should have a character limit.",
+      "A well crafted meta description can increase click through to your website.",
+      "Optimizing meta description is not helpful to SEO strategy.",
+      "None of the others"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of the robots.txt file in SEO?",
+    "options": [
+      "It instructs search engines on which pages of the website to exclude from indexing.",
+      "It provides metadata information about the website's content and structure.",
+      "It enhances the website's visual appearance and user experience.",
+      "It automatically generates backlinks to improve search engine rankings."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is an important consideration when creating evergreen content in SEO?",
+    "options": [
+      "Ensuring the content is well-researched and factually accurate.",
+      "Including specific references to current events or trends",
+      "Optimizing the content for highly competitive keywords.",
+      "Focusing on creating content with a short shelf life."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following are NOT good content marketing strategies when you are seeking to build your reputation, visibility, and provide you with high-quality links?",
+    "options": [
+      "Publish in as many third-party sites as possible, even if the themes are irrelevant to your site and your audience.",
+      "Publish high-quality content as guest posts on third-party sites.",
+      "Seek to get your content published on sites that have high authority in your market space.",
+      "All of these are not good content marketing strategies."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What are some quick wins you should try when working with a new client?",
+    "options": [
+      "Add more keywords to the site.",
+      "Ensure there is a robots txt file uploaded and appropriate areas are blocked.",
+      "Add more text to the homepage and other important pages.",
+      "Have the client install Google Webmaster Tools & Google Analytics on their computer.",
+      "A, B, and C are correct",
+      "B, C and D are correct"
+    ],
+    "answer": "F"
+  },
+  {
+    "question": "What is Russia's major search engine?",
+    "options": [
+      "Yandex",
+      "Google",
+      "Baidu",
+      "Naver"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The_______algorithm update was created with the aim to better understand human search, by developing a better understanding of the context through what's called semantic indexing.",
+    "options": [
+      "Penguin",
+      "Panda",
+      "RankBrain",
+      "None of the others"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What are the benefits of Google Ads?",
+    "options": [
+      "It's time efficient",
+      "Get in front of the right audience",
+      "Your budget can be any size",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Their key important thing as we saw in that last search, is that they're involved in that___ that last step before the user purchases.",
+    "options": [
+      "purchase",
+      "information search",
+      "problem recognition",
+      "evaluation of alternatives"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of these is a good reason to forecast?",
+    "options": [
+      "Getting approval for appropriate resources to finish a project",
+      "So you look busy to executives",
+      "To help train new hires",
+      "Making sure your forecast exactly matches actual numbers"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the primary purpose of A/B testing in Google Search?",
+    "options": [
+      "Evaluating the loading speed of webpages across different devices and browsers to enhance user experience.",
+      "Comparing variations of a webpage, such as different titles, meta descriptions, or content layouts, to identify which version performs better in search results and attracts more clicks.",
+      "Analyzing user engagement metrics on social media platforms to optimize content sharing strategies.",
+      "Assessing the effectiveness of email marketing campaigns by testing different subject lines and email designs"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the metric to measure if your ad impressions are showed as the very first ad above the organic search result?",
+    "options": [
+      "Impr.(Top) (%)",
+      "Impr.(Abs. Top) (%)",
+      "Search Top IS",
+      "Search abs.top IS"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "______sets bids to help you get the most conversion value while maintaining your target return on ad spend.",
+    "options": [
+      "Target CPA",
+      "Target ROAS",
+      "Target Search Page Location",
+      "Target Outranking Share"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following search queries is an example of a commercial keyword with local intent?",
+    "options": [
+      "How to fix a leaky faucet",
+      "The life cycle of a butterfly",
+      "Interesting facts about the Great Wall of China",
+      "Top-rated Italian restaurants near me"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the main feature of Penguin 4.0?",
+    "options": [
+      "Penguin is not real-time now.",
+      "Penguin was released for all countries and languages at the same time.",
+      "Penguin is not becoming more granular.",
+      "Penguin is a separate filter, not a Google's part of core algorithm."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "___are used to determine where in organic search results a particular website should be displayed for a specific query.",
+    "options": [
+      "Backlinks",
+      "Tags",
+      "Algorithms",
+      "Cookies"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is a navigational query in SEO?",
+    "options": [
+      "A search query that aims to find information about a specific topic or subject.",
+      "A search query that indicates the user's intent to navigate to a specific website or web page.",
+      "A search query that includes location-based keywords to find local businesses or services.",
+      "A search query that focuses on comparing different products or services before making a purchase."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "You are selling sports shoes for multiple demands of sports players. When conducting a Search Ad to put your audience into the consideration phase of the marketing funnel, which metrics are important to measure?",
+    "options": [
+      "The number of people who clicked on your ad (Click-Through Rate)",
+      "The number of people who spent time on your website after clicking the ad (Average Session Duration)",
+      "The number of people who left your website after viewing only one page (Bounce Rate)",
+      "The number of people who saw your ad (Impressions)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does NAP stand for in local SEO?",
+    "options": [
+      "Name, Address, Phone",
+      "Nearby Areas Promotion",
+      "National Advertising Program",
+      "Network Analysis Protocol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What are the primary categories that SEO experts consider pivotal for influencing page rank? (Select that all apply)",
+    "options": [
+      "On-page factors, which involve optimizing page content, including keywords and user experience",
+      "Off-site factors, encompassing backlink quality, social signals, and brand mentions to enhance site authority and reputation",
+      "Hierarchy factors, determining site structure and navigation, ensuring effective crawlability and indexation.",
+      "Domain-level factors, such as domain age and authority, shaping the overall online presence and ranking potential"
+    ],
+    "answer": "ABD"
+  },
+  {
+    "question": "____plays a major role in your sites ability to rank.",
+    "options": [
+      "Local SEO",
+      "SEO Copywriting",
+      "On-page SEO",
+      "Off-page SEO"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "_____covers anything you can do on a webpage (or internally) to improve your rankings.",
+    "options": [
+      "Local SEO",
+      "SEO Copywriting",
+      "On-page SEO",
+      "Off-page SEO"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "_____ is the process of optimizing your online presence to increase local traffic, visibility, and brand awareness.",
+    "options": [
+      "Local SEO",
+      "Technical SEO",
+      "SEO Copywriting",
+      "Mobile SEO"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "_ sets bids to help you outrank another domain's ads.",
+    "options": [
+      "Target CPA",
+      "Target ROAS",
+      "Target Search Page Location",
+      "Target Outranking Share"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "An FMCG company wants to improve its sales performance and plans to use A/B testing to enhance its Google Search results. Which aspect of their online presence could they test using A/B testing?",
+    "options": [
+      "The packaging design of their products.",
+      "The effectiveness of their email marketing campaigns",
+      "The layout and content of their product landing pages",
+      "The frequency and content of their social media posts"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Suppose you are working in-house, scoping an SEO project, which of the following should you be able to do?",
+    "options": [
+      "Estimate a project's length",
+      "Prioritize work needed",
+      "Estimate ability to meet various deadlines",
+      "All of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "____ is when websites are coded in a fashion where users can see the content, but search engines cannot.",
+    "options": [
+      "Link stuffing",
+      "Cloaking",
+      "Site mapping",
+      "Indexing"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Suppose you are trying to put together a Top Ten list of things you should do to engage your audience on social media. Below is a list of four things, but two of them do not belong on the Top Ten list. Select the item that does not belong on the list while trying to create audience engagement.",
+    "options": [
+      "Treat your online interactions like you're a part of a community, being sure to participate.",
+      "Speak at conferences.",
+      "Try to completely divorce your online and offline activities.",
+      "All of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What factors influence Ad Rank in Google Ads? (Check all that apply)",
+    "options": [
+      "Relevance of keywords",
+      "Expected CTR",
+      "context of the person's search",
+      "Bid amount"
+    ],
+    "answer": "ABCD"
+  },
+  {
+    "question": "Which statement best reflects Google's pricing mechanism in advertising?",
+    "options": [
+      "Their CPC cap is set by industry to establish a maximum price for clicks, ensuring cost control for advertisers.",
+      "Their keyword auction efficiently captures a significant portion of the value of advertised products and services, dynamically adjusting to market demand.",
+      "Google's financial success is mainly attributed to frequent price hikes in highly competitive industries, driving revenue growth.",
+      "Allowing advertisers to pay solely for conversions fosters undeniable ROI and builds strong customer loyalty through cost-effective advertising."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why is it crucial to uncover demographic information about various social media platforms like Facebook, Instagram, LinkedIn, and others? (Select that all apply)",
+    "options": [
+      "To establish yourself as an authority in your industry space.",
+      "To generate more backlinks to your website",
+      "To identify where your target audience spends their time online, enabling strategic targeting and engagement.",
+      "To assess which social media platforms align best with your business goals and audience demographics."
+    ],
+    "answer": "CD"
+  },
+  {
+    "question": "_ is about improving your website to make it easier for search engines to find, understand, and store your content.",
+    "options": [
+      "Local SEO",
+      "Technical SEO",
+      "SEO Copywriting",
+      "Mobile SEO"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "As a retailer of luxury bags for women, your price range falls between VND 10 - 50 million per bag. Your target customers primarily consist of middle-class, urban-dwelling individuals with an average monthly income of VND 35 million. You aim to promote an ad for your Tote Bag, emphasizing its convenience and spacious design for office use. What is a way that Google determines ad relevance for your luxury Tote Bag ad targeting middle-class, urban-living customers?",
+    "options": [
+      "Presence of the search term \"luxury Tote Bag\" in the text of the ad",
+      "Inclusion of lifestyle images showing the Tote Bag's spacious design in an office setting",
+      "The existence of an organic search result that matches the paid ad for the luxury Tote Bag",
+      "The bid amount for the keyword \"luxury Tote Bag\" in the ad campaign."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "As a retailer of luxury bags for women, your price range falls between VND 10 - 50 million per bag. Your target customers primarily consist of middle-class, urban-dwelling individuals with an average monthly income of VND 35 million. You aim to promote an ad for your Tote Bag, emphasizing its convenience and spacious design for office use. What are the best potential campaign and ad group for this Ad?",
+    "options": [
+      "Campaign: Luxury Bag Promotion; Ad group: Luxury Bags; Ad copies: generic ad copies promoting luxury bags without ...",
+      "Campaign: Accessible luxury bags; Ad group: Big Deals in your hand; Ad copies: Emphasize discounted prices ...",
+      "Campaign: Luxury Tote Bag Promotion; Ad Group: Tote Bag for Office Use; Ad copies with headline: Upgrade your office look with our luxury tote bag",
+      "Campaign: Luxury bag brand awareness; Ad group: brand story; Ad copies: Tell the brand story and showcase brand values..."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A company wants to improve the click-through rate (CTR) of its product pages in Google Search results. Which approach could they use to achieve this goal?",
+    "options": [
+      "Conducting A/B testing to compare two different versions of the product page title and analyze which one generates higher CTR",
+      "Posting more frequently on social media platforms to increase brand visibility",
+      "Sending promotional emails to existing customers to encourage them to visit the product pages.",
+      "Investing in paid advertising campaigns to drive traffic to the product pages."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "_adjusts your manual bids up or down to help you increase conversions.",
+    "options": [
+      "Maximize Clicks",
+      "Maximize Conversions",
+      "Enhanced CPC",
+      "Target Impression Share"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "When creating a video to promote your ice cream product for the summer, which of the following is the most important to prioritize?",
+    "options": [
+      "approaching video production with an open-minded and cooperative attitude; studio with state-of-the-art equipment and facilities to streamline the filming process and enhance the overall quality, include light-hearted jokes or playful interactions with the ice cream product to create a fun and engaging viewing experience",
+      "studio with state-of-the-art equipment and facilities to streamline the ......the summer heat",
+      "a mindset of adaptation to create... with a professional videographer or a social media influencer",
+      "studio with state-of-the-art equipment and facilities to streamline the filming process and enhance the overall quality; a sunny beach or a colorful ice cream parlor; a mindset of adaptation to create content that resonates with your target audience"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Where should you start with developing personas, as recommended in the lesson?",
+    "options": [
+      "Your potential customers",
+      "Your existing customers or users",
+      "People who no longer are your customers",
+      "None of the others"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which United States government organization consistently releases alerts and bulletins concerning security threats?",
+    "options": [
+      "NIST",
+      "FBI",
+      "US-CERT",
+      "The MITRE Corporation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of competitive content analysis in SEO?",
+    "options": [
+      "To identify and analyze competitors' backlink profiles.",
+      "To evaluate the performance and engagement metrics of competitors' social media accounts.",
+      "To compare and assess the strengths and weaknesses of competitors' content strategies.",
+      "To monitor competitors' keyword rankings and search engine visibility."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What role does the display URL play in Google Ads?",
+    "options": [
+      "It is entered by the advertiser to provide an indication of the ad's relevance to the user's search query.",
+      "It is entered by the advertiser to specify where Google should direct users who click on the ad.",
+      "It is generated by Google based on their bots crawling the advertiser's website.",
+      "It is a major contributor to click fraud by unscrupulous advertisers."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Common tasks associated with____include optimizing for search intent, title tags, internal links, and URLs.",
+    "options": [
+      "local SEO",
+      "technical SEO",
+      "SEO Copywriting",
+      "on-page SEO",
+      "off-page SEO"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Google Webmaster Tools is the former name of_",
+    "options": [
+      "Google Analytics",
+      "Google Trends",
+      "Google Adwords",
+      "Google Search Console"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "To reduce spam, what practices has Google implemented?",
+    "options": [
+      "Emphasizing the importance of website speed",
+      "Increasing the importance of authority and page-rank.",
+      "No significant action has been taken by Google to combat spam.",
+      "Enhancing transparency, personalized search, and other aspects."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "_ sets bids to help you get your ads to the top of the page or on the first page of search results.",
+    "options": [
+      "Target CPA",
+      "Target ROAS",
+      "Target Search Page Location",
+      "Target Outranking Share"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding PageRank?",
+    "options": [
+      "PageRank is still highly relevant today.",
+      "When a website links to another website, it's counted as a vote, which increases the site's PageRank.",
+      "The PageRank value is based on the amount and quality of links.",
+      "In the past, the PageRank of a page was public knowledge."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is NOT TRUE regarding BERT?",
+    "options": [
+      "It impacts one in 10 search queries.",
+      "It helps Google understand human language better.",
+      "It is one of Google's minor updates",
+      "It determines the context of a search query."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements is NOT true regarding Google Analytics?",
+    "options": [
+      "Google Analytics provides demographics information about your audience.",
+      "Google Analytics can provide insights into which content on your site is the most popular.",
+      "Google Analytics can show you where users click on the most within a page.",
+      "Google Analytics only shows desktop usage data, not mobile usage data."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Does Google ever take payola or bribe to get them organic?",
+    "options": [
+      "They've done a really good job of keeping a very firm separation of church and state.",
+      "The ranking algorithm, at least the lore is that no one person within Google knows the whole thing.",
+      "It's like the secret recipe for Coca Cola, right, they store it in two different states so nobody knows the whole thing. There really isn't a great way to game it.",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the key off-page optimization technique?",
+    "options": [
+      "Internal Links",
+      "Link building",
+      "External Links",
+      "Keywords"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is TRUE?",
+    "options": [
+      "Even when a social media effort seems like a great idea and may have an enthusiastic reception, it still must meet the established business goals.",
+      "Copyblogger have a strong social-media presence.",
+      "Copyblogger consistently produce great content.",
+      "Copyblogger are supported with strong social-media programs.",
+      "All of these statements are true."
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Which are the best possible payment methods to use when buying ads for a new collection of denim top with the purpose of generating sales? (Select that all apply)",
+    "options": [
+      "CPM",
+      "target CPA",
+      "Target ROAS",
+      "Maximize conversion value"
+    ],
+    "answer": "BC"
+  },
+  {
+    "question": "Which of the following best describes the intent behind navigational keywords?",
+    "options": [
+      "Exploring various options before making a purchase decision",
+      "Finding directions or instructions for a specific task.",
+      "Researching facts or statistics related to a particular topic.",
+      "Looking for reviews or opinions about a product or service"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Most of a site's authority will reside on:",
+    "options": [
+      "Within the site map",
+      "A FAQ page",
+      "The homepage",
+      "A page devoted to user reviews"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "When looking at traffic for a site, which of these should you most be concerned about:",
+    "options": [
+      "Organic Visits",
+      "Paid Visits",
+      "Referring Site Visits",
+      "Directs Visits",
+      "Total Visits"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the key on-page optimization technique?",
+    "options": [
+      "Keyword-rich title tags",
+      "Link building",
+      "Social Media",
+      "Local SEO",
+      "Influencer Marketing"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "_____(lets) you drill more into user behavior.",
+    "options": [
+      "Google Analytics",
+      "Google Search Console",
+      "Google AdSense",
+      "Google Ads"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "When a search engine robot analyzes a new website, what multifaceted aspects does it evaluate to determine the site's ranking potential and relevance? (Check all that apply)",
+    "options": [
+      "The depth and quality of the site's content, assessing factors such as originality, and comprehensiveness",
+      "The alignment of the site's content with user search intent, evaluating how well it addresses the needs and queries of potential visitors",
+      "Identification of potential keywords and topics that the site could rank well for, based on both its content and niche.",
+      "Analysis of the site's overarching theme, including its main subject matter, industry focus, and target audience, to ascertain its core purpose and relevance within the online landscape"
+    ],
+    "answer": "AB"
+  },
+  {
+    "question": "Which algorithm update was a precursor to the RankBrain update?",
+    "options": [
+      "Penguin",
+      "Panda",
+      "Hummingbird",
+      "BERT"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary objective of SEO for a specific website, aiming for sustained visibility and traffic growth?",
+    "options": [
+      "To organically improve the page's ranking for relevant keywords, thereby increasing its visibility in search engine results.",
+      "To strategically utilize paid keywords, enabling higher placement of ads on search engine results pages.",
+      "To establish numerous links across various keywords, driving diverse traffic to the site",
+      "To directly invest in a search engine corporation for guaranteed placement on the first page of search results"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of an internal content audit in SEO?",
+    "options": [
+      "To analyze the performance and engagement metrics of the website's internal links.",
+      "To identify and optimize internal pages with high potential for backlink acquisition",
+      "To monitor the website's keyword rankings and search engine visibility.",
+      "To evaluate the relevance and quality of existing content on the website."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "To help get as many clicks as possible within the budget, what is the best automated bidding strategy to use?",
+    "options": [
+      "maximum CPC bid limit",
+      "average target CPA",
+      "Target ROAS",
+      "target impression share"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Beyond the ad itself, advertisers are able to take advantage of ad extensions. Which of the following ad extension encourages people to visit a brick and mortar business",
+    "options": [
+      "Location",
+      "Call",
+      "Price",
+      "Promotion Extensions"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "You're planning a marketing strategy to promote your premium content to a select audience. In the context of using Facebook in conjunction with your contact list for advertising your high-quality content, which of the following is NOT a possible benefit?",
+    "options": [
+      "You gain the powerful ability to target ads directly to your select email list of media and influencers.",
+      "You gain extra visibility",
+      "Put your content in front of a look-alike audience who are similar in characteristics to everybody who is on your mailing list.",
+      "Make sure that your content reaches every person on your contact mail list."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "To increase site visit, what is the best possible bid strategy?",
+    "options": [
+      "Maximize clicks",
+      "Target impression share",
+      "Target ROAS",
+      "Maximize conversion"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "____is an update intended to reduce rankings for low-quality sites and content that isn't very useful.",
+    "options": [
+      "Google Panda",
+      "Google Penguin",
+      "Google RankBrain",
+      "Google Hummingbird",
+      "Google Florida"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Why you should use Google Ads?",
+    "options": [
+      "Impressive ROI",
+      "An 'Authentic' PPC campaign",
+      "Positions you at the top",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following are best practices to optimize a Title Tag for SEO for a thought leadership article? (Select that all apply)",
+    "options": [
+      "Including as many keywords as possible to maximize search visibility",
+      "Ensuring the title accurately reflects the content of the article and the expertise of the author.",
+      "Keeping the title tag length under 60 characters to avoid truncation in search engine results",
+      "Using clickbait language to attract more clicks, regardless of relevance."
+    ],
+    "answer": "BC"
+  },
+  {
+    "question": "When optimizing your app you should focus on:",
+    "options": [
+      "Both app store optimization as well as external optimization",
+      "Only on Google Play first",
+      "Only on your website",
+      "Only on Apple Store first"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Google offer advertisers the ability to add sitelinks at three different levels. Which the following is not belong to these levels?",
+    "options": [
+      "Account level",
+      "Campaign level",
+      "Ad group level",
+      "Ad level"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the main purpose of Google My Business in SEO?",
+    "options": [
+      "To improve website loading speed for better user experience.",
+      "To target specific keywords and improve search engine rankings.",
+      "To analyze website traffic and user behavior for optimization.",
+      "To manage and enhance a business's online presence in Google search and maps."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "______helps analyze Twitter info, although it cannot always identify follower gender.",
+    "options": [
+      "Moz",
+      "Screaming Frog",
+      "Followerwonk",
+      "Google Trends"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "With KPIs you should have:",
+    "options": [
+      "A combination of smaller KPIs and bigger ones so you can benchmark",
+      "A lot of different KPIs showcase your efforts",
+      "Focus only on the ones that matter most",
+      "All of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "With SEO you:",
+    "options": [
+      "Immediately see the ROI of your efforts",
+      "Can get higher budgets than paid campaigns",
+      "Generally, see a longer-term ROI than that of paid",
+      "All of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements accurately describes an XML sitemap in SEO?",
+    "options": [
+      "An XML file that contains the website's design and layout information for search engines to understand the site structure.",
+      "A compressed file format used to store multimedia content on websites for faster loading times.",
+      "A file that lists all the URLs of a website, helping search engines crawl and index the site more effectively.",
+      "A script that automatically generates backlinks to improve a website's search engine rankings."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is an example of an external app SEO method?",
+    "options": [
+      "Creating a solid content marketing strategy",
+      "Improving the user experience in the app itself",
+      "Building backlinks to the app store listings",
+      "None of the others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Why is the use of the 301 status code recommended over the 302 status code in SEO?",
+    "options": [
+      "The 301 status code ensures better server-side performance compared to the 302 status code.",
+      "The 301 status code allows for temporary redirects, while the 302 status code is for permanent redirects.",
+      "The 301 status code is specifically designed for mobile-friendly websites, while the 302 status code is not.",
+      "The 301 status code transfers SEO value and ranking signals to the new URL, while the 302 status code does not."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which one of the following is not true about how you should relate to your audience?",
+    "options": [
+      "Raise visibility by going to where your audience goes.",
+      "It's all about getting visibility with your target audiences.",
+      "Don't publish where your audience is not present.",
+      "Publish where your audience is not present since you never know who you might reach."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following statements accurately describes a \"no-follow\" link in SEO?",
+    "options": [
+      "A link that is invisible to search engines and does not pass any link juice or authority.",
+      "A link that is designed to increase the website's ranking and visibility on search engine result pages.",
+      "A link that is followed by search engines, helping to improve the website's organic search traffic.",
+      "A link that redirects users to a different website without affecting the website's SEO performance."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "____is Google's first deep learning model which helps to better understand new queries.",
+    "options": [
+      "Google Panda",
+      "Google Penguin",
+      "Google RankBrain",
+      "Google Hummingbird",
+      "Google Florida"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the recommended approach when dealing with negative reviews on Google in local SEO?",
+    "options": [
+      "Delete the negative reviews to maintain a positive online reputation.",
+      "Ignore the negative reviews and hope they don't impact your business.",
+      "Respond promptly and professionally to address the concerns raised in the review.",
+      "Create multiple accounts to leave positive reviews to counterbalance the negative ones"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Complete this statement with the best possible answer: \"Basic social interaction and _______ that guides your behavior off-line should also guide your behavior online.\"",
+    "options": [
+      "Determination",
+      "Intuition",
+      "Aggression",
+      "Courtesy"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is an example of trending content in SEO?",
+    "options": [
+      "A roundup of the top social media trends for the year.",
+      "A comprehensive guide on email marketing best practices.",
+      "A case study analyzing the success of a recent marketing campaign.",
+      "A tutorial on setting up a WordPress website."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "_________ is where SEO gets very similar to public relations because it can be very focused on developing good relationships with other webmasters.",
+    "options": [
+      "On-page optimization",
+      "Technical optimization",
+      "Non-technical optimization",
+      "Off-site optimization"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "According to Google, the higher your quality score, the more relevant and cheaper your ads will be. Which does the following distinct feature made up the quality score?",
+    "options": [
+      "Landing page experience",
+      "Expected CTR",
+      "Ad relevance",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "____is the key to making your web pages more relevant and user-friendly for both users and search engines.",
+    "options": [
+      "Local SEO",
+      "SEO Copywriting",
+      "On-page SEO",
+      "Off-page SEO"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the difference between SEO and SEM?",
+    "options": [
+      "SEM stands for search engine marketing, and SEO stands for search engine optimization.",
+      "SEO is an organic search strategy, and SEM is a paid search strategy.",
+      "SEM certainly leans toward an outbound, and SEO is Foundational for Inbound Marketing",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "SEO forecasting is difficult because:",
+    "options": [
+      "The landscape can change frequently",
+      "You can't easily communicate your results",
+      "You have to use expensive tools",
+      "None of these others"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "While focusing on building relationships with influencers, which of the following is seen as being the most important?",
+    "options": [
+      "Focus on making sure the SEO for your site is excellent.",
+      "Focus on having a large enough list of influencers' correct email addresses.",
+      "Focus on establishing the right mindset before you start.",
+      "Focus on making sure you have lots of content to share, even if it is not of the highest quality."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A snippet of information used to provide search engines with information about what that particular page should rank for is called:",
+    "options": [
+      "meta keywords",
+      "title tags",
+      "featured snippets",
+      "meta description"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is one of the main link judging factors?",
+    "options": [
+      "Anchor text of a link",
+      "Clickable text of a link",
+      "Good keywords in anchor text",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The Expanded Text Ad, what is the recommended length of Path?",
+    "options": [
+      "15 characters",
+      "20 characters",
+      "30 characters",
+      "90 characters"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is it that they do that is so valuable to advertisers?",
+    "options": [
+      "They are able to capture and understand the intent of so many people in the world that use Google as their search engine",
+      "How you can pick apart the language that people use in their search query to really understand their intent.",
+      "We'll learn a little bit more about this as we think about what key words would we choose for an advertising campaign.",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT one of the things evergreen content should avoid to ensure a longer shelf-life?",
+    "options": [
+      "reference to date",
+      "reference to technologies",
+      "reference to useful information",
+      "reference to current news items"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "_updates dramatically improved the quality of the SERPs.",
+    "options": [
+      "Google Panda",
+      "Google Penguin",
+      "Google RankBrain",
+      "Google Hummingbird",
+      "Google Florida"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is not option of Google Ads bidding?",
+    "options": [
+      "Manual Cost Per Click (CPC)",
+      "Enhanced CPC",
+      "Target CPA",
+      "Minimize Conversion"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is the way to identify the title tag of a page?",
+    "options": [
+      "By using browser add-ons.",
+      "By looking at the top of your browser and finding the text within this area.",
+      "By right-clicking anywhere on the page and choosing the option View Source.",
+      "All of the others."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Why is competitive analysis essential in SEO?",
+    "options": [
+      "It helps increase paid advertising budgets",
+      "It provides insights into effective keywords",
+      "It avoids competition completely",
+      "It eliminates low-volume keywords",
+      "It promotes identical strategies"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why does organic engine really build trust with customers?",
+    "options": [
+      "Those top organic results are the ones that are most closely aligned with your search query.",
+      "They're bringing those results to you.",
+      "They're accurate and they're super fast.",
+      "All of the others"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "______means that the algorithm looks at usage of synonyms and other relevant words and phrases when understanding the topical relevance to a query.",
+    "options": [
+      "Link stuffing",
+      "Site mapping",
+      "Semantic indexing",
+      "Cloaking"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which keyword type is most likely to have high competition and low conversion rates?",
+    "options": [
+      "Long-tail keywords",
+      "Specific keywords",
+      "Head keywords",
+      "Seasonal keywords",
+      "Navigational keywords"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "___was a great tool to replace the yellow pages.",
+    "options": [
+      "Radio advertising",
+      "Search",
+      "Television advertising",
+      "None of the others"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is a core goal of keyword research in SEO?",
+    "options": [
+      "Creating backlinks",
+      "Enhancing web design",
+      "Understanding search behaviors",
+      "Increasing ad costs",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A 500 error code generally indicates what type of problem?",
+    "options": [
+      "Client-side issue",
+      "Server error",
+      "Invalid request",
+      "Page redirection",
+      "Missing content"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why should a site avoid chaining redirects?",
+    "options": [
+      "It breaks links",
+      "It confuses users",
+      "It decreases page authority",
+      "It stops crawlers",
+      "It increases server load"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "What does Google's Link Disavow Tool allow users to do?",
+    "options": [
+      "Identify link-building opportunities",
+      "Track backlinks",
+      "Discount poor-quality links",
+      "Increase ranking of specific links",
+      "Change link anchor text"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following algorithms is associated with determining website importance?",
+    "options": [
+      "Hummingbird",
+      "RankBrain",
+      "PageRank",
+      "BERT",
+      "Spider"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a SEO best practice?",
+    "options": [
+      "Focus solely on making sure the site is seen by the search engines.",
+      "Obtain links from other sites.",
+      "Make sure you provide high-quality content, especially on your homepage.",
+      "None of the others."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'link juice' in the context of SEO?",
+    "options": [
+      "Increasing page load speed",
+      "Transferring ranking power through links",
+      "Boosting social media likes",
+      "Generating more keywords",
+      "Enhancing visual content"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which factor is not valuable in judging a link's quality?",
+    "options": [
+      "Relevance to your site",
+      "Placement on a sidebar",
+      "Link amount",
+      "Anchor text",
+      "Number of characters in URL"
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Which of these is NOT a type of redirect commonly used in SEO?",
+    "options": [
+      "301",
+      "302",
+      "307",
+      "501",
+      "Meta Refresh"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Why is selecting appropriate keywords important for a website?",
+    "options": [
+      "It lowers website bounce rates",
+      "It attracts relevant audiences",
+      "It increases web design quality",
+      "It simplifies content management",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of a keyword map?",
+    "options": [
+      "To identify high-cost keywords",
+      "To map keywords to competitor pages",
+      "To relate keywords to specific pages on your site",
+      "To avoid overlapping keywords",
+      "To prioritize paid keywords"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How can plural versions of keywords affect ranking?",
+    "options": [
+      "They require separate pages",
+      "They do not need extra optimization",
+      "They should be avoided",
+      "They lower traffic",
+      "They increase ad costs"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A/B testing in ASO helps to:",
+    "options": [
+      "Increase app size",
+      "Analyze app load speed",
+      "Improve user engagement",
+      "Segment user reviews",
+      "Improve app crash rate"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "SEO is:",
+    "options": [
+      "More of a web developer skill than a marketing one",
+      "Benefit from complimentary marketing disciplines",
+      "A specialist field that doesn't need to work with other marketing disciplines",
+      "Often a \"one and done\" strategy"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Of the following statements about redirects, which option is false?",
+    "options": [
+      "Chaining redirects is not recommended since some authority is lost with each redirect.",
+      "Meta refresh is the most preferred type of redirect because it creates the best user experience.",
+      "It is preferable to redirect to a specific page rather than a category page or site home.",
+      "A temporary redirect passes less authority to the new page than a permanent redirect."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A Google Trends graph for \"wedding ideas\" shows peak times of search are in fall and winter. Why should a site redesign avoid these periods?",
+    "options": [
+      "To reduce server load",
+      "To allow new pages to index before peak traffic",
+      "To increase social media engagement",
+      "To avoid keyword competition"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which factor is NOT considered when selecting potential keywords?",
+    "options": [
+      "Relevancy",
+      "Intent",
+      "Competitiveness",
+      "Website color scheme"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What's the difference between guest posting and link spam?",
+    "options": [
+      "Guest posts are always paid",
+      "Link spam is preferred by Google",
+      "Link spam focuses on internal links only",
+      "Guest posts are contextually relevant and valuable"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "How should you frame SEO issues to a client?",
+    "options": [
+      "Highlight positives and suggest improvements",
+      "Criticize their current strategy",
+      "Provide no specific details",
+      "Focus only on penalties"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In an SEO job interview, why is it important to have a portfolio? (Check all that apply)",
+    "options": [
+      "It showcases practical experience",
+      "It demonstrates past work",
+      "It guarantees a job offer",
+      "It highlights relevant skills"
+    ],
+    "answer": "ABD"
+  },
+  {
+    "question": "Which factors contribute to Google's Quality Score in the bidding process? (Check all that apply)",
+    "options": [
+      "Ads Relevance",
+      "Number of social shares",
+      "Click-Through Rate (CTR)",
+      "Landing Page Relevance"
+    ],
+    "answer": "ACD"
+  },
+  {
+    "question": "A client wants to change all URLs during a site redesign. Based on the lesson, what should an SEO professional advise? (Check all that apply)",
+    "options": [
+      "Optimize new URLs with keywords",
+      "Use 301 redirects for old URLs",
+      "Avoid changes unless necessary",
+      "Include parameters in new URLs"
+    ],
+    "answer": "ABC"
+  },
+  {
+    "question": "A company prepared a beautiful website but forgot to plan the Ads structure. What might happen?",
+    "options": [
+      "Ads will auto-adjust perfectly",
+      "Their campaign will lack focus and waste budget",
+      "The website will rank higher organically",
+      "Their CTR will improve instantly"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A business uses Similar Web and Semrush to find that users search for \"cheap bike rentals.\" Based on the lesson, how should this inform their persona and content strategy?",
+    "options": [
+      "Create a budget-conscious persona",
+      "Develop content about affordable rentals",
+      "Focus on premium bike sales",
+      "Target users with cost-related keywords"
+    ],
+    "answer": "ABD"
+  },
+  {
+    "question": "Which of the following is a common SEO KPI?",
+    "options": [
+      "App crash rate",
+      "User session time",
+      "Organic traffic",
+      "App rating",
+      "Screen brightness"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which elements should be tested in A/B testing for an app? (Check all that apply)",
+    "options": [
+      "App icon",
+      "Screenshots",
+      "Server response time",
+      "App description"
+    ],
+    "answer": "ABD"
+  },
+  {
+    "question": "David notices his content isn't getting any traction. What mistake might he be making?",
+    "options": [
+      "Over-optimizing his images",
+      "Posting only on his own site without promoting on social media",
+      "Posting too frequently",
+      "Targeting niche keywords"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What makes Target CPA more effective than Manual CPC in performance campaigns?",
+    "options": [
+      "Avoids conversion tracking setup",
+      "Disables Ads extensions automatically",
+      "Uses broad match types for more reach",
+      "Automates bidding using conversion possibility"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which statement best explains why Google is the primary focus for most SEO professionals?",
+    "options": [
+      "Google offers the most affordable advertising platform",
+      "Google has the largest market share among search engines",
+      "Google is the only search engine with organic results",
+      "Google restricts access to other search engines"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The inclusion of relevant keywords in app titles primarily helps with:",
+    "options": [
+      "Enhanced aesthetics",
+      "Improved download speed",
+      "Better discoverability",
+      "Reduced app crashes",
+      "Higher revenue"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Michael owns a small online bookstore and wants to reach people who are actively searching for books on Google. Which campaign type should he use?",
+    "options": [
+      "Display campaign to show banner Ads",
+      "Discovery campaign to appear on Gmail feeds",
+      "Search campaign to show Ads on SERP",
+      "Shopping campaign for promoting apps"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Ema is launching a new product. What's the best first step in writing her Google Ads content?",
+    "options": [
+      "Understand her product benefits and research her audience",
+      "Skip testing and go live quickly",
+      "Use automated headline generators",
+      "Focus only on emojis for attention"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "How should an SEO professional handle a spammy backlink to avoid penalties?",
+    "options": [
+      "Ignore it to maintain link diversity",
+      "Request its removal or use the Link Disavow Tool",
+      "Add it to the site's footer",
+      "Promote it on social media"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why might Maximize Clicks not be suitable for high-value potential customers?",
+    "options": [
+      "Focuses only on conversions",
+      "Doesn't allow precise audience targeting",
+      "Prioritizes click volume over lead quality",
+      "Locks all bidding to campaign level"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of content is most commonly used in enhanced content marketing?",
+    "options": [
+      "Keyword lists",
+      "Comment threads",
+      "Meta tags",
+      "Infographics and video"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "A robots.txt file contains \"User-agent: * Disallow: /\". What does this mean?",
+    "options": [
+      "All robots can access the entire site",
+      "No robots can access any part of the site",
+      "Only Google can access the site",
+      "The site has no sitemap"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Social media links like tweets are classified as what type of links?",
+    "options": [
+      "No-follow links",
+      "Dofollow links",
+      "Sponsored links",
+      "Permanent links",
+      "Paid links"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following are steps in competitive keyword analysis? (Check all that apply)",
+    "options": [
+      "Select keywords based on relevancy and intent",
+      "Identify top competitors for the keywords",
+      "Evaluate competitor strengths and weaknesses",
+      "Optimize website code structure"
+    ],
+    "answer": "ABC"
+  },
+  {
+    "question": "___are small snippets of text that helps search engines identify important information about the page, such as what the page is about or whether or not search engine robots should ignore the page.",
+    "options": [
+      "Featured snippets",
+      "Image carousels",
+      "Meta tags",
+      "Rich snippets"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Lily's Facebook post about a blog article got 5,000 shares. What are potential SEO benefits of this high engagement? (Check all that apply)",
+    "options": [
+      "It increases direct authority through backlinks",
+      "It helps generate natural links that Google can crawl",
+      "It increases visibility, leading to more organic backlinks",
+      "It drives more users to the page, increasing chances of link acquisition"
+    ],
+    "answer": "BCD"
+  },
+  {
+    "question": "A page with a \"product no longer available\" message returning a 200 status code. Why is this problematic?",
+    "options": [
+      "It improves page indexing",
+      "It is seen as duplicate or thin content",
+      "It enhances user experience",
+      "It increases crawl frequency"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why is a robots.txt file publicly available?",
+    "options": [
+      "To block visitors",
+      "To inform bots of crawl rules",
+      "To increase page speed",
+      "To organize site files",
+      "To create sitemaps"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which tool can provide insights on seasonality trends for keywords?",
+    "options": [
+      "Google Search Console",
+      "SEMrush",
+      "Google Trends",
+      "Ahrefs",
+      "Bing Webmaster Tools"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why should you avoid \"cheap\" keywords initially?",
+    "options": [
+      "They are ineffective",
+      "They have high competition",
+      "They may not match the audience's search intent",
+      "They are too expensive",
+      "They increase bounce rate"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which statement best explains why Google is the primary focus for most SEO professionals?",
+    "options": [
+      "Google offers the most affordable advertising platform",
+      "Google has the largest market share among search engines",
+      "Google is the only search engine with organic results",
+      "Google restricts access to other search engines"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Your website has a backlink profile with links from low-authority sites. Based on the lesson, why might this be problematic?",
+    "options": [
+      "It improves site indexing",
+      "It reduces social media visibility",
+      "It risks penalties from algorithms like Penguin",
+      "It increases page load time"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is an example of an \"off-page\" SEO tactic?",
+    "options": [
+      "Image optimization",
+      "Meta title editing",
+      "URL shortening",
+      "Social bookmarking"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What best demonstrates proper use of a 301 redirect in a website migration?",
+    "options": [
+      "Consolidating outdated pages into one new page, preserving link equity and removing old canonical tags",
+      "It may lose ranking history and authority",
+      "Redirecting a single page without updating the sitemap or notifying search engines",
+      "It conflicts with meta tags"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What are best practices for Google Video campaigns? (Check all that apply)",
+    "options": [
+      "Use long, detailed brand introductions",
+      "Target narrow audiences",
+      "Keep the message short and direct",
+      "Mix video and text Ads formats in the same group"
+    ],
+    "answer": "BCD"
+  },
+  {
+    "question": "A client's site has overly broad keywords like \"shoes\" everywhere. What should you do?",
+    "options": [
+      "Ignore the issue",
+      "Recommend specific, less competitive keywords",
+      "Increase keyword density",
+      "Remove all keywords"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "David creates dynamic search Ads but forgets to review product info. What issue may arise?",
+    "options": [
+      "Google won't run Ads",
+      "Irrelevant content may be put into Ads",
+      "Videos will be displayed instead of text",
+      "Headlines won't meet character limit"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why is keyword research essential in ASO?",
+    "options": [
+      "To reduce app size",
+      "To increase server speed",
+      "To improve app discoverability",
+      "To decrease app installation time",
+      "To monitor app reviews"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which metrics should be tracked to prove SEO value? (Check all that apply)",
+    "options": [
+      "Organic traffic",
+      "Engagement metrics",
+      "Organic landing pages",
+      "Server response time"
+    ],
+    "answer": "ABC"
+  },
+  {
+    "question": "Pinterest ranks well for which type of keywords?",
+    "options": [
+      "Short-tail keywords",
+      "Local keywords",
+      "Long-tail niche keywords",
+      "Popular brand keywords",
+      "Paid keywords"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "David's campaign has a good CTR but poor ROI. Which model would help evaluate campaign efficiency?",
+    "options": [
+      "Return on Ads Spend (ROAS)",
+      "Click-through rate (CTR)",
+      "Cost per Thousand Impressions (CPM)",
+      "Quality Score"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the risk of using excessive keyword-rich anchor text in backlinks?",
+    "options": [
+      "It improves link diversity",
+      "It may appear unnatural and trigger penalties",
+      "It reduces social media engagement",
+      "It slows page indexing"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is anchor content designed to do?",
+    "options": [
+      "Rank for low-volume keywords only",
+      "Replace guest posting",
+      "Significantly improve visibility and reputation",
+      "Increase Ads impressions"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What kind of search query often results in actions such as newsletter sign-up or free account setup?",
+    "options": [
+      "Navigational query",
+      "Transactional query",
+      "Informational query",
+      "Specific query",
+      "Generic query"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What's a common principle when building relationships with influencers?",
+    "options": [
+      "Start with a paid Ads",
+      "Send cold emails with links",
+      "Offer value before asking",
+      "Focus on follower count only"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why should a PC gaming site avoid targeting the keyword \"best games to play\"?",
+    "options": [
+      "It is too specific",
+      "It lacks searcher intent",
+      "It has low search volume",
+      "It is too broad and includes non-PC games"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What does a citation refer to in local SEO?",
+    "options": [
+      "A legal notice sent to businesses for non-compliance with local regulations.",
+      "The process of obtaining high-quality backlinks from authoritative websites.",
+      "The act of referencing external sources in website content.",
+      "A mention or listing of a business's NAP on other websites."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "A company finds that women, not men, search for men's tuxedos for weddings. How should this affect the persona development and content strategy?",
+    "options": [
+      "Focus only on male personas",
+      "Ignore gender in keyword research",
+      "Include female personas and related queries",
+      "Avoid wedding-related content"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary function of a URL in SEO?",
+    "options": [
+      "To display the page's meta description",
+      "To describe the page to search engines and users",
+      "To serve as the page's title tag",
+      "To manage off-page link building"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which keyword type typically represents 70% of search traffic?",
+    "options": [
+      "Head keywords",
+      "Brand keywords",
+      "Transactional keywords",
+      "Long-tail keywords",
+      "Seasonal keywords"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "A website has multiple footer links labeled \"sponsor.\" What should an SEO professional recommend? (Check all that apply)",
+    "options": [
+      "Request nofollow tags for these links",
+      "Remove the links to avoid penalties",
+      "Keep the links for authority",
+      "Add keyword-rich anchor text"
+    ],
+    "answer": "AB"
+  },
+  {
+    "question": "Which platform is not officially a Google ranking factor but still helps SEO indirectly?",
+    "options": [
+      "Linkedin",
+      "Facebook",
+      "TikTok",
+      "Social Media in general"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the max character count for a Google Ads headline?",
+    "options": [
+      "25",
+      "30",
+      "45",
+      "60"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of a 404 error page?",
+    "options": [
+      "Indicates a page that no longer exists",
+      "Informs users of updates",
+      "Redirects to the homepage",
+      "Shows server error",
+      "Displays a site map"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which factor is considered when selecting keywords for deeper pages?",
+    "options": [
+      "User intent",
+      "Website color scheme",
+      "Server response time",
+      "Social media followers"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following are automated bidding strategies in Google Ads? (Check all that apply)",
+    "options": [
+      "Maximize Clicks",
+      "Enhanced CPC",
+      "Manual CPC",
+      "Target ROAS"
+    ],
+    "answer": "ABD"
+  },
+  {
+    "question": "How can a project timeline benefit an SEO campaign? (Check all that apply)",
+    "options": [
+      "Sets client expectations",
+      "Outlines deliverables",
+      "Tracks progress",
+      "Reduces website errors"
+    ],
+    "answer": "ABC"
+  },
+  {
+    "question": "Which of the following principles help in building a social media audience? (Check all that apply)",
+    "options": [
+      "Responding to post comments",
+      "Creating content with emotional appeal only",
+      "Sharing engaging content publicly",
+      "Building relationships with influencers"
+    ],
+    "answer": "ACD"
+  },
+  {
+    "question": "Why is benchmarking data important for KPIs?",
+    "options": [
+      "It reduces server costs",
+      "It simplifies keyword research",
+      "It increases social media followers",
+      "It allows comparison of performance before and after SEO efforts"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What does an XML Sitemap provide to search engines?",
+    "options": [
+      "A list of external links",
+      "Content structure",
+      "Data on the website's design",
+      "Information about each URL, like last update and importance",
+      "Server details"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Anna notices her ads have high impressions but very low CTR. What could be the reason?",
+    "options": [
+      "Her ads content is irrelevant to search queries",
+      "Her landing page is not mobile-friendly",
+      "Her keyword match types are too restrictive",
+      "Her ads is too short"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is a potential consequence of chaining redirects (e.g., Page A -> Page B -> Page C)?",
+    "options": [
+      "Increased link authority",
+      "Loss of authority with each redirect",
+      "Faster page indexing",
+      "Improved user experience"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which component is unique to SEM but not part of SEO?",
+    "options": [
+      "Meta descriptions",
+      "Internal linking",
+      "Paid Ads campaigns",
+      "Keyword research"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why should screenshots be optimized in an app listing?",
+    "options": [
+      "They improve app stability",
+      "They enhance conversion rates",
+      "They decrease app download size",
+      "They reduce user feedback",
+      "They increase ad revenue"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why is Viewable CPM important in display advertising?",
+    "options": [
+      "It lets you pay only when Ads are clicked",
+      "It tracks only mobile video impressions",
+      "It ensures your Ads appear in scrollable positions",
+      "It counts impressions that are actually seen by users"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Why should meta refresh redirects generally be avoided?",
+    "options": [
+      "They pass full link authority",
+      "They provide unclear signals to search engines",
+      "They increase page load speed",
+      "They are permanent redirects"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A website about fitness includes unrelated pages about car repairs. Based on the lesson, why might this harm its SEO performance, and which algorithm is most relevant?",
+    "options": [
+      "It confuses users, targeted by Penguin",
+      "It creates irrelevant content, targeted by Panda",
+      "It slows page load time, targeted by Mobilegeddon",
+      "It uses spammy links, targeted by RankBrain"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary goal of App Store Optimization (ASO)?",
+    "options": [
+      "To optimize website code",
+      "To increase social media followers",
+      "To reduce server load",
+      "To rank higher in app store search results"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is a key characteristic of content targeted by the Panda algorithm?",
+    "options": [
+      "High-quality, user-focused content",
+      "Duplicate or low-quality content",
+      "Mobile-friendly design",
+      "Natural link-building strategies"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why is it important to avoid using similar keywords on multiple pages?",
+    "options": [
+      "It improves page load speed",
+      "It prevents pages from competing with each other",
+      "It reduces search volume",
+      "It increases bounce rates"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In addition to many online ways to build relationships with influencers, it is highly recommended to ___, as shown at the pinnacle of this pyramid",
+    "options": [
+      "attend conferences to meet with an influencer in person, 1-on-1",
+      "contact influencer via social media first (Facebook, Linkedin, etc.)",
+      "sign the contract with influencer first",
+      "None of these"
+    ],
+    "answer": "A"
+  }
+]

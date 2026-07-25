@@ -29,6 +29,7 @@ export default function Home() {
             Take a Quiz
           </Link>
 
+          {/* Temporarily hidden — route/code kept at /QuickSearch
           <Link
             href="./QuickSearch"
             className="w-full sm:w-auto border border-[var(--border-color)] hover:bg-[var(--hover-background)] text-[var(--foreground)] font-medium py-3 px-6 rounded-md transition-colors flex items-center justify-center gap-2"
@@ -47,6 +48,7 @@ export default function Home() {
             </svg>
             Quick Search
           </Link>
+          */}
         </div>
 
         <div className="mt-4">
