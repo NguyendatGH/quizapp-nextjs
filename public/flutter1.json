@@ -1,0 +1,652 @@
+[
+    {
+      "question": "Why is clean architecture beneficial?",
+      "options": [
+        "Fewer files",
+        "Easier maintenance and testing",
+        "Better UI",
+        "Faster builds"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Easier maintenance and testing"
+      ]
+    },
+    {
+      "question": "What is Dart primarily designed for in the Flutter ecosystem?",
+      "options": [
+        "Database management",
+        "User interface development",
+        "General-purpose programming with UI focus",
+        "Network security"
+      ],
+      "description": "single choice",
+      "answer": [
+        "General-purpose programming with UI focus"
+      ]
+    },
+    {
+      "question": "Why is secure authentication critical in mobile apps?",
+      "options": [
+        "UI quality",
+        "Protect user data",
+        "Reduce code",
+        "Improve speed"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Protect user data"
+      ]
+    },
+    {
+      "question": "Which HTTP method is typically used to retrieve data?",
+      "options": [
+        "POST",
+        "PUT",
+        "GET",
+        "DELETE"
+      ],
+      "description": "single choice",
+      "answer": [
+        "GET"
+      ]
+    },
+    {
+      "question": "What happens if a non-nullable variable is not initialized in Dart?",
+      "options": [
+        "The app runs normally",
+        "A runtime exception occurs",
+        "A compile-time error occurs",
+        "The value becomes null automatically"
+      ],
+      "description": "single choice",
+      "answer": [
+        "A compile-time error occurs"
+      ]
+    },
+    {
+      "question": "Which command builds a release APK?",
+      "options": [
+        "flutter run",
+        "flutter build apk",
+        "flutter doctor",
+        "flutter clean"
+      ],
+      "description": "single choice",
+      "answer": [
+        "flutter build apk"
+      ]
+    },
+    {
+      "question": "Which widget allows overlapping of its child widgets?",
+      "options": [
+        "Column",
+        "Row",
+        "Stack",
+        "Expanded"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Stack"
+      ]
+    },
+    {
+      "question": "Which platforms can Flutter applications target using a single codebase?",
+      "options": [
+        "Android only",
+        "iOS only",
+        "Android, iOS, web, and desktop",
+        "Web servers only"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Android, iOS, web, and desktop"
+      ]
+    },
+    {
+      "question": "What is the main risk of improper state management?",
+      "options": [
+        "UI inconsistency",
+        "Longer compile time",
+        "Package conflicts",
+        "Build errors"
+      ],
+      "description": "single choice",
+      "answer": [
+        "UI inconsistency"
+      ]
+    },
+    {
+      "question": "What does CurvedAnimation provide?",
+      "options": [
+        "Layout control",
+        "Animation curve behavior",
+        "State updates",
+        "Navigation"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Animation curve behavior"
+      ]
+    },
+    {
+      "question": "How can data be passed to a new screen?",
+      "options": [
+        "Using global variables",
+        "Via constructor arguments",
+        "Using ThemeData",
+        "Using Scaffold"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Via constructor arguments"
+      ]
+    },
+    {
+      "question": "What is the purpose of parsing JSON?",
+      "options": [
+        "Encrypt data",
+        "Convert JSON into Dart objects",
+        "Send requests",
+        "Cache responses"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Convert JSON into Dart objects"
+      ]
+    },
+    {
+      "question": "Which phase involves gathering requirements?",
+      "options": [
+        "Implementation",
+        "Design",
+        "Analysis",
+        "Testing"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Analysis"
+      ]
+    },
+    {
+      "question": "Which Flutter tool helps debug network requests?",
+      "options": [
+        "DevTools",
+        "Inspector",
+        "Emulator",
+        "Hot reload"
+      ],
+      "description": "single choice",
+      "answer": [
+        "DevTools"
+      ]
+    },
+    {
+      "question": "Which Dart feature supports object-oriented programming?",
+      "options": [
+        "Widgets",
+        "Classes and objects",
+        "Hot reload",
+        "Layout builders"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Classes and objects"
+      ]
+    },
+    {
+      "question": "Which approach helps reduce unnecessary widget rebuilds?",
+      "options": [
+        "Using global variables",
+        "Fine-grained state updates",
+        "Hot restart",
+        "Large widgets"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Fine-grained state updates"
+      ]
+    },
+    {
+      "question": "Which action best demonstrates Flutter's reactive UI model?",
+      "options": [
+        "Manually updating UI elements",
+        "Rebuilding UI in response to state changes",
+        "Editing layout XML",
+        "Calling native APIs"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Rebuilding UI in response to state changes"
+      ]
+    },
+    {
+      "question": "Why are const widgets recommended?",
+      "options": [
+        "They improve readability",
+        "They reduce rebuild cost",
+        "They add state",
+        "They handle navigation"
+      ],
+      "description": "single choice",
+      "answer": [
+        "They reduce rebuild cost"
+      ]
+    },
+    {
+      "question": "Why should animations be disposed properly?",
+      "options": [
+        "Improve UI",
+        "Prevent memory leaks",
+        "Speed up builds",
+        "Fix layout"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Prevent memory leaks"
+      ]
+    },
+    {
+      "question": "Which Flutter test focuses on UI components?",
+      "options": [
+        "Unit test",
+        "Widget test",
+        "Integration test",
+        "Load test"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Widget test"
+      ]
+    },
+    {
+      "question": "Why should database operations be asynchronous?",
+      "options": [
+        "Simplify syntax",
+        "Avoid blocking UI thread",
+        "Reduce code",
+        "Improve theme"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Avoid blocking UI thread"
+      ]
+    },
+    {
+      "question": "Why is Chapter 13 considered optional (Plus)?",
+      "options": [
+        "It replaces core concepts",
+        "Apps can work without deep optimization",
+        "It manages navigation",
+        "It handles authentication"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Apps can work without deep optimization"
+      ]
+    },
+    {
+      "question": "Which widget applies a theme to an entire Flutter application?",
+      "options": [
+        "Scaffold",
+        "Theme",
+        "MaterialApp",
+        "Container"
+      ],
+      "description": "single choice",
+      "answer": [
+        "MaterialApp"
+      ]
+    },
+    {
+      "question": "What is the purpose of SliverAppBar?",
+      "options": [
+        "Static app bar",
+        "Scrollable flexible app bar",
+        "Bottom navigation",
+        "Drawer control"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Scrollable flexible app bar"
+      ]
+    },
+    {
+      "question": "Which widget is best used to add fixed empty space?",
+      "options": [
+        "Padding",
+        "Expanded",
+        "SizedBox",
+        "Container"
+      ],
+      "description": "single choice",
+      "answer": [
+        "SizedBox"
+      ]
+    },
+    {
+      "question": "Which package supports BLoC architecture?",
+      "options": [
+        "provider",
+        "flutter_bloc",
+        "sqflite",
+        "http"
+      ],
+      "description": "single choice",
+      "answer": [
+        "flutter_bloc"
+      ]
+    },
+    {
+      "question": "Which Flutter widget reacts to authentication state changes?",
+      "options": [
+        "FutureBuilder",
+        "StreamBuilder",
+        "ListView",
+        "Form"
+      ],
+      "description": "single choice",
+      "answer": [
+        "StreamBuilder"
+      ]
+    },
+    {
+      "question": "What is technical debt?",
+      "options": [
+        "UI lag",
+        "Future cost of poor design decisions",
+        "Memory usage",
+        "API limit"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Future cost of poor design decisions"
+      ]
+    },
+    {
+      "question": "What is implicit animation?",
+      "options": [
+        "Manual animation control",
+        "Animation without controller",
+        "API animation",
+        "Navigation animation"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Animation without controller"
+      ]
+    },
+    {
+      "question": "Which Dart data structure is best suited for storing an ordered collection of items?",
+      "options": [
+        "Set",
+        "Map",
+        "List",
+        "Queue"
+      ],
+      "description": "single choice",
+      "answer": [
+        "List"
+      ]
+    },
+    {
+      "question": "Which Flutter concept supports reactive UI updates?",
+      "options": [
+        "Manual refresh",
+        "Widget rebuilding",
+        "Hot restart",
+        "Native callbacks"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Widget rebuilding"
+      ]
+    },
+    {
+      "question": "Which type of test checks individual functions or classes?",
+      "options": [
+        "Widget test",
+        "Integration test",
+        "Unit test",
+        "System test"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Unit test"
+      ]
+    },
+    {
+      "question": "What is the role of events in BLoC?",
+      "options": [
+        "Store UI",
+        "Trigger state changes",
+        "Render widgets",
+        "Handle layout"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Trigger state changes"
+      ]
+    },
+    {
+      "question": "What is the main purpose of hot reload in Flutter?",
+      "options": [
+        "Improve runtime performance",
+        "Instantly reflect code changes in UI",
+        "Publish apps faster",
+        "Reduce memory usage"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Instantly reflect code changes in UI"
+      ]
+    },
+    {
+      "question": "Why are forms important in mobile applications?",
+      "options": [
+        "UI decoration",
+        "User data collection",
+        "State management",
+        "Navigation"
+      ],
+      "description": "single choice",
+      "answer": [
+        "User data collection"
+      ]
+    },
+    {
+      "question": "Which method retrieves data from SharedPreferences?",
+      "options": [
+        "get()",
+        "read()",
+        "fetch()",
+        "load()"
+      ],
+      "description": "single choice",
+      "answer": [
+        "get()"
+      ]
+    },
+    {
+      "question": "What is the main benefit of Flutter's widget-based architecture?",
+      "options": [
+        "Widgets are only used for layout design",
+        "Widgets allow code reuse across platforms",
+        "Widgets automatically manage databases",
+        "Widgets replace backend services"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Widgets allow code reuse across platforms"
+      ]
+    },
+    {
+      "question": "Why are widgets lightweight in Flutter?",
+      "options": [
+        "They manage system resources",
+        "They are immutable descriptions",
+        "They store UI state",
+        "They handle rendering directly"
+      ],
+      "description": "single choice",
+      "answer": [
+        "They are immutable descriptions"
+      ]
+    },
+    {
+      "question": "Why should authentication state be centralized?",
+      "options": [
+        "Reduce UI code",
+        "Ensure consistent access control",
+        "Improve animations",
+        "Simplify layout"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Ensure consistent access control"
+      ]
+    },
+    {
+      "question": "Which widget can hide user input text when configured for password entry?",
+      "options": [
+        "TextField",
+        "ObscureText",
+        "SecureInput",
+        "PasswordField"
+      ],
+      "description": "single choice",
+      "answer": [
+        "TextField"
+      ]
+    },
+    {
+      "question": "What is Flutter primarily used for?",
+      "options": [
+        "Designing databases for mobile apps",
+        "Creating native applications from a single codebase",
+        "Developing server-side applications only",
+        "Building operating systems for mobile devices"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Creating native applications from a single codebase"
+      ]
+    },
+    {
+      "question": "Which method resets all form fields?",
+      "options": [
+        "clear()",
+        "reset()",
+        "dispose()",
+        "remove()"
+      ],
+      "description": "single choice",
+      "answer": [
+        "reset()"
+      ]
+    },
+    {
+      "question": "Which Dart keyword is used to define a constant value at compile time?",
+      "options": [
+        "final",
+        "static",
+        "const",
+        "var"
+      ],
+      "description": "single choice",
+      "answer": [
+        "const"
+      ]
+    },
+    {
+      "question": "What happens after successful login?",
+      "options": [
+        "App closes",
+        "User session starts",
+        "Theme changes",
+        "Navigation resets"
+      ],
+      "description": "single choice",
+      "answer": [
+        "User session starts"
+      ]
+    },
+    {
+      "question": "Which step is required before running a Flutter app for the first time?",
+      "options": [
+        "Publishing the app",
+        "Setting up the Flutter SDK",
+        "Configuring a database",
+        "Writing backend APIs"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Setting up the Flutter SDK"
+      ]
+    },
+    {
+      "question": "Which widget reacts to async data from local storage?",
+      "options": [
+        "FutureBuilder",
+        "StreamBuilder",
+        "ListView",
+        "Provider"
+      ],
+      "description": "single choice",
+      "answer": [
+        "FutureBuilder"
+      ]
+    },
+    {
+      "question": "What does golden testing verify?",
+      "options": [
+        "API responses",
+        "UI appearance consistency",
+        "Database state",
+        "Authentication"
+      ],
+      "description": "single choice",
+      "answer": [
+        "UI appearance consistency"
+      ]
+    },
+    {
+      "question": "Why should state be kept as local as possible?",
+      "options": [
+        "Better animations",
+        "Reduce unnecessary rebuilds",
+        "Simplify UI",
+        "Improve navigation"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Reduce unnecessary rebuilds"
+      ]
+    },
+    {
+      "question": "What is the benefit of composing widgets in Flutter?",
+      "options": [
+        "Faster compilation",
+        "Better code reuse and UI consistency",
+        "Reduced memory usage",
+        "Automatic navigation"
+      ],
+      "description": "single choice",
+      "answer": [
+        "Better code reuse and UI consistency"
+      ]
+    },
+    {
+      "question": "Which status code indicates server error?",
+      "options": [
+        "200",
+        "301",
+        "404",
+        "500"
+      ],
+      "description": "single choice",
+      "answer": [
+        "500"
+      ]
+    }
+  ]
