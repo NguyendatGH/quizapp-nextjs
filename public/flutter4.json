@@ -1,0 +1,6242 @@
+[
+  {
+    "question": "What is Flutter primarily used for?",
+    "options": [
+      "Designing databases",
+      "Building natively compiled apps from a single codebase",
+      "Developing server-side apps",
+      "Building operating systems"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Building natively compiled apps from a single codebase"
+    ]
+  },
+  {
+    "question": "Which language is used to write Flutter apps?",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Dart",
+      "Swift"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Dart"
+    ]
+  },
+  {
+    "question": "What is the core rendering engine used by Flutter?",
+    "options": [
+      "WebKit",
+      "Gecko",
+      "Chromium",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Skia"
+    ]
+  },
+  {
+    "question": "Which layer of the Flutter architecture handles platform-specific integration like window management?",
+    "options": [
+      "Framework",
+      "Engine",
+      "Embedder",
+      "Foundation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Embedder"
+    ]
+  },
+  {
+    "question": "Which feature enables rapid UI development by instantly reflecting code changes?",
+    "options": [
+      "Hot Reload",
+      "AOT Compilation",
+      "Platform Channels",
+      "Skia Rendering"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Hot Reload"
+    ]
+  },
+  {
+    "question": "When is Flutter NOT the optimal choice?",
+    "options": [
+      "MVPs and startups",
+      "Apps with shared UI",
+      "Very low-level hardware access or high-performance 3D games",
+      "E-commerce apps"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Very low-level hardware access or high-performance 3D games"
+    ]
+  },
+  {
+    "question": "What mechanism does Flutter use to communicate with native Android/iOS code?",
+    "options": [
+      "REST API",
+      "Platform Channels",
+      "WebSockets",
+      "Dart FFI only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Platform Channels"
+    ]
+  },
+  {
+    "question": "Which environment runs Flutter code instantly in a browser without installation?",
+    "options": [
+      "Android Studio",
+      "VS Code",
+      "IntelliJ IDEA",
+      "DartPad"
+    ],
+    "description": "single choice",
+    "answer": [
+      "DartPad"
+    ]
+  },
+  {
+    "question": "What command verifies the Flutter SDK installation and setup?",
+    "options": [
+      "flutter run",
+      "flutter check",
+      "flutter doctor",
+      "flutter install"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter doctor"
+    ]
+  },
+  {
+    "question": "In the Flutter architecture, which layer is written in Dart?",
+    "options": [
+      "Engine",
+      "Embedder",
+      "Framework",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Framework"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What is Flutter primarily used for?",
+    "options": [
+      "Designing databases",
+      "Building natively compiled apps from a single codebase",
+      "Developing server-side apps",
+      "Building operating systems"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Building natively compiled apps from a single codebase"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which language is used to write Flutter apps?",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Dart",
+      "Swift"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Dart"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What is the core rendering engine used by Flutter?",
+    "options": [
+      "WebKit",
+      "Gecko",
+      "Chromium",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Skia"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which layer of the Flutter architecture handles platform-specific integration like window management?",
+    "options": [
+      "Framework",
+      "Engine",
+      "Embedder",
+      "Foundation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Embedder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which feature enables rapid UI development by instantly reflecting code changes?",
+    "options": [
+      "Hot Reload",
+      "AOT Compilation",
+      "Platform Channels",
+      "Skia Rendering"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Hot Reload"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): When is Flutter NOT the optimal choice?",
+    "options": [
+      "MVPs and startups",
+      "Apps with shared UI",
+      "Very low-level hardware access or high-performance 3D games",
+      "E-commerce apps"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Very low-level hardware access or high-performance 3D games"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What mechanism does Flutter use to communicate with native Android/iOS code?",
+    "options": [
+      "REST API",
+      "Platform Channels",
+      "WebSockets",
+      "Dart FFI only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Platform Channels"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which environment runs Flutter code instantly in a browser without installation?",
+    "options": [
+      "Android Studio",
+      "VS Code",
+      "IntelliJ IDEA",
+      "DartPad"
+    ],
+    "description": "single choice",
+    "answer": [
+      "DartPad"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What command verifies the Flutter SDK installation and setup?",
+    "options": [
+      "flutter run",
+      "flutter check",
+      "flutter doctor",
+      "flutter install"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter doctor"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): In the Flutter architecture, which layer is written in Dart?",
+    "options": [
+      "Engine",
+      "Embedder",
+      "Framework",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Framework"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What is Flutter primarily used for?",
+    "options": [
+      "Designing databases",
+      "Building natively compiled apps from a single codebase",
+      "Developing server-side apps",
+      "Building operating systems"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Building natively compiled apps from a single codebase"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which language is used to write Flutter apps?",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Dart",
+      "Swift"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Dart"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What is the core rendering engine used by Flutter?",
+    "options": [
+      "WebKit",
+      "Gecko",
+      "Chromium",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Skia"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which layer of the Flutter architecture handles platform-specific integration like window management?",
+    "options": [
+      "Framework",
+      "Engine",
+      "Embedder",
+      "Foundation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Embedder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which feature enables rapid UI development by instantly reflecting code changes?",
+    "options": [
+      "Hot Reload",
+      "AOT Compilation",
+      "Platform Channels",
+      "Skia Rendering"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Hot Reload"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): When is Flutter NOT the optimal choice?",
+    "options": [
+      "MVPs and startups",
+      "Apps with shared UI",
+      "Very low-level hardware access or high-performance 3D games",
+      "E-commerce apps"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Very low-level hardware access or high-performance 3D games"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What mechanism does Flutter use to communicate with native Android/iOS code?",
+    "options": [
+      "REST API",
+      "Platform Channels",
+      "WebSockets",
+      "Dart FFI only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Platform Channels"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which environment runs Flutter code instantly in a browser without installation?",
+    "options": [
+      "Android Studio",
+      "VS Code",
+      "IntelliJ IDEA",
+      "DartPad"
+    ],
+    "description": "single choice",
+    "answer": [
+      "DartPad"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What command verifies the Flutter SDK installation and setup?",
+    "options": [
+      "flutter run",
+      "flutter check",
+      "flutter doctor",
+      "flutter install"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter doctor"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): In the Flutter architecture, which layer is written in Dart?",
+    "options": [
+      "Engine",
+      "Embedder",
+      "Framework",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Framework"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What is Flutter primarily used for?",
+    "options": [
+      "Designing databases",
+      "Building natively compiled apps from a single codebase",
+      "Developing server-side apps",
+      "Building operating systems"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Building natively compiled apps from a single codebase"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which language is used to write Flutter apps?",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Dart",
+      "Swift"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Dart"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What is the core rendering engine used by Flutter?",
+    "options": [
+      "WebKit",
+      "Gecko",
+      "Chromium",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Skia"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which layer of the Flutter architecture handles platform-specific integration like window management?",
+    "options": [
+      "Framework",
+      "Engine",
+      "Embedder",
+      "Foundation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Embedder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which feature enables rapid UI development by instantly reflecting code changes?",
+    "options": [
+      "Hot Reload",
+      "AOT Compilation",
+      "Platform Channels",
+      "Skia Rendering"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Hot Reload"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): When is Flutter NOT the optimal choice?",
+    "options": [
+      "MVPs and startups",
+      "Apps with shared UI",
+      "Very low-level hardware access or high-performance 3D games",
+      "E-commerce apps"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Very low-level hardware access or high-performance 3D games"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What mechanism does Flutter use to communicate with native Android/iOS code?",
+    "options": [
+      "REST API",
+      "Platform Channels",
+      "WebSockets",
+      "Dart FFI only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Platform Channels"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): Which environment runs Flutter code instantly in a browser without installation?",
+    "options": [
+      "Android Studio",
+      "VS Code",
+      "IntelliJ IDEA",
+      "DartPad"
+    ],
+    "description": "single choice",
+    "answer": [
+      "DartPad"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): What command verifies the Flutter SDK installation and setup?",
+    "options": [
+      "flutter run",
+      "flutter check",
+      "flutter doctor",
+      "flutter install"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter doctor"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 1: Introduction to Flutter): In the Flutter architecture, which layer is written in Dart?",
+    "options": [
+      "Engine",
+      "Embedder",
+      "Framework",
+      "Skia"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Framework"
+    ]
+  },
+  {
+    "question": "In Dart, what is the difference between 'const' and 'final'?",
+    "options": [
+      "They are identical",
+      "const is compile-time constant, final is assigned once at runtime",
+      "final is compile-time, const is runtime",
+      "const can be reassigned"
+    ],
+    "description": "single choice",
+    "answer": [
+      "const is compile-time constant, final is assigned once at runtime"
+    ]
+  },
+  {
+    "question": "Which operator provides a default fallback value if a variable is null?",
+    "options": [
+      "?",
+      "!",
+      "??",
+      "?."
+    ],
+    "description": "single choice",
+    "answer": [
+      "??"
+    ]
+  },
+  {
+    "question": "Which collection type stores an unordered collection of unique elements?",
+    "options": [
+      "List",
+      "Set",
+      "Map",
+      "Queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "What is the entry point of every Dart program?",
+    "options": [
+      "runApp()",
+      "init()",
+      "start()",
+      "main()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "main()"
+    ]
+  },
+  {
+    "question": "What does the 'dynamic' keyword mean in Dart?",
+    "options": [
+      "Type is inferred at compile time",
+      "Type is resolved at runtime and can change",
+      "It is a constant",
+      "It cannot be null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Type is resolved at runtime and can change"
+    ]
+  },
+  {
+    "question": "Which functional method filters elements in a collection based on a condition?",
+    "options": [
+      "map()",
+      "reduce()",
+      "where()",
+      "forEach()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "where()"
+    ]
+  },
+  {
+    "question": "In Dart async programming, what does 'await' do?",
+    "options": [
+      "Cancels a Future",
+      "Pauses execution until the Future completes",
+      "Runs the function synchronously",
+      "Throws an exception"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution until the Future completes"
+    ]
+  },
+  {
+    "question": "What represents a sequence of asynchronous values over time?",
+    "options": [
+      "Future",
+      "List",
+      "Stream",
+      "Set"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "How do you define a named optional parameter with a default value?",
+    "options": [
+      "void greet([String name = 'Guest'])",
+      "void greet({String name = 'Guest'})",
+      "void greet(String? name)",
+      "void greet(String name: 'Guest')"
+    ],
+    "description": "single choice",
+    "answer": [
+      "void greet({String name = 'Guest'})"
+    ]
+  },
+  {
+    "question": "Which operator forces a non-null assertion in Dart?",
+    "options": [
+      "?",
+      "??",
+      "!",
+      "??="
+    ],
+    "description": "single choice",
+    "answer": [
+      "!"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): In Dart, what is the difference between 'const' and 'final'?",
+    "options": [
+      "They are identical",
+      "const is compile-time constant, final is assigned once at runtime",
+      "final is compile-time, const is runtime",
+      "const can be reassigned"
+    ],
+    "description": "single choice",
+    "answer": [
+      "const is compile-time constant, final is assigned once at runtime"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which operator provides a default fallback value if a variable is null?",
+    "options": [
+      "?",
+      "!",
+      "??",
+      "?."
+    ],
+    "description": "single choice",
+    "answer": [
+      "??"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which collection type stores an unordered collection of unique elements?",
+    "options": [
+      "List",
+      "Set",
+      "Map",
+      "Queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What is the entry point of every Dart program?",
+    "options": [
+      "runApp()",
+      "init()",
+      "start()",
+      "main()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "main()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What does the 'dynamic' keyword mean in Dart?",
+    "options": [
+      "Type is inferred at compile time",
+      "Type is resolved at runtime and can change",
+      "It is a constant",
+      "It cannot be null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Type is resolved at runtime and can change"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which functional method filters elements in a collection based on a condition?",
+    "options": [
+      "map()",
+      "reduce()",
+      "where()",
+      "forEach()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "where()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): In Dart async programming, what does 'await' do?",
+    "options": [
+      "Cancels a Future",
+      "Pauses execution until the Future completes",
+      "Runs the function synchronously",
+      "Throws an exception"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution until the Future completes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What represents a sequence of asynchronous values over time?",
+    "options": [
+      "Future",
+      "List",
+      "Stream",
+      "Set"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): How do you define a named optional parameter with a default value?",
+    "options": [
+      "void greet([String name = 'Guest'])",
+      "void greet({String name = 'Guest'})",
+      "void greet(String? name)",
+      "void greet(String name: 'Guest')"
+    ],
+    "description": "single choice",
+    "answer": [
+      "void greet({String name = 'Guest'})"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which operator forces a non-null assertion in Dart?",
+    "options": [
+      "?",
+      "??",
+      "!",
+      "??="
+    ],
+    "description": "single choice",
+    "answer": [
+      "!"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): In Dart, what is the difference between 'const' and 'final'?",
+    "options": [
+      "They are identical",
+      "const is compile-time constant, final is assigned once at runtime",
+      "final is compile-time, const is runtime",
+      "const can be reassigned"
+    ],
+    "description": "single choice",
+    "answer": [
+      "const is compile-time constant, final is assigned once at runtime"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which operator provides a default fallback value if a variable is null?",
+    "options": [
+      "?",
+      "!",
+      "??",
+      "?."
+    ],
+    "description": "single choice",
+    "answer": [
+      "??"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which collection type stores an unordered collection of unique elements?",
+    "options": [
+      "List",
+      "Set",
+      "Map",
+      "Queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What is the entry point of every Dart program?",
+    "options": [
+      "runApp()",
+      "init()",
+      "start()",
+      "main()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "main()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What does the 'dynamic' keyword mean in Dart?",
+    "options": [
+      "Type is inferred at compile time",
+      "Type is resolved at runtime and can change",
+      "It is a constant",
+      "It cannot be null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Type is resolved at runtime and can change"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which functional method filters elements in a collection based on a condition?",
+    "options": [
+      "map()",
+      "reduce()",
+      "where()",
+      "forEach()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "where()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): In Dart async programming, what does 'await' do?",
+    "options": [
+      "Cancels a Future",
+      "Pauses execution until the Future completes",
+      "Runs the function synchronously",
+      "Throws an exception"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution until the Future completes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What represents a sequence of asynchronous values over time?",
+    "options": [
+      "Future",
+      "List",
+      "Stream",
+      "Set"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): How do you define a named optional parameter with a default value?",
+    "options": [
+      "void greet([String name = 'Guest'])",
+      "void greet({String name = 'Guest'})",
+      "void greet(String? name)",
+      "void greet(String name: 'Guest')"
+    ],
+    "description": "single choice",
+    "answer": [
+      "void greet({String name = 'Guest'})"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which operator forces a non-null assertion in Dart?",
+    "options": [
+      "?",
+      "??",
+      "!",
+      "??="
+    ],
+    "description": "single choice",
+    "answer": [
+      "!"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): In Dart, what is the difference between 'const' and 'final'?",
+    "options": [
+      "They are identical",
+      "const is compile-time constant, final is assigned once at runtime",
+      "final is compile-time, const is runtime",
+      "const can be reassigned"
+    ],
+    "description": "single choice",
+    "answer": [
+      "const is compile-time constant, final is assigned once at runtime"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which operator provides a default fallback value if a variable is null?",
+    "options": [
+      "?",
+      "!",
+      "??",
+      "?."
+    ],
+    "description": "single choice",
+    "answer": [
+      "??"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which collection type stores an unordered collection of unique elements?",
+    "options": [
+      "List",
+      "Set",
+      "Map",
+      "Queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What is the entry point of every Dart program?",
+    "options": [
+      "runApp()",
+      "init()",
+      "start()",
+      "main()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "main()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What does the 'dynamic' keyword mean in Dart?",
+    "options": [
+      "Type is inferred at compile time",
+      "Type is resolved at runtime and can change",
+      "It is a constant",
+      "It cannot be null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Type is resolved at runtime and can change"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which functional method filters elements in a collection based on a condition?",
+    "options": [
+      "map()",
+      "reduce()",
+      "where()",
+      "forEach()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "where()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): In Dart async programming, what does 'await' do?",
+    "options": [
+      "Cancels a Future",
+      "Pauses execution until the Future completes",
+      "Runs the function synchronously",
+      "Throws an exception"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution until the Future completes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): What represents a sequence of asynchronous values over time?",
+    "options": [
+      "Future",
+      "List",
+      "Stream",
+      "Set"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Set"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): How do you define a named optional parameter with a default value?",
+    "options": [
+      "void greet([String name = 'Guest'])",
+      "void greet({String name = 'Guest'})",
+      "void greet(String? name)",
+      "void greet(String name: 'Guest')"
+    ],
+    "description": "single choice",
+    "answer": [
+      "void greet({String name = 'Guest'})"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 2: Dart Essentials): Which operator forces a non-null assertion in Dart?",
+    "options": [
+      "?",
+      "??",
+      "!",
+      "??="
+    ],
+    "description": "single choice",
+    "answer": [
+      "!"
+    ]
+  },
+  {
+    "question": "Which keyword is used to share behavior across classes without an inheritance chain?",
+    "options": [
+      "extends",
+      "implements",
+      "with",
+      "abstract"
+    ],
+    "description": "single choice",
+    "answer": [
+      "with"
+    ]
+  },
+  {
+    "question": "What does the 'implements' keyword force a subclass to do?",
+    "options": [
+      "Inherit methods exactly as is",
+      "Fully override all methods to define behavior",
+      "Create a factory constructor",
+      "Use a mixin"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Fully override all methods to define behavior"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of a Factory Constructor?",
+    "options": [
+      "To strictly return a new instance every time",
+      "To define abstract methods",
+      "To control instance creation (e.g., return cached instances or parse JSON)",
+      "To initialize final variables"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To control instance creation (e.g., return cached instances or parse JSON)"
+    ]
+  },
+  {
+    "question": "Which feature provides compile-time type safety and code reusability (e.g., List<T>)?",
+    "options": [
+      "Mixins",
+      "Factory Constructors",
+      "Generics",
+      "Abstract Classes"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Generics"
+    ]
+  },
+  {
+    "question": "In Dart's Event Loop, which queue has the highest priority?",
+    "options": [
+      "Event queue",
+      "Render queue",
+      "Microtask queue",
+      "Future queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Microtask queue"
+    ]
+  },
+  {
+    "question": "Which keyword is used in a Stream Generator to emit values?",
+    "options": [
+      "return",
+      "yield",
+      "await",
+      "emit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "yield"
+    ]
+  },
+  {
+    "question": "What pattern separates data fetching logic from presentation/UI logic?",
+    "options": [
+      "Singleton Pattern",
+      "Factory Pattern",
+      "Repository Pattern",
+      "Observer Pattern"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Repository Pattern"
+    ]
+  },
+  {
+    "question": "How can you restrict a Generic type to only accept subclasses of a specific class?",
+    "options": [
+      "class Box<T extends Animal>",
+      "class Box<T implements Animal>",
+      "class Box<T with Animal>",
+      "class Box<T super Animal>"
+    ],
+    "description": "single choice",
+    "answer": [
+      "class Box<T extends Animal>"
+    ]
+  },
+  {
+    "question": "What does 'rethrow' do in a catch block?",
+    "options": [
+      "Ignores the error",
+      "Propagates the exception up the call stack after logging",
+      "Crashes the app immediately",
+      "Converts the error to null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Propagates the exception up the call stack after logging"
+    ]
+  },
+  {
+    "question": "Which class structure does Flutter use internally for its State<T>?",
+    "options": [
+      "Mixin",
+      "Implicit Interface",
+      "Abstract Class",
+      "Enum"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Abstract Class"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which keyword is used to share behavior across classes without an inheritance chain?",
+    "options": [
+      "extends",
+      "implements",
+      "with",
+      "abstract"
+    ],
+    "description": "single choice",
+    "answer": [
+      "with"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What does the 'implements' keyword force a subclass to do?",
+    "options": [
+      "Inherit methods exactly as is",
+      "Fully override all methods to define behavior",
+      "Create a factory constructor",
+      "Use a mixin"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Fully override all methods to define behavior"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What is the primary purpose of a Factory Constructor?",
+    "options": [
+      "To strictly return a new instance every time",
+      "To define abstract methods",
+      "To control instance creation (e.g., return cached instances or parse JSON)",
+      "To initialize final variables"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To control instance creation (e.g., return cached instances or parse JSON)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which feature provides compile-time type safety and code reusability (e.g., List<T>)?",
+    "options": [
+      "Mixins",
+      "Factory Constructors",
+      "Generics",
+      "Abstract Classes"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Generics"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): In Dart's Event Loop, which queue has the highest priority?",
+    "options": [
+      "Event queue",
+      "Render queue",
+      "Microtask queue",
+      "Future queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Microtask queue"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which keyword is used in a Stream Generator to emit values?",
+    "options": [
+      "return",
+      "yield",
+      "await",
+      "emit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "yield"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What pattern separates data fetching logic from presentation/UI logic?",
+    "options": [
+      "Singleton Pattern",
+      "Factory Pattern",
+      "Repository Pattern",
+      "Observer Pattern"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Repository Pattern"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): How can you restrict a Generic type to only accept subclasses of a specific class?",
+    "options": [
+      "class Box<T extends Animal>",
+      "class Box<T implements Animal>",
+      "class Box<T with Animal>",
+      "class Box<T super Animal>"
+    ],
+    "description": "single choice",
+    "answer": [
+      "class Box<T extends Animal>"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What does 'rethrow' do in a catch block?",
+    "options": [
+      "Ignores the error",
+      "Propagates the exception up the call stack after logging",
+      "Crashes the app immediately",
+      "Converts the error to null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Propagates the exception up the call stack after logging"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which class structure does Flutter use internally for its State<T>?",
+    "options": [
+      "Mixin",
+      "Implicit Interface",
+      "Abstract Class",
+      "Enum"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Abstract Class"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which keyword is used to share behavior across classes without an inheritance chain?",
+    "options": [
+      "extends",
+      "implements",
+      "with",
+      "abstract"
+    ],
+    "description": "single choice",
+    "answer": [
+      "with"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What does the 'implements' keyword force a subclass to do?",
+    "options": [
+      "Inherit methods exactly as is",
+      "Fully override all methods to define behavior",
+      "Create a factory constructor",
+      "Use a mixin"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Fully override all methods to define behavior"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What is the primary purpose of a Factory Constructor?",
+    "options": [
+      "To strictly return a new instance every time",
+      "To define abstract methods",
+      "To control instance creation (e.g., return cached instances or parse JSON)",
+      "To initialize final variables"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To control instance creation (e.g., return cached instances or parse JSON)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which feature provides compile-time type safety and code reusability (e.g., List<T>)?",
+    "options": [
+      "Mixins",
+      "Factory Constructors",
+      "Generics",
+      "Abstract Classes"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Generics"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): In Dart's Event Loop, which queue has the highest priority?",
+    "options": [
+      "Event queue",
+      "Render queue",
+      "Microtask queue",
+      "Future queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Microtask queue"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which keyword is used in a Stream Generator to emit values?",
+    "options": [
+      "return",
+      "yield",
+      "await",
+      "emit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "yield"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What pattern separates data fetching logic from presentation/UI logic?",
+    "options": [
+      "Singleton Pattern",
+      "Factory Pattern",
+      "Repository Pattern",
+      "Observer Pattern"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Repository Pattern"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): How can you restrict a Generic type to only accept subclasses of a specific class?",
+    "options": [
+      "class Box<T extends Animal>",
+      "class Box<T implements Animal>",
+      "class Box<T with Animal>",
+      "class Box<T super Animal>"
+    ],
+    "description": "single choice",
+    "answer": [
+      "class Box<T extends Animal>"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What does 'rethrow' do in a catch block?",
+    "options": [
+      "Ignores the error",
+      "Propagates the exception up the call stack after logging",
+      "Crashes the app immediately",
+      "Converts the error to null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Propagates the exception up the call stack after logging"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which class structure does Flutter use internally for its State<T>?",
+    "options": [
+      "Mixin",
+      "Implicit Interface",
+      "Abstract Class",
+      "Enum"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Abstract Class"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which keyword is used to share behavior across classes without an inheritance chain?",
+    "options": [
+      "extends",
+      "implements",
+      "with",
+      "abstract"
+    ],
+    "description": "single choice",
+    "answer": [
+      "with"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What does the 'implements' keyword force a subclass to do?",
+    "options": [
+      "Inherit methods exactly as is",
+      "Fully override all methods to define behavior",
+      "Create a factory constructor",
+      "Use a mixin"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Fully override all methods to define behavior"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What is the primary purpose of a Factory Constructor?",
+    "options": [
+      "To strictly return a new instance every time",
+      "To define abstract methods",
+      "To control instance creation (e.g., return cached instances or parse JSON)",
+      "To initialize final variables"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To control instance creation (e.g., return cached instances or parse JSON)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which feature provides compile-time type safety and code reusability (e.g., List<T>)?",
+    "options": [
+      "Mixins",
+      "Factory Constructors",
+      "Generics",
+      "Abstract Classes"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Generics"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): In Dart's Event Loop, which queue has the highest priority?",
+    "options": [
+      "Event queue",
+      "Render queue",
+      "Microtask queue",
+      "Future queue"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Microtask queue"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which keyword is used in a Stream Generator to emit values?",
+    "options": [
+      "return",
+      "yield",
+      "await",
+      "emit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "yield"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What pattern separates data fetching logic from presentation/UI logic?",
+    "options": [
+      "Singleton Pattern",
+      "Factory Pattern",
+      "Repository Pattern",
+      "Observer Pattern"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Repository Pattern"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): How can you restrict a Generic type to only accept subclasses of a specific class?",
+    "options": [
+      "class Box<T extends Animal>",
+      "class Box<T implements Animal>",
+      "class Box<T with Animal>",
+      "class Box<T super Animal>"
+    ],
+    "description": "single choice",
+    "answer": [
+      "class Box<T extends Animal>"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): What does 'rethrow' do in a catch block?",
+    "options": [
+      "Ignores the error",
+      "Propagates the exception up the call stack after logging",
+      "Crashes the app immediately",
+      "Converts the error to null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Propagates the exception up the call stack after logging"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 3: Advanced Dart): Which class structure does Flutter use internally for its State<T>?",
+    "options": [
+      "Mixin",
+      "Implicit Interface",
+      "Abstract Class",
+      "Enum"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Abstract Class"
+    ]
+  },
+  {
+    "question": "What is the core design philosophy in Flutter?",
+    "options": [
+      "Everything is a View",
+      "Everything is an Activity",
+      "Everything is a Widget",
+      "Everything is a Component"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Everything is a Widget"
+    ]
+  },
+  {
+    "question": "Which widget provides the structural backbone for a Material Design screen?",
+    "options": [
+      "Container",
+      "Column",
+      "Scaffold",
+      "MaterialApp"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Scaffold"
+    ]
+  },
+  {
+    "question": "Which widget is best for toggling a boolean value (ON/OFF)?",
+    "options": [
+      "Slider",
+      "Switch",
+      "Radio",
+      "Checkbox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Switch"
+    ]
+  },
+  {
+    "question": "Which widget creates a scrollable column of items efficiently?",
+    "options": [
+      "Column",
+      "Wrap",
+      "ListView.builder",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ListView.builder"
+    ]
+  },
+  {
+    "question": "Which combination is a standard Material pattern for displaying concise information?",
+    "options": [
+      "Container + Text",
+      "Card + ListTile",
+      "Row + Icon",
+      "Column + Padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Card + ListTile"
+    ]
+  },
+  {
+    "question": "How do you display an image from the internet in Flutter?",
+    "options": [
+      "Image.asset",
+      "Image.network",
+      "Image.web",
+      "Image.url"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Image.network"
+    ]
+  },
+  {
+    "question": "Which widget lets a user pick a continuous value within a defined range?",
+    "options": [
+      "Switch",
+      "Slider",
+      "DatePicker",
+      "DropdownButton"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Slider"
+    ]
+  },
+  {
+    "question": "What is the purpose of the 'ThemeData' class?",
+    "options": [
+      "To handle navigation",
+      "To fetch data from APIs",
+      "To define global colors, typography, and shapes",
+      "To manage local storage"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To define global colors, typography, and shapes"
+    ]
+  },
+  {
+    "question": "If you want widgets to sit side-by-side horizontally, which layout widget should you use?",
+    "options": [
+      "Column",
+      "Stack",
+      "Row",
+      "ListView"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Row"
+    ]
+  },
+  {
+    "question": "What is the primary role of the 'Padding' widget?",
+    "options": [
+      "To change the color of a child",
+      "To add empty space around its child",
+      "To make a child scrollable",
+      "To align a child to the center"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To add empty space around its child"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the core design philosophy in Flutter?",
+    "options": [
+      "Everything is a View",
+      "Everything is an Activity",
+      "Everything is a Widget",
+      "Everything is a Component"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Everything is a Widget"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget provides the structural backbone for a Material Design screen?",
+    "options": [
+      "Container",
+      "Column",
+      "Scaffold",
+      "MaterialApp"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Scaffold"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget is best for toggling a boolean value (ON/OFF)?",
+    "options": [
+      "Slider",
+      "Switch",
+      "Radio",
+      "Checkbox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Switch"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget creates a scrollable column of items efficiently?",
+    "options": [
+      "Column",
+      "Wrap",
+      "ListView.builder",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ListView.builder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which combination is a standard Material pattern for displaying concise information?",
+    "options": [
+      "Container + Text",
+      "Card + ListTile",
+      "Row + Icon",
+      "Column + Padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Card + ListTile"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): How do you display an image from the internet in Flutter?",
+    "options": [
+      "Image.asset",
+      "Image.network",
+      "Image.web",
+      "Image.url"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Image.network"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget lets a user pick a continuous value within a defined range?",
+    "options": [
+      "Switch",
+      "Slider",
+      "DatePicker",
+      "DropdownButton"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Slider"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the purpose of the 'ThemeData' class?",
+    "options": [
+      "To handle navigation",
+      "To fetch data from APIs",
+      "To define global colors, typography, and shapes",
+      "To manage local storage"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To define global colors, typography, and shapes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): If you want widgets to sit side-by-side horizontally, which layout widget should you use?",
+    "options": [
+      "Column",
+      "Stack",
+      "Row",
+      "ListView"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Row"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the primary role of the 'Padding' widget?",
+    "options": [
+      "To change the color of a child",
+      "To add empty space around its child",
+      "To make a child scrollable",
+      "To align a child to the center"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To add empty space around its child"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the core design philosophy in Flutter?",
+    "options": [
+      "Everything is a View",
+      "Everything is an Activity",
+      "Everything is a Widget",
+      "Everything is a Component"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Everything is a Widget"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget provides the structural backbone for a Material Design screen?",
+    "options": [
+      "Container",
+      "Column",
+      "Scaffold",
+      "MaterialApp"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Scaffold"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget is best for toggling a boolean value (ON/OFF)?",
+    "options": [
+      "Slider",
+      "Switch",
+      "Radio",
+      "Checkbox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Switch"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget creates a scrollable column of items efficiently?",
+    "options": [
+      "Column",
+      "Wrap",
+      "ListView.builder",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ListView.builder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which combination is a standard Material pattern for displaying concise information?",
+    "options": [
+      "Container + Text",
+      "Card + ListTile",
+      "Row + Icon",
+      "Column + Padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Card + ListTile"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): How do you display an image from the internet in Flutter?",
+    "options": [
+      "Image.asset",
+      "Image.network",
+      "Image.web",
+      "Image.url"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Image.network"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget lets a user pick a continuous value within a defined range?",
+    "options": [
+      "Switch",
+      "Slider",
+      "DatePicker",
+      "DropdownButton"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Slider"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the purpose of the 'ThemeData' class?",
+    "options": [
+      "To handle navigation",
+      "To fetch data from APIs",
+      "To define global colors, typography, and shapes",
+      "To manage local storage"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To define global colors, typography, and shapes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): If you want widgets to sit side-by-side horizontally, which layout widget should you use?",
+    "options": [
+      "Column",
+      "Stack",
+      "Row",
+      "ListView"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Row"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the primary role of the 'Padding' widget?",
+    "options": [
+      "To change the color of a child",
+      "To add empty space around its child",
+      "To make a child scrollable",
+      "To align a child to the center"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To add empty space around its child"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the core design philosophy in Flutter?",
+    "options": [
+      "Everything is a View",
+      "Everything is an Activity",
+      "Everything is a Widget",
+      "Everything is a Component"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Everything is a Widget"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget provides the structural backbone for a Material Design screen?",
+    "options": [
+      "Container",
+      "Column",
+      "Scaffold",
+      "MaterialApp"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Scaffold"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget is best for toggling a boolean value (ON/OFF)?",
+    "options": [
+      "Slider",
+      "Switch",
+      "Radio",
+      "Checkbox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Switch"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget creates a scrollable column of items efficiently?",
+    "options": [
+      "Column",
+      "Wrap",
+      "ListView.builder",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ListView.builder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which combination is a standard Material pattern for displaying concise information?",
+    "options": [
+      "Container + Text",
+      "Card + ListTile",
+      "Row + Icon",
+      "Column + Padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Card + ListTile"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): How do you display an image from the internet in Flutter?",
+    "options": [
+      "Image.asset",
+      "Image.network",
+      "Image.web",
+      "Image.url"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Image.network"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): Which widget lets a user pick a continuous value within a defined range?",
+    "options": [
+      "Switch",
+      "Slider",
+      "DatePicker",
+      "DropdownButton"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Slider"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the purpose of the 'ThemeData' class?",
+    "options": [
+      "To handle navigation",
+      "To fetch data from APIs",
+      "To define global colors, typography, and shapes",
+      "To manage local storage"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To define global colors, typography, and shapes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): If you want widgets to sit side-by-side horizontally, which layout widget should you use?",
+    "options": [
+      "Column",
+      "Stack",
+      "Row",
+      "ListView"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Row"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 4: Flutter UI Fundamentals): What is the primary role of the 'Padding' widget?",
+    "options": [
+      "To change the color of a child",
+      "To add empty space around its child",
+      "To make a child scrollable",
+      "To align a child to the center"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To add empty space around its child"
+    ]
+  },
+  {
+    "question": "In Navigator 1.0, which method removes the current top-level page?",
+    "options": [
+      "push()",
+      "pop()",
+      "pushReplacement()",
+      "remove()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pop()"
+    ]
+  },
+  {
+    "question": "Which method replaces the current route so the user cannot go back to it?",
+    "options": [
+      "push()",
+      "pushNamed()",
+      "pushReplacement()",
+      "maybePop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pushReplacement()"
+    ]
+  },
+  {
+    "question": "What paradigm does Navigator 2.0 introduce?",
+    "options": [
+      "Imperative routing",
+      "Stack-only routing",
+      "Declarative routing (Router & RouterDelegate)",
+      "URL-only routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Declarative routing (Router & RouterDelegate)"
+    ]
+  },
+  {
+    "question": "What is Deep Linking?",
+    "options": [
+      "Linking widgets together",
+      "Opening a specific app screen via a URL or external source",
+      "Connecting to a database",
+      "Passing state down the widget tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Opening a specific app screen via a URL or external source"
+    ]
+  },
+  {
+    "question": "What is required to configure iOS Deep Links?",
+    "options": [
+      "AndroidManifest.xml",
+      "Associated Domains capability in Xcode",
+      "Info.plist only",
+      "GoogleServices-Info.plist"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Associated Domains capability in Xcode"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of state management?",
+    "options": [
+      "To design UI layouts",
+      "To determine what the user sees and keep UI consistent with data",
+      "To handle HTTP requests",
+      "To store data offline permanently"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To determine what the user sees and keep UI consistent with data"
+    ]
+  },
+  {
+    "question": "What is the concept of 'Lifting State Up'?",
+    "options": [
+      "Moving state to a common ancestor to share it between sibling widgets",
+      "Moving state to a child widget",
+      "Uploading state to a cloud database",
+      "Using GlobalVariables everywhere"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Moving state to a common ancestor to share it between sibling widgets"
+    ]
+  },
+  {
+    "question": "Which state management tool simplifies sharing state and rebuilding UI via `ChangeNotifier`?",
+    "options": [
+      "InheritedWidget",
+      "Provider",
+      "SharedPreferences",
+      "setState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Provider"
+    ]
+  },
+  {
+    "question": "What does a Consumer widget do in the Provider package?",
+    "options": [
+      "Creates a new state",
+      "Listens to a Provider and rebuilds only its builder function when state changes",
+      "Deletes the state",
+      "Handles routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Listens to a Provider and rebuilds only its builder function when state changes"
+    ]
+  },
+  {
+    "question": "When calling setState(), what happens?",
+    "options": [
+      "The entire app restarts",
+      "The build() method of that StatefulWidget is triggered to update the UI",
+      "The state is saved to the database",
+      "The widget is destroyed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The build() method of that StatefulWidget is triggered to update the UI"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): In Navigator 1.0, which method removes the current top-level page?",
+    "options": [
+      "push()",
+      "pop()",
+      "pushReplacement()",
+      "remove()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pop()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): Which method replaces the current route so the user cannot go back to it?",
+    "options": [
+      "push()",
+      "pushNamed()",
+      "pushReplacement()",
+      "maybePop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pushReplacement()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What paradigm does Navigator 2.0 introduce?",
+    "options": [
+      "Imperative routing",
+      "Stack-only routing",
+      "Declarative routing (Router & RouterDelegate)",
+      "URL-only routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Declarative routing (Router & RouterDelegate)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is Deep Linking?",
+    "options": [
+      "Linking widgets together",
+      "Opening a specific app screen via a URL or external source",
+      "Connecting to a database",
+      "Passing state down the widget tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Opening a specific app screen via a URL or external source"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is required to configure iOS Deep Links?",
+    "options": [
+      "AndroidManifest.xml",
+      "Associated Domains capability in Xcode",
+      "Info.plist only",
+      "GoogleServices-Info.plist"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Associated Domains capability in Xcode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is the primary purpose of state management?",
+    "options": [
+      "To design UI layouts",
+      "To determine what the user sees and keep UI consistent with data",
+      "To handle HTTP requests",
+      "To store data offline permanently"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To determine what the user sees and keep UI consistent with data"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is the concept of 'Lifting State Up'?",
+    "options": [
+      "Moving state to a common ancestor to share it between sibling widgets",
+      "Moving state to a child widget",
+      "Uploading state to a cloud database",
+      "Using GlobalVariables everywhere"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Moving state to a common ancestor to share it between sibling widgets"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): Which state management tool simplifies sharing state and rebuilding UI via `ChangeNotifier`?",
+    "options": [
+      "InheritedWidget",
+      "Provider",
+      "SharedPreferences",
+      "setState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Provider"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What does a Consumer widget do in the Provider package?",
+    "options": [
+      "Creates a new state",
+      "Listens to a Provider and rebuilds only its builder function when state changes",
+      "Deletes the state",
+      "Handles routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Listens to a Provider and rebuilds only its builder function when state changes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): When calling setState(), what happens?",
+    "options": [
+      "The entire app restarts",
+      "The build() method of that StatefulWidget is triggered to update the UI",
+      "The state is saved to the database",
+      "The widget is destroyed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The build() method of that StatefulWidget is triggered to update the UI"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): In Navigator 1.0, which method removes the current top-level page?",
+    "options": [
+      "push()",
+      "pop()",
+      "pushReplacement()",
+      "remove()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pop()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): Which method replaces the current route so the user cannot go back to it?",
+    "options": [
+      "push()",
+      "pushNamed()",
+      "pushReplacement()",
+      "maybePop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pushReplacement()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What paradigm does Navigator 2.0 introduce?",
+    "options": [
+      "Imperative routing",
+      "Stack-only routing",
+      "Declarative routing (Router & RouterDelegate)",
+      "URL-only routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Declarative routing (Router & RouterDelegate)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is Deep Linking?",
+    "options": [
+      "Linking widgets together",
+      "Opening a specific app screen via a URL or external source",
+      "Connecting to a database",
+      "Passing state down the widget tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Opening a specific app screen via a URL or external source"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is required to configure iOS Deep Links?",
+    "options": [
+      "AndroidManifest.xml",
+      "Associated Domains capability in Xcode",
+      "Info.plist only",
+      "GoogleServices-Info.plist"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Associated Domains capability in Xcode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is the primary purpose of state management?",
+    "options": [
+      "To design UI layouts",
+      "To determine what the user sees and keep UI consistent with data",
+      "To handle HTTP requests",
+      "To store data offline permanently"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To determine what the user sees and keep UI consistent with data"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is the concept of 'Lifting State Up'?",
+    "options": [
+      "Moving state to a common ancestor to share it between sibling widgets",
+      "Moving state to a child widget",
+      "Uploading state to a cloud database",
+      "Using GlobalVariables everywhere"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Moving state to a common ancestor to share it between sibling widgets"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): Which state management tool simplifies sharing state and rebuilding UI via `ChangeNotifier`?",
+    "options": [
+      "InheritedWidget",
+      "Provider",
+      "SharedPreferences",
+      "setState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Provider"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What does a Consumer widget do in the Provider package?",
+    "options": [
+      "Creates a new state",
+      "Listens to a Provider and rebuilds only its builder function when state changes",
+      "Deletes the state",
+      "Handles routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Listens to a Provider and rebuilds only its builder function when state changes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): When calling setState(), what happens?",
+    "options": [
+      "The entire app restarts",
+      "The build() method of that StatefulWidget is triggered to update the UI",
+      "The state is saved to the database",
+      "The widget is destroyed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The build() method of that StatefulWidget is triggered to update the UI"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): In Navigator 1.0, which method removes the current top-level page?",
+    "options": [
+      "push()",
+      "pop()",
+      "pushReplacement()",
+      "remove()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pop()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): Which method replaces the current route so the user cannot go back to it?",
+    "options": [
+      "push()",
+      "pushNamed()",
+      "pushReplacement()",
+      "maybePop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "pushReplacement()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What paradigm does Navigator 2.0 introduce?",
+    "options": [
+      "Imperative routing",
+      "Stack-only routing",
+      "Declarative routing (Router & RouterDelegate)",
+      "URL-only routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Declarative routing (Router & RouterDelegate)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is Deep Linking?",
+    "options": [
+      "Linking widgets together",
+      "Opening a specific app screen via a URL or external source",
+      "Connecting to a database",
+      "Passing state down the widget tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Opening a specific app screen via a URL or external source"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is required to configure iOS Deep Links?",
+    "options": [
+      "AndroidManifest.xml",
+      "Associated Domains capability in Xcode",
+      "Info.plist only",
+      "GoogleServices-Info.plist"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Associated Domains capability in Xcode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is the primary purpose of state management?",
+    "options": [
+      "To design UI layouts",
+      "To determine what the user sees and keep UI consistent with data",
+      "To handle HTTP requests",
+      "To store data offline permanently"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To determine what the user sees and keep UI consistent with data"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What is the concept of 'Lifting State Up'?",
+    "options": [
+      "Moving state to a common ancestor to share it between sibling widgets",
+      "Moving state to a child widget",
+      "Uploading state to a cloud database",
+      "Using GlobalVariables everywhere"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Moving state to a common ancestor to share it between sibling widgets"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): Which state management tool simplifies sharing state and rebuilding UI via `ChangeNotifier`?",
+    "options": [
+      "InheritedWidget",
+      "Provider",
+      "SharedPreferences",
+      "setState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Provider"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): What does a Consumer widget do in the Provider package?",
+    "options": [
+      "Creates a new state",
+      "Listens to a Provider and rebuilds only its builder function when state changes",
+      "Deletes the state",
+      "Handles routing"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Listens to a Provider and rebuilds only its builder function when state changes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 5: Navigation & State Management): When calling setState(), what happens?",
+    "options": [
+      "The entire app restarts",
+      "The build() method of that StatefulWidget is triggered to update the UI",
+      "The state is saved to the database",
+      "The widget is destroyed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The build() method of that StatefulWidget is triggered to update the UI"
+    ]
+  },
+  {
+    "question": "What is the main difference between Responsive and Adaptive UI?",
+    "options": [
+      "Responsive changes layout based on space; Adaptive changes based on device type",
+      "Adaptive changes colors; Responsive changes layout",
+      "They are exactly the same",
+      "Responsive is for web; Adaptive is for mobile"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Responsive changes layout based on space; Adaptive changes based on device type"
+    ]
+  },
+  {
+    "question": "Which tool provides screen information like width, height, and safe area?",
+    "options": [
+      "LayoutBuilder",
+      "OrientationBuilder",
+      "MediaQuery",
+      "Expanded"
+    ],
+    "description": "single choice",
+    "answer": [
+      "MediaQuery"
+    ]
+  },
+  {
+    "question": "Which widget provides the parent's constraints (e.g., maxWidth) to its builder?",
+    "options": [
+      "MediaQuery",
+      "LayoutBuilder",
+      "Flexible",
+      "Wrap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "LayoutBuilder"
+    ]
+  },
+  {
+    "question": "Which widget automatically moves its children to the next line if there isn't enough horizontal space?",
+    "options": [
+      "Row",
+      "Column",
+      "Wrap",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Wrap"
+    ]
+  },
+  {
+    "question": "Which widget protects your UI from hardware notches and the dynamic island?",
+    "options": [
+      "Padding",
+      "Expanded",
+      "Flexible",
+      "SafeArea"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SafeArea"
+    ]
+  },
+  {
+    "question": "Which widget is ideal for creating a multi-column layout that adapts to screen width?",
+    "options": [
+      "ListView",
+      "GridView",
+      "Column",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GridView"
+    ]
+  },
+  {
+    "question": "What does OrientationBuilder do?",
+    "options": [
+      "Detects if the device is in portrait or landscape mode",
+      "Rotates the device screen",
+      "Builds layouts based on parent constraints",
+      "Provides screen pixel density"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Detects if the device is in portrait or landscape mode"
+    ]
+  },
+  {
+    "question": "How does the 'Expanded' widget behave inside a Row or Column?",
+    "options": [
+      "It shrinks to fit its child",
+      "It prevents line wrapping",
+      "It expands to fill all available remaining space",
+      "It adds padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It expands to fill all available remaining space"
+    ]
+  },
+  {
+    "question": "Why is Responsive UI critical for Flutter apps?",
+    "options": [
+      "To make the app run faster",
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)",
+      "To reduce APK size",
+      "To access native APIs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)"
+    ]
+  },
+  {
+    "question": "What is the typical adaptive pattern for navigation on Desktop/Tablet vs Mobile?",
+    "options": [
+      "Drawer for both",
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop",
+      "AppBar for Mobile, BottomNavigationBar for Desktop",
+      "No navigation on Desktop"
+    ],
+    "description": "single choice",
+    "answer": [
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What is the main difference between Responsive and Adaptive UI?",
+    "options": [
+      "Responsive changes layout based on space; Adaptive changes based on device type",
+      "Adaptive changes colors; Responsive changes layout",
+      "They are exactly the same",
+      "Responsive is for web; Adaptive is for mobile"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Responsive changes layout based on space; Adaptive changes based on device type"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which tool provides screen information like width, height, and safe area?",
+    "options": [
+      "LayoutBuilder",
+      "OrientationBuilder",
+      "MediaQuery",
+      "Expanded"
+    ],
+    "description": "single choice",
+    "answer": [
+      "MediaQuery"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget provides the parent's constraints (e.g., maxWidth) to its builder?",
+    "options": [
+      "MediaQuery",
+      "LayoutBuilder",
+      "Flexible",
+      "Wrap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "LayoutBuilder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget automatically moves its children to the next line if there isn't enough horizontal space?",
+    "options": [
+      "Row",
+      "Column",
+      "Wrap",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Wrap"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget protects your UI from hardware notches and the dynamic island?",
+    "options": [
+      "Padding",
+      "Expanded",
+      "Flexible",
+      "SafeArea"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SafeArea"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget is ideal for creating a multi-column layout that adapts to screen width?",
+    "options": [
+      "ListView",
+      "GridView",
+      "Column",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GridView"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What does OrientationBuilder do?",
+    "options": [
+      "Detects if the device is in portrait or landscape mode",
+      "Rotates the device screen",
+      "Builds layouts based on parent constraints",
+      "Provides screen pixel density"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Detects if the device is in portrait or landscape mode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): How does the 'Expanded' widget behave inside a Row or Column?",
+    "options": [
+      "It shrinks to fit its child",
+      "It prevents line wrapping",
+      "It expands to fill all available remaining space",
+      "It adds padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It expands to fill all available remaining space"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Why is Responsive UI critical for Flutter apps?",
+    "options": [
+      "To make the app run faster",
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)",
+      "To reduce APK size",
+      "To access native APIs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What is the typical adaptive pattern for navigation on Desktop/Tablet vs Mobile?",
+    "options": [
+      "Drawer for both",
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop",
+      "AppBar for Mobile, BottomNavigationBar for Desktop",
+      "No navigation on Desktop"
+    ],
+    "description": "single choice",
+    "answer": [
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What is the main difference between Responsive and Adaptive UI?",
+    "options": [
+      "Responsive changes layout based on space; Adaptive changes based on device type",
+      "Adaptive changes colors; Responsive changes layout",
+      "They are exactly the same",
+      "Responsive is for web; Adaptive is for mobile"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Responsive changes layout based on space; Adaptive changes based on device type"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which tool provides screen information like width, height, and safe area?",
+    "options": [
+      "LayoutBuilder",
+      "OrientationBuilder",
+      "MediaQuery",
+      "Expanded"
+    ],
+    "description": "single choice",
+    "answer": [
+      "MediaQuery"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget provides the parent's constraints (e.g., maxWidth) to its builder?",
+    "options": [
+      "MediaQuery",
+      "LayoutBuilder",
+      "Flexible",
+      "Wrap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "LayoutBuilder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget automatically moves its children to the next line if there isn't enough horizontal space?",
+    "options": [
+      "Row",
+      "Column",
+      "Wrap",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Wrap"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget protects your UI from hardware notches and the dynamic island?",
+    "options": [
+      "Padding",
+      "Expanded",
+      "Flexible",
+      "SafeArea"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SafeArea"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget is ideal for creating a multi-column layout that adapts to screen width?",
+    "options": [
+      "ListView",
+      "GridView",
+      "Column",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GridView"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What does OrientationBuilder do?",
+    "options": [
+      "Detects if the device is in portrait or landscape mode",
+      "Rotates the device screen",
+      "Builds layouts based on parent constraints",
+      "Provides screen pixel density"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Detects if the device is in portrait or landscape mode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): How does the 'Expanded' widget behave inside a Row or Column?",
+    "options": [
+      "It shrinks to fit its child",
+      "It prevents line wrapping",
+      "It expands to fill all available remaining space",
+      "It adds padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It expands to fill all available remaining space"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Why is Responsive UI critical for Flutter apps?",
+    "options": [
+      "To make the app run faster",
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)",
+      "To reduce APK size",
+      "To access native APIs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What is the typical adaptive pattern for navigation on Desktop/Tablet vs Mobile?",
+    "options": [
+      "Drawer for both",
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop",
+      "AppBar for Mobile, BottomNavigationBar for Desktop",
+      "No navigation on Desktop"
+    ],
+    "description": "single choice",
+    "answer": [
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What is the main difference between Responsive and Adaptive UI?",
+    "options": [
+      "Responsive changes layout based on space; Adaptive changes based on device type",
+      "Adaptive changes colors; Responsive changes layout",
+      "They are exactly the same",
+      "Responsive is for web; Adaptive is for mobile"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Responsive changes layout based on space; Adaptive changes based on device type"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which tool provides screen information like width, height, and safe area?",
+    "options": [
+      "LayoutBuilder",
+      "OrientationBuilder",
+      "MediaQuery",
+      "Expanded"
+    ],
+    "description": "single choice",
+    "answer": [
+      "MediaQuery"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget provides the parent's constraints (e.g., maxWidth) to its builder?",
+    "options": [
+      "MediaQuery",
+      "LayoutBuilder",
+      "Flexible",
+      "Wrap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "LayoutBuilder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget automatically moves its children to the next line if there isn't enough horizontal space?",
+    "options": [
+      "Row",
+      "Column",
+      "Wrap",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Wrap"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget protects your UI from hardware notches and the dynamic island?",
+    "options": [
+      "Padding",
+      "Expanded",
+      "Flexible",
+      "SafeArea"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SafeArea"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Which widget is ideal for creating a multi-column layout that adapts to screen width?",
+    "options": [
+      "ListView",
+      "GridView",
+      "Column",
+      "Stack"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GridView"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What does OrientationBuilder do?",
+    "options": [
+      "Detects if the device is in portrait or landscape mode",
+      "Rotates the device screen",
+      "Builds layouts based on parent constraints",
+      "Provides screen pixel density"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Detects if the device is in portrait or landscape mode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): How does the 'Expanded' widget behave inside a Row or Column?",
+    "options": [
+      "It shrinks to fit its child",
+      "It prevents line wrapping",
+      "It expands to fill all available remaining space",
+      "It adds padding"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It expands to fill all available remaining space"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): Why is Responsive UI critical for Flutter apps?",
+    "options": [
+      "To make the app run faster",
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)",
+      "To reduce APK size",
+      "To access native APIs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Because Flutter targets varied devices (phones, tablets, web, desktop)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 6: Responsive UI & Adaptive Layouts): What is the typical adaptive pattern for navigation on Desktop/Tablet vs Mobile?",
+    "options": [
+      "Drawer for both",
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop",
+      "AppBar for Mobile, BottomNavigationBar for Desktop",
+      "No navigation on Desktop"
+    ],
+    "description": "single choice",
+    "answer": [
+      "BottomNavigationBar for Mobile, NavigationRail/Drawer for Desktop"
+    ]
+  },
+  {
+    "question": "Which class represents the state of a Form and allows bulk validation?",
+    "options": [
+      "FormKey",
+      "GlobalKey<FormState>",
+      "TextFieldState",
+      "ValidatorState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GlobalKey<FormState>"
+    ]
+  },
+  {
+    "question": "What should a validator function return if the input is VALID?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "An empty string"
+    ],
+    "description": "single choice",
+    "answer": [
+      "null"
+    ]
+  },
+  {
+    "question": "Which AutovalidateMode is generally recommended for the best User Experience?",
+    "options": [
+      "disabled",
+      "always",
+      "onUserInteraction",
+      "onSubmit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "onUserInteraction"
+    ]
+  },
+  {
+    "question": "What object manages keyboard focus between multiple input fields?",
+    "options": [
+      "TextEditingController",
+      "FormState",
+      "FocusNode",
+      "GestureDetector"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusNode"
+    ]
+  },
+  {
+    "question": "How can you programmatically dismiss the keyboard when the user taps outside a form?",
+    "options": [
+      "Form.reset()",
+      "FocusScope.of(context).unfocus()",
+      "Keyboard.hide()",
+      "Navigator.pop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusScope.of(context).unfocus()"
+    ]
+  },
+  {
+    "question": "What happens when you call _formKey.currentState!.save()?",
+    "options": [
+      "It validates the fields",
+      "It clears the form",
+      "It triggers the onSaved callback for every TextFormField",
+      "It submits data to the backend"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It triggers the onSaved callback for every TextFormField"
+    ]
+  },
+  {
+    "question": "Which widget is specifically designed to be used inside a Form for text input with built-in validation?",
+    "options": [
+      "TextField",
+      "Text",
+      "TextFormField",
+      "InputBox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "TextFormField"
+    ]
+  },
+  {
+    "question": "Why is it important to disable the submit button during an async API check?",
+    "options": [
+      "To change its color",
+      "To prevent the user from double-submitting the form",
+      "To trigger validation",
+      "To dismiss the keyboard"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To prevent the user from double-submitting the form"
+    ]
+  },
+  {
+    "question": "How do you securely hide text in a password field?",
+    "options": [
+      "hidden: true",
+      "obscureText: true",
+      "isPassword: true",
+      "secure: true"
+    ],
+    "description": "single choice",
+    "answer": [
+      "obscureText: true"
+    ]
+  },
+  {
+    "question": "What is a good practice for Form Error Messages?",
+    "options": [
+      "Use technical codes like ERROR_400",
+      "Blame the user",
+      "Be short, clear, and specific to the field",
+      "Show errors as popup dialogs only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Be short, clear, and specific to the field"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which class represents the state of a Form and allows bulk validation?",
+    "options": [
+      "FormKey",
+      "GlobalKey<FormState>",
+      "TextFieldState",
+      "ValidatorState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GlobalKey<FormState>"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What should a validator function return if the input is VALID?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "An empty string"
+    ],
+    "description": "single choice",
+    "answer": [
+      "null"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which AutovalidateMode is generally recommended for the best User Experience?",
+    "options": [
+      "disabled",
+      "always",
+      "onUserInteraction",
+      "onSubmit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "onUserInteraction"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What object manages keyboard focus between multiple input fields?",
+    "options": [
+      "TextEditingController",
+      "FormState",
+      "FocusNode",
+      "GestureDetector"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusNode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): How can you programmatically dismiss the keyboard when the user taps outside a form?",
+    "options": [
+      "Form.reset()",
+      "FocusScope.of(context).unfocus()",
+      "Keyboard.hide()",
+      "Navigator.pop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusScope.of(context).unfocus()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What happens when you call _formKey.currentState!.save()?",
+    "options": [
+      "It validates the fields",
+      "It clears the form",
+      "It triggers the onSaved callback for every TextFormField",
+      "It submits data to the backend"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It triggers the onSaved callback for every TextFormField"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which widget is specifically designed to be used inside a Form for text input with built-in validation?",
+    "options": [
+      "TextField",
+      "Text",
+      "TextFormField",
+      "InputBox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "TextFormField"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Why is it important to disable the submit button during an async API check?",
+    "options": [
+      "To change its color",
+      "To prevent the user from double-submitting the form",
+      "To trigger validation",
+      "To dismiss the keyboard"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To prevent the user from double-submitting the form"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): How do you securely hide text in a password field?",
+    "options": [
+      "hidden: true",
+      "obscureText: true",
+      "isPassword: true",
+      "secure: true"
+    ],
+    "description": "single choice",
+    "answer": [
+      "obscureText: true"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What is a good practice for Form Error Messages?",
+    "options": [
+      "Use technical codes like ERROR_400",
+      "Blame the user",
+      "Be short, clear, and specific to the field",
+      "Show errors as popup dialogs only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Be short, clear, and specific to the field"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which class represents the state of a Form and allows bulk validation?",
+    "options": [
+      "FormKey",
+      "GlobalKey<FormState>",
+      "TextFieldState",
+      "ValidatorState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GlobalKey<FormState>"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What should a validator function return if the input is VALID?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "An empty string"
+    ],
+    "description": "single choice",
+    "answer": [
+      "null"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which AutovalidateMode is generally recommended for the best User Experience?",
+    "options": [
+      "disabled",
+      "always",
+      "onUserInteraction",
+      "onSubmit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "onUserInteraction"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What object manages keyboard focus between multiple input fields?",
+    "options": [
+      "TextEditingController",
+      "FormState",
+      "FocusNode",
+      "GestureDetector"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusNode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): How can you programmatically dismiss the keyboard when the user taps outside a form?",
+    "options": [
+      "Form.reset()",
+      "FocusScope.of(context).unfocus()",
+      "Keyboard.hide()",
+      "Navigator.pop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusScope.of(context).unfocus()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What happens when you call _formKey.currentState!.save()?",
+    "options": [
+      "It validates the fields",
+      "It clears the form",
+      "It triggers the onSaved callback for every TextFormField",
+      "It submits data to the backend"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It triggers the onSaved callback for every TextFormField"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which widget is specifically designed to be used inside a Form for text input with built-in validation?",
+    "options": [
+      "TextField",
+      "Text",
+      "TextFormField",
+      "InputBox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "TextFormField"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Why is it important to disable the submit button during an async API check?",
+    "options": [
+      "To change its color",
+      "To prevent the user from double-submitting the form",
+      "To trigger validation",
+      "To dismiss the keyboard"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To prevent the user from double-submitting the form"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): How do you securely hide text in a password field?",
+    "options": [
+      "hidden: true",
+      "obscureText: true",
+      "isPassword: true",
+      "secure: true"
+    ],
+    "description": "single choice",
+    "answer": [
+      "obscureText: true"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What is a good practice for Form Error Messages?",
+    "options": [
+      "Use technical codes like ERROR_400",
+      "Blame the user",
+      "Be short, clear, and specific to the field",
+      "Show errors as popup dialogs only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Be short, clear, and specific to the field"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which class represents the state of a Form and allows bulk validation?",
+    "options": [
+      "FormKey",
+      "GlobalKey<FormState>",
+      "TextFieldState",
+      "ValidatorState"
+    ],
+    "description": "single choice",
+    "answer": [
+      "GlobalKey<FormState>"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What should a validator function return if the input is VALID?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "An empty string"
+    ],
+    "description": "single choice",
+    "answer": [
+      "null"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which AutovalidateMode is generally recommended for the best User Experience?",
+    "options": [
+      "disabled",
+      "always",
+      "onUserInteraction",
+      "onSubmit"
+    ],
+    "description": "single choice",
+    "answer": [
+      "onUserInteraction"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What object manages keyboard focus between multiple input fields?",
+    "options": [
+      "TextEditingController",
+      "FormState",
+      "FocusNode",
+      "GestureDetector"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusNode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): How can you programmatically dismiss the keyboard when the user taps outside a form?",
+    "options": [
+      "Form.reset()",
+      "FocusScope.of(context).unfocus()",
+      "Keyboard.hide()",
+      "Navigator.pop()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FocusScope.of(context).unfocus()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What happens when you call _formKey.currentState!.save()?",
+    "options": [
+      "It validates the fields",
+      "It clears the form",
+      "It triggers the onSaved callback for every TextFormField",
+      "It submits data to the backend"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It triggers the onSaved callback for every TextFormField"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Which widget is specifically designed to be used inside a Form for text input with built-in validation?",
+    "options": [
+      "TextField",
+      "Text",
+      "TextFormField",
+      "InputBox"
+    ],
+    "description": "single choice",
+    "answer": [
+      "TextFormField"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): Why is it important to disable the submit button during an async API check?",
+    "options": [
+      "To change its color",
+      "To prevent the user from double-submitting the form",
+      "To trigger validation",
+      "To dismiss the keyboard"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To prevent the user from double-submitting the form"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): How do you securely hide text in a password field?",
+    "options": [
+      "hidden: true",
+      "obscureText: true",
+      "isPassword: true",
+      "secure: true"
+    ],
+    "description": "single choice",
+    "answer": [
+      "obscureText: true"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 7: Forms and Validation): What is a good practice for Form Error Messages?",
+    "options": [
+      "Use technical codes like ERROR_400",
+      "Blame the user",
+      "Be short, clear, and specific to the field",
+      "Show errors as popup dialogs only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Be short, clear, and specific to the field"
+    ]
+  },
+  {
+    "question": "Which package is the standard for making HTTP requests in Flutter?",
+    "options": [
+      "dio",
+      "fetch",
+      "http",
+      "url_launcher"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http"
+    ]
+  },
+  {
+    "question": "What function converts a JSON string into a Dart Map or List?",
+    "options": [
+      "jsonEncode()",
+      "jsonDecode()",
+      "JSON.parse()",
+      "Json.convert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "jsonDecode()"
+    ]
+  },
+  {
+    "question": "Which widget automatically handles asynchronous data states (waiting, error, data)?",
+    "options": [
+      "StreamBuilder",
+      "AsyncWidget",
+      "FutureBuilder",
+      "StatefulBuilder"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FutureBuilder"
+    ]
+  },
+  {
+    "question": "What does an HTTP Status Code of 200 indicate?",
+    "options": [
+      "Client Error",
+      "Server Error",
+      "Success",
+      "Unauthorized"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Success"
+    ]
+  },
+  {
+    "question": "What is the recommended architectural pattern for organizing API logic?",
+    "options": [
+      "Write all API calls directly in the build() method",
+      "Use the Service Layer pattern (e.g., ApiService class)",
+      "Use SharedPreferences",
+      "Put API calls inside the Model class"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use the Service Layer pattern (e.g., ApiService class)"
+    ]
+  },
+  {
+    "question": "When creating a Dart Model from JSON, what is the standard method name used?",
+    "options": [
+      "fromJson",
+      "toJson",
+      "parse",
+      "decode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "fromJson"
+    ]
+  },
+  {
+    "question": "How do you send data to an API to create a new resource?",
+    "options": [
+      "http.get()",
+      "http.put()",
+      "http.delete()",
+      "http.post()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http.post()"
+    ]
+  },
+  {
+    "question": "What does 'await' do in an async function?",
+    "options": [
+      "Blocks the UI thread",
+      "Throws an exception",
+      "Pauses execution of the function until the Future completes",
+      "Runs the function in a background isolate"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution of the function until the Future completes"
+    ]
+  },
+  {
+    "question": "In a FutureBuilder, what state indicates that the Future is still running?",
+    "options": [
+      "ConnectionState.none",
+      "ConnectionState.waiting",
+      "ConnectionState.active",
+      "ConnectionState.done"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ConnectionState.waiting"
+    ]
+  },
+  {
+    "question": "Why should you avoid putting API calls directly inside the build() method?",
+    "options": [
+      "It uses too much memory",
+      "build() is called frequently; it would trigger infinite network requests",
+      "It is illegal in Dart",
+      "It forces the API to return null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "build() is called frequently; it would trigger infinite network requests"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Which package is the standard for making HTTP requests in Flutter?",
+    "options": [
+      "dio",
+      "fetch",
+      "http",
+      "url_launcher"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What function converts a JSON string into a Dart Map or List?",
+    "options": [
+      "jsonEncode()",
+      "jsonDecode()",
+      "JSON.parse()",
+      "Json.convert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "jsonDecode()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Which widget automatically handles asynchronous data states (waiting, error, data)?",
+    "options": [
+      "StreamBuilder",
+      "AsyncWidget",
+      "FutureBuilder",
+      "StatefulBuilder"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FutureBuilder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What does an HTTP Status Code of 200 indicate?",
+    "options": [
+      "Client Error",
+      "Server Error",
+      "Success",
+      "Unauthorized"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Success"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What is the recommended architectural pattern for organizing API logic?",
+    "options": [
+      "Write all API calls directly in the build() method",
+      "Use the Service Layer pattern (e.g., ApiService class)",
+      "Use SharedPreferences",
+      "Put API calls inside the Model class"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use the Service Layer pattern (e.g., ApiService class)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): When creating a Dart Model from JSON, what is the standard method name used?",
+    "options": [
+      "fromJson",
+      "toJson",
+      "parse",
+      "decode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "fromJson"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): How do you send data to an API to create a new resource?",
+    "options": [
+      "http.get()",
+      "http.put()",
+      "http.delete()",
+      "http.post()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http.post()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What does 'await' do in an async function?",
+    "options": [
+      "Blocks the UI thread",
+      "Throws an exception",
+      "Pauses execution of the function until the Future completes",
+      "Runs the function in a background isolate"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution of the function until the Future completes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): In a FutureBuilder, what state indicates that the Future is still running?",
+    "options": [
+      "ConnectionState.none",
+      "ConnectionState.waiting",
+      "ConnectionState.active",
+      "ConnectionState.done"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ConnectionState.waiting"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Why should you avoid putting API calls directly inside the build() method?",
+    "options": [
+      "It uses too much memory",
+      "build() is called frequently; it would trigger infinite network requests",
+      "It is illegal in Dart",
+      "It forces the API to return null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "build() is called frequently; it would trigger infinite network requests"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Which package is the standard for making HTTP requests in Flutter?",
+    "options": [
+      "dio",
+      "fetch",
+      "http",
+      "url_launcher"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What function converts a JSON string into a Dart Map or List?",
+    "options": [
+      "jsonEncode()",
+      "jsonDecode()",
+      "JSON.parse()",
+      "Json.convert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "jsonDecode()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Which widget automatically handles asynchronous data states (waiting, error, data)?",
+    "options": [
+      "StreamBuilder",
+      "AsyncWidget",
+      "FutureBuilder",
+      "StatefulBuilder"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FutureBuilder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What does an HTTP Status Code of 200 indicate?",
+    "options": [
+      "Client Error",
+      "Server Error",
+      "Success",
+      "Unauthorized"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Success"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What is the recommended architectural pattern for organizing API logic?",
+    "options": [
+      "Write all API calls directly in the build() method",
+      "Use the Service Layer pattern (e.g., ApiService class)",
+      "Use SharedPreferences",
+      "Put API calls inside the Model class"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use the Service Layer pattern (e.g., ApiService class)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): When creating a Dart Model from JSON, what is the standard method name used?",
+    "options": [
+      "fromJson",
+      "toJson",
+      "parse",
+      "decode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "fromJson"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): How do you send data to an API to create a new resource?",
+    "options": [
+      "http.get()",
+      "http.put()",
+      "http.delete()",
+      "http.post()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http.post()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What does 'await' do in an async function?",
+    "options": [
+      "Blocks the UI thread",
+      "Throws an exception",
+      "Pauses execution of the function until the Future completes",
+      "Runs the function in a background isolate"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution of the function until the Future completes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): In a FutureBuilder, what state indicates that the Future is still running?",
+    "options": [
+      "ConnectionState.none",
+      "ConnectionState.waiting",
+      "ConnectionState.active",
+      "ConnectionState.done"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ConnectionState.waiting"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Why should you avoid putting API calls directly inside the build() method?",
+    "options": [
+      "It uses too much memory",
+      "build() is called frequently; it would trigger infinite network requests",
+      "It is illegal in Dart",
+      "It forces the API to return null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "build() is called frequently; it would trigger infinite network requests"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Which package is the standard for making HTTP requests in Flutter?",
+    "options": [
+      "dio",
+      "fetch",
+      "http",
+      "url_launcher"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What function converts a JSON string into a Dart Map or List?",
+    "options": [
+      "jsonEncode()",
+      "jsonDecode()",
+      "JSON.parse()",
+      "Json.convert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "jsonDecode()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Which widget automatically handles asynchronous data states (waiting, error, data)?",
+    "options": [
+      "StreamBuilder",
+      "AsyncWidget",
+      "FutureBuilder",
+      "StatefulBuilder"
+    ],
+    "description": "single choice",
+    "answer": [
+      "FutureBuilder"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What does an HTTP Status Code of 200 indicate?",
+    "options": [
+      "Client Error",
+      "Server Error",
+      "Success",
+      "Unauthorized"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Success"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What is the recommended architectural pattern for organizing API logic?",
+    "options": [
+      "Write all API calls directly in the build() method",
+      "Use the Service Layer pattern (e.g., ApiService class)",
+      "Use SharedPreferences",
+      "Put API calls inside the Model class"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use the Service Layer pattern (e.g., ApiService class)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): When creating a Dart Model from JSON, what is the standard method name used?",
+    "options": [
+      "fromJson",
+      "toJson",
+      "parse",
+      "decode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "fromJson"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): How do you send data to an API to create a new resource?",
+    "options": [
+      "http.get()",
+      "http.put()",
+      "http.delete()",
+      "http.post()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "http.post()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): What does 'await' do in an async function?",
+    "options": [
+      "Blocks the UI thread",
+      "Throws an exception",
+      "Pauses execution of the function until the Future completes",
+      "Runs the function in a background isolate"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Pauses execution of the function until the Future completes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): In a FutureBuilder, what state indicates that the Future is still running?",
+    "options": [
+      "ConnectionState.none",
+      "ConnectionState.waiting",
+      "ConnectionState.active",
+      "ConnectionState.done"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ConnectionState.waiting"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 8: RESTful APIs & JSON): Why should you avoid putting API calls directly inside the build() method?",
+    "options": [
+      "It uses too much memory",
+      "build() is called frequently; it would trigger infinite network requests",
+      "It is illegal in Dart",
+      "It forces the API to return null"
+    ],
+    "description": "single choice",
+    "answer": [
+      "build() is called frequently; it would trigger infinite network requests"
+    ]
+  },
+  {
+    "question": "Which storage method is best suited for saving a simple 'Dark Mode' toggle?",
+    "options": [
+      "SQLite",
+      "Local JSON file",
+      "SharedPreferences",
+      "Firebase"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SharedPreferences"
+    ]
+  },
+  {
+    "question": "Which package provides full relational database capabilities (SQL) in Flutter?",
+    "options": [
+      "shared_preferences",
+      "sqflite",
+      "path_provider",
+      "hive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "sqflite"
+    ]
+  },
+  {
+    "question": "Are native plugins like SharedPreferences supported in pure DartPad?",
+    "options": [
+      "Yes, fully",
+      "No, they require native device storage",
+      "Yes, but only for strings",
+      "Yes, using WebSQL"
+    ],
+    "description": "single choice",
+    "answer": [
+      "No, they require native device storage"
+    ]
+  },
+  {
+    "question": "What is the 'Offline-First' concept?",
+    "options": [
+      "The app only works without internet",
+      "The app completely relies on cloud data",
+      "The app loads and saves local data first, then syncs with the server",
+      "The app blocks network requests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The app loads and saves local data first, then syncs with the server"
+    ]
+  },
+  {
+    "question": "Which sqflite method is used to add a new row to a database table?",
+    "options": [
+      "db.add()",
+      "db.push()",
+      "db.insert()",
+      "db.create()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "db.insert()"
+    ]
+  },
+  {
+    "question": "What is the role of the 'path_provider' package?",
+    "options": [
+      "To handle API URLs",
+      "To find correct local directories (like Application Documents) on iOS and Android",
+      "To draw paths on a Canvas",
+      "To manage routing navigation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To find correct local directories (like Application Documents) on iOS and Android"
+    ]
+  },
+  {
+    "question": "What type of data does SharedPreferences store?",
+    "options": [
+      "Relational tables",
+      "Key-Value pairs (String, int, bool, double, List<String>)",
+      "Large binary blobs",
+      "Complex Dart Objects directly"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Key-Value pairs (String, int, bool, double, List<String>)"
+    ]
+  },
+  {
+    "question": "When writing raw SQL in sqflite, which clause is used to filter results?",
+    "options": [
+      "SELECT",
+      "FROM",
+      "WHERE",
+      "ORDER BY"
+    ],
+    "description": "single choice",
+    "answer": [
+      "WHERE"
+    ]
+  },
+  {
+    "question": "Why might you use a Local JSON file instead of SharedPreferences?",
+    "options": [
+      "To store a single boolean flag",
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL",
+      "To achieve faster read times",
+      "To encrypt the data automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL"
+    ]
+  },
+  {
+    "question": "What is the typical SQLite workflow?",
+    "options": [
+      "Query -> Open -> Delete",
+      "Insert -> Open -> Create Table",
+      "Open DB -> Create Table -> Insert/Query/Update/Delete",
+      "Create Table -> Delete -> Open DB"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Open DB -> Create Table -> Insert/Query/Update/Delete"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which storage method is best suited for saving a simple 'Dark Mode' toggle?",
+    "options": [
+      "SQLite",
+      "Local JSON file",
+      "SharedPreferences",
+      "Firebase"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SharedPreferences"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which package provides full relational database capabilities (SQL) in Flutter?",
+    "options": [
+      "shared_preferences",
+      "sqflite",
+      "path_provider",
+      "hive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "sqflite"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Are native plugins like SharedPreferences supported in pure DartPad?",
+    "options": [
+      "Yes, fully",
+      "No, they require native device storage",
+      "Yes, but only for strings",
+      "Yes, using WebSQL"
+    ],
+    "description": "single choice",
+    "answer": [
+      "No, they require native device storage"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the 'Offline-First' concept?",
+    "options": [
+      "The app only works without internet",
+      "The app completely relies on cloud data",
+      "The app loads and saves local data first, then syncs with the server",
+      "The app blocks network requests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The app loads and saves local data first, then syncs with the server"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which sqflite method is used to add a new row to a database table?",
+    "options": [
+      "db.add()",
+      "db.push()",
+      "db.insert()",
+      "db.create()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "db.insert()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the role of the 'path_provider' package?",
+    "options": [
+      "To handle API URLs",
+      "To find correct local directories (like Application Documents) on iOS and Android",
+      "To draw paths on a Canvas",
+      "To manage routing navigation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To find correct local directories (like Application Documents) on iOS and Android"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What type of data does SharedPreferences store?",
+    "options": [
+      "Relational tables",
+      "Key-Value pairs (String, int, bool, double, List<String>)",
+      "Large binary blobs",
+      "Complex Dart Objects directly"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Key-Value pairs (String, int, bool, double, List<String>)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): When writing raw SQL in sqflite, which clause is used to filter results?",
+    "options": [
+      "SELECT",
+      "FROM",
+      "WHERE",
+      "ORDER BY"
+    ],
+    "description": "single choice",
+    "answer": [
+      "WHERE"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Why might you use a Local JSON file instead of SharedPreferences?",
+    "options": [
+      "To store a single boolean flag",
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL",
+      "To achieve faster read times",
+      "To encrypt the data automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the typical SQLite workflow?",
+    "options": [
+      "Query -> Open -> Delete",
+      "Insert -> Open -> Create Table",
+      "Open DB -> Create Table -> Insert/Query/Update/Delete",
+      "Create Table -> Delete -> Open DB"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Open DB -> Create Table -> Insert/Query/Update/Delete"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which storage method is best suited for saving a simple 'Dark Mode' toggle?",
+    "options": [
+      "SQLite",
+      "Local JSON file",
+      "SharedPreferences",
+      "Firebase"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SharedPreferences"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which package provides full relational database capabilities (SQL) in Flutter?",
+    "options": [
+      "shared_preferences",
+      "sqflite",
+      "path_provider",
+      "hive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "sqflite"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Are native plugins like SharedPreferences supported in pure DartPad?",
+    "options": [
+      "Yes, fully",
+      "No, they require native device storage",
+      "Yes, but only for strings",
+      "Yes, using WebSQL"
+    ],
+    "description": "single choice",
+    "answer": [
+      "No, they require native device storage"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the 'Offline-First' concept?",
+    "options": [
+      "The app only works without internet",
+      "The app completely relies on cloud data",
+      "The app loads and saves local data first, then syncs with the server",
+      "The app blocks network requests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The app loads and saves local data first, then syncs with the server"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which sqflite method is used to add a new row to a database table?",
+    "options": [
+      "db.add()",
+      "db.push()",
+      "db.insert()",
+      "db.create()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "db.insert()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the role of the 'path_provider' package?",
+    "options": [
+      "To handle API URLs",
+      "To find correct local directories (like Application Documents) on iOS and Android",
+      "To draw paths on a Canvas",
+      "To manage routing navigation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To find correct local directories (like Application Documents) on iOS and Android"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What type of data does SharedPreferences store?",
+    "options": [
+      "Relational tables",
+      "Key-Value pairs (String, int, bool, double, List<String>)",
+      "Large binary blobs",
+      "Complex Dart Objects directly"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Key-Value pairs (String, int, bool, double, List<String>)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): When writing raw SQL in sqflite, which clause is used to filter results?",
+    "options": [
+      "SELECT",
+      "FROM",
+      "WHERE",
+      "ORDER BY"
+    ],
+    "description": "single choice",
+    "answer": [
+      "WHERE"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Why might you use a Local JSON file instead of SharedPreferences?",
+    "options": [
+      "To store a single boolean flag",
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL",
+      "To achieve faster read times",
+      "To encrypt the data automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the typical SQLite workflow?",
+    "options": [
+      "Query -> Open -> Delete",
+      "Insert -> Open -> Create Table",
+      "Open DB -> Create Table -> Insert/Query/Update/Delete",
+      "Create Table -> Delete -> Open DB"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Open DB -> Create Table -> Insert/Query/Update/Delete"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which storage method is best suited for saving a simple 'Dark Mode' toggle?",
+    "options": [
+      "SQLite",
+      "Local JSON file",
+      "SharedPreferences",
+      "Firebase"
+    ],
+    "description": "single choice",
+    "answer": [
+      "SharedPreferences"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which package provides full relational database capabilities (SQL) in Flutter?",
+    "options": [
+      "shared_preferences",
+      "sqflite",
+      "path_provider",
+      "hive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "sqflite"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Are native plugins like SharedPreferences supported in pure DartPad?",
+    "options": [
+      "Yes, fully",
+      "No, they require native device storage",
+      "Yes, but only for strings",
+      "Yes, using WebSQL"
+    ],
+    "description": "single choice",
+    "answer": [
+      "No, they require native device storage"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the 'Offline-First' concept?",
+    "options": [
+      "The app only works without internet",
+      "The app completely relies on cloud data",
+      "The app loads and saves local data first, then syncs with the server",
+      "The app blocks network requests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The app loads and saves local data first, then syncs with the server"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Which sqflite method is used to add a new row to a database table?",
+    "options": [
+      "db.add()",
+      "db.push()",
+      "db.insert()",
+      "db.create()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "db.insert()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the role of the 'path_provider' package?",
+    "options": [
+      "To handle API URLs",
+      "To find correct local directories (like Application Documents) on iOS and Android",
+      "To draw paths on a Canvas",
+      "To manage routing navigation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To find correct local directories (like Application Documents) on iOS and Android"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What type of data does SharedPreferences store?",
+    "options": [
+      "Relational tables",
+      "Key-Value pairs (String, int, bool, double, List<String>)",
+      "Large binary blobs",
+      "Complex Dart Objects directly"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Key-Value pairs (String, int, bool, double, List<String>)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): When writing raw SQL in sqflite, which clause is used to filter results?",
+    "options": [
+      "SELECT",
+      "FROM",
+      "WHERE",
+      "ORDER BY"
+    ],
+    "description": "single choice",
+    "answer": [
+      "WHERE"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): Why might you use a Local JSON file instead of SharedPreferences?",
+    "options": [
+      "To store a single boolean flag",
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL",
+      "To achieve faster read times",
+      "To encrypt the data automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To store structured document-style data that is too large for key-value storage but doesn't need SQL"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 9: Local Storage & Persistence): What is the typical SQLite workflow?",
+    "options": [
+      "Query -> Open -> Delete",
+      "Insert -> Open -> Create Table",
+      "Open DB -> Create Table -> Insert/Query/Update/Delete",
+      "Create Table -> Delete -> Open DB"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Open DB -> Create Table -> Insert/Query/Update/Delete"
+    ]
+  },
+  {
+    "question": "What is the core difference between Authentication and Authorization?",
+    "options": [
+      "They are the same thing",
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'",
+      "Authentication uses passwords; Authorization uses emails",
+      "Authentication is for local DB; Authorization is for cloud"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'"
+    ]
+  },
+  {
+    "question": "What does JWT stand for?",
+    "options": [
+      "Java Web Tool",
+      "JSON Web Token",
+      "JavaScript Window Tracker",
+      "Joined Web Task"
+    ],
+    "description": "single choice",
+    "answer": [
+      "JSON Web Token"
+    ]
+  },
+  {
+    "question": "How is a user session typically persisted across app restarts in Flutter?",
+    "options": [
+      "Saving the password in a text file",
+      "Storing the JWT token in SharedPreferences",
+      "Using a global variable",
+      "Relying on the BuildContext"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Storing the JWT token in SharedPreferences"
+    ]
+  },
+  {
+    "question": "What is Firebase Authentication?",
+    "options": [
+      "A local SQL database",
+      "A UI layout library",
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)",
+      "A state management tool"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)"
+    ]
+  },
+  {
+    "question": "Which of the following describes a Local Notification?",
+    "options": [
+      "Sent from a remote backend server",
+      "Requires an active internet connection",
+      "Triggered by the app internally on the device",
+      "Costs money per message sent"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Triggered by the app internally on the device"
+    ]
+  },
+  {
+    "question": "What file is required in 'android/app/' to link a Flutter app to a Firebase project?",
+    "options": [
+      "firebase-config.json",
+      "Info.plist",
+      "google-services.json",
+      "AndroidManifest.xml"
+    ],
+    "description": "single choice",
+    "answer": [
+      "google-services.json"
+    ]
+  },
+  {
+    "question": "Why is it important to hash and salt passwords?",
+    "options": [
+      "To make the UI look better",
+      "To secure passwords on the server side so even database admins cannot read them",
+      "To reduce the database size",
+      "To speed up the login process"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To secure passwords on the server side so even database admins cannot read them"
+    ]
+  },
+  {
+    "question": "In the standard login flow, what does the backend return upon successful verification?",
+    "options": [
+      "A success boolean only",
+      "The user's raw password",
+      "An Access Token (e.g., JWT)",
+      "A SharedPreferences object"
+    ],
+    "description": "single choice",
+    "answer": [
+      "An Access Token (e.g., JWT)"
+    ]
+  },
+  {
+    "question": "What happens when you tap 'Logout' in a well-designed app?",
+    "options": [
+      "The app crashes",
+      "The UI turns black",
+      "The stored token is deleted and the user is routed to the Login screen",
+      "The database is dropped"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The stored token is deleted and the user is routed to the Login screen"
+    ]
+  },
+  {
+    "question": "Why use Mock APIs during development?",
+    "options": [
+      "They are more secure than real APIs",
+      "They help demonstrate and test flows without depending on unstable internet or servers",
+      "They automatically write unit tests",
+      "They publish the app automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "They help demonstrate and test flows without depending on unstable internet or servers"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What is the core difference between Authentication and Authorization?",
+    "options": [
+      "They are the same thing",
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'",
+      "Authentication uses passwords; Authorization uses emails",
+      "Authentication is for local DB; Authorization is for cloud"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What does JWT stand for?",
+    "options": [
+      "Java Web Tool",
+      "JSON Web Token",
+      "JavaScript Window Tracker",
+      "Joined Web Task"
+    ],
+    "description": "single choice",
+    "answer": [
+      "JSON Web Token"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): How is a user session typically persisted across app restarts in Flutter?",
+    "options": [
+      "Saving the password in a text file",
+      "Storing the JWT token in SharedPreferences",
+      "Using a global variable",
+      "Relying on the BuildContext"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Storing the JWT token in SharedPreferences"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What is Firebase Authentication?",
+    "options": [
+      "A local SQL database",
+      "A UI layout library",
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)",
+      "A state management tool"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Which of the following describes a Local Notification?",
+    "options": [
+      "Sent from a remote backend server",
+      "Requires an active internet connection",
+      "Triggered by the app internally on the device",
+      "Costs money per message sent"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Triggered by the app internally on the device"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What file is required in 'android/app/' to link a Flutter app to a Firebase project?",
+    "options": [
+      "firebase-config.json",
+      "Info.plist",
+      "google-services.json",
+      "AndroidManifest.xml"
+    ],
+    "description": "single choice",
+    "answer": [
+      "google-services.json"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Why is it important to hash and salt passwords?",
+    "options": [
+      "To make the UI look better",
+      "To secure passwords on the server side so even database admins cannot read them",
+      "To reduce the database size",
+      "To speed up the login process"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To secure passwords on the server side so even database admins cannot read them"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): In the standard login flow, what does the backend return upon successful verification?",
+    "options": [
+      "A success boolean only",
+      "The user's raw password",
+      "An Access Token (e.g., JWT)",
+      "A SharedPreferences object"
+    ],
+    "description": "single choice",
+    "answer": [
+      "An Access Token (e.g., JWT)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What happens when you tap 'Logout' in a well-designed app?",
+    "options": [
+      "The app crashes",
+      "The UI turns black",
+      "The stored token is deleted and the user is routed to the Login screen",
+      "The database is dropped"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The stored token is deleted and the user is routed to the Login screen"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Why use Mock APIs during development?",
+    "options": [
+      "They are more secure than real APIs",
+      "They help demonstrate and test flows without depending on unstable internet or servers",
+      "They automatically write unit tests",
+      "They publish the app automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "They help demonstrate and test flows without depending on unstable internet or servers"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What is the core difference between Authentication and Authorization?",
+    "options": [
+      "They are the same thing",
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'",
+      "Authentication uses passwords; Authorization uses emails",
+      "Authentication is for local DB; Authorization is for cloud"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What does JWT stand for?",
+    "options": [
+      "Java Web Tool",
+      "JSON Web Token",
+      "JavaScript Window Tracker",
+      "Joined Web Task"
+    ],
+    "description": "single choice",
+    "answer": [
+      "JSON Web Token"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): How is a user session typically persisted across app restarts in Flutter?",
+    "options": [
+      "Saving the password in a text file",
+      "Storing the JWT token in SharedPreferences",
+      "Using a global variable",
+      "Relying on the BuildContext"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Storing the JWT token in SharedPreferences"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What is Firebase Authentication?",
+    "options": [
+      "A local SQL database",
+      "A UI layout library",
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)",
+      "A state management tool"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Which of the following describes a Local Notification?",
+    "options": [
+      "Sent from a remote backend server",
+      "Requires an active internet connection",
+      "Triggered by the app internally on the device",
+      "Costs money per message sent"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Triggered by the app internally on the device"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What file is required in 'android/app/' to link a Flutter app to a Firebase project?",
+    "options": [
+      "firebase-config.json",
+      "Info.plist",
+      "google-services.json",
+      "AndroidManifest.xml"
+    ],
+    "description": "single choice",
+    "answer": [
+      "google-services.json"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Why is it important to hash and salt passwords?",
+    "options": [
+      "To make the UI look better",
+      "To secure passwords on the server side so even database admins cannot read them",
+      "To reduce the database size",
+      "To speed up the login process"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To secure passwords on the server side so even database admins cannot read them"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): In the standard login flow, what does the backend return upon successful verification?",
+    "options": [
+      "A success boolean only",
+      "The user's raw password",
+      "An Access Token (e.g., JWT)",
+      "A SharedPreferences object"
+    ],
+    "description": "single choice",
+    "answer": [
+      "An Access Token (e.g., JWT)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What happens when you tap 'Logout' in a well-designed app?",
+    "options": [
+      "The app crashes",
+      "The UI turns black",
+      "The stored token is deleted and the user is routed to the Login screen",
+      "The database is dropped"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The stored token is deleted and the user is routed to the Login screen"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Why use Mock APIs during development?",
+    "options": [
+      "They are more secure than real APIs",
+      "They help demonstrate and test flows without depending on unstable internet or servers",
+      "They automatically write unit tests",
+      "They publish the app automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "They help demonstrate and test flows without depending on unstable internet or servers"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What is the core difference between Authentication and Authorization?",
+    "options": [
+      "They are the same thing",
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'",
+      "Authentication uses passwords; Authorization uses emails",
+      "Authentication is for local DB; Authorization is for cloud"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Authentication verifies 'who you are'; Authorization verifies 'what you can do'"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What does JWT stand for?",
+    "options": [
+      "Java Web Tool",
+      "JSON Web Token",
+      "JavaScript Window Tracker",
+      "Joined Web Task"
+    ],
+    "description": "single choice",
+    "answer": [
+      "JSON Web Token"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): How is a user session typically persisted across app restarts in Flutter?",
+    "options": [
+      "Saving the password in a text file",
+      "Storing the JWT token in SharedPreferences",
+      "Using a global variable",
+      "Relying on the BuildContext"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Storing the JWT token in SharedPreferences"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What is Firebase Authentication?",
+    "options": [
+      "A local SQL database",
+      "A UI layout library",
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)",
+      "A state management tool"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A cloud-based identity platform providing secure login (Google, Email, etc.)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Which of the following describes a Local Notification?",
+    "options": [
+      "Sent from a remote backend server",
+      "Requires an active internet connection",
+      "Triggered by the app internally on the device",
+      "Costs money per message sent"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Triggered by the app internally on the device"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What file is required in 'android/app/' to link a Flutter app to a Firebase project?",
+    "options": [
+      "firebase-config.json",
+      "Info.plist",
+      "google-services.json",
+      "AndroidManifest.xml"
+    ],
+    "description": "single choice",
+    "answer": [
+      "google-services.json"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Why is it important to hash and salt passwords?",
+    "options": [
+      "To make the UI look better",
+      "To secure passwords on the server side so even database admins cannot read them",
+      "To reduce the database size",
+      "To speed up the login process"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To secure passwords on the server side so even database admins cannot read them"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): In the standard login flow, what does the backend return upon successful verification?",
+    "options": [
+      "A success boolean only",
+      "The user's raw password",
+      "An Access Token (e.g., JWT)",
+      "A SharedPreferences object"
+    ],
+    "description": "single choice",
+    "answer": [
+      "An Access Token (e.g., JWT)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): What happens when you tap 'Logout' in a well-designed app?",
+    "options": [
+      "The app crashes",
+      "The UI turns black",
+      "The stored token is deleted and the user is routed to the Login screen",
+      "The database is dropped"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The stored token is deleted and the user is routed to the Login screen"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 10: Auth, Session & Notifications): Why use Mock APIs during development?",
+    "options": [
+      "They are more secure than real APIs",
+      "They help demonstrate and test flows without depending on unstable internet or servers",
+      "They automatically write unit tests",
+      "They publish the app automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "They help demonstrate and test flows without depending on unstable internet or servers"
+    ]
+  },
+  {
+    "question": "Which type of test is the fastest and verifies logic without rendering the UI?",
+    "options": [
+      "Integration Test",
+      "Widget Test",
+      "Golden Test",
+      "Unit Test"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Test"
+    ]
+  },
+  {
+    "question": "What are the three main steps of writing a standard test?",
+    "options": [
+      "Arrange, Act, Assert",
+      "Apply, Align, Analyze",
+      "Append, Async, Await",
+      "Act, Assert, Archive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Arrange, Act, Assert"
+    ]
+  },
+  {
+    "question": "What does tester.pumpAndSettle() do in a Widget Test?",
+    "options": [
+      "Restarts the application",
+      "Rebuilds the UI repeatedly until all animations and navigations complete",
+      "Enters text into a TextField",
+      "Simulates a user tap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilds the UI repeatedly until all animations and navigations complete"
+    ]
+  },
+  {
+    "question": "Which test type validates a complete user flow from start to finish on an emulator?",
+    "options": [
+      "Unit Test",
+      "Widget Test",
+      "Integration Test",
+      "Static Analysis"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Integration Test"
+    ]
+  },
+  {
+    "question": "What does a 'UI Overflow Error' (yellow/black stripes) indicate in Flutter?",
+    "options": [
+      "The app crashed",
+      "A memory leak",
+      "A widget exceeded its layout constraints and cannot fully render",
+      "A missing API response"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A widget exceeded its layout constraints and cannot fully render"
+    ]
+  },
+  {
+    "question": "Which function is used to simulate a user pressing a button in a Widget Test?",
+    "options": [
+      "tester.click()",
+      "tester.press()",
+      "tester.tap()",
+      "tester.push()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "tester.tap()"
+    ]
+  },
+  {
+    "question": "In the Flutter Testing Pyramid, which test type is the most numerous and cheapest to maintain?",
+    "options": [
+      "Manual Tests",
+      "Integration Tests",
+      "Widget Tests",
+      "Unit Tests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Tests"
+    ]
+  },
+  {
+    "question": "What is the primary function of Flutter DevTools?",
+    "options": [
+      "To write code faster",
+      "To diagnose layout issues, memory leaks, and performance bottlenecks",
+      "To design UI mockups",
+      "To compile the app to iOS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To diagnose layout issues, memory leaks, and performance bottlenecks"
+    ]
+  },
+  {
+    "question": "How do you verify the result of a test in Dart?",
+    "options": [
+      "verify()",
+      "check()",
+      "expect()",
+      "assert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "expect()"
+    ]
+  },
+  {
+    "question": "Why is it important to use 'Keys' in Widget Tests?",
+    "options": [
+      "To encrypt the test data",
+      "To efficiently find and interact with specific widgets using find.byKey()",
+      "To lock the UI",
+      "To trigger hot reload"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To efficiently find and interact with specific widgets using find.byKey()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which type of test is the fastest and verifies logic without rendering the UI?",
+    "options": [
+      "Integration Test",
+      "Widget Test",
+      "Golden Test",
+      "Unit Test"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Test"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What are the three main steps of writing a standard test?",
+    "options": [
+      "Arrange, Act, Assert",
+      "Apply, Align, Analyze",
+      "Append, Async, Await",
+      "Act, Assert, Archive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Arrange, Act, Assert"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What does tester.pumpAndSettle() do in a Widget Test?",
+    "options": [
+      "Restarts the application",
+      "Rebuilds the UI repeatedly until all animations and navigations complete",
+      "Enters text into a TextField",
+      "Simulates a user tap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilds the UI repeatedly until all animations and navigations complete"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which test type validates a complete user flow from start to finish on an emulator?",
+    "options": [
+      "Unit Test",
+      "Widget Test",
+      "Integration Test",
+      "Static Analysis"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Integration Test"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What does a 'UI Overflow Error' (yellow/black stripes) indicate in Flutter?",
+    "options": [
+      "The app crashed",
+      "A memory leak",
+      "A widget exceeded its layout constraints and cannot fully render",
+      "A missing API response"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A widget exceeded its layout constraints and cannot fully render"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which function is used to simulate a user pressing a button in a Widget Test?",
+    "options": [
+      "tester.click()",
+      "tester.press()",
+      "tester.tap()",
+      "tester.push()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "tester.tap()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): In the Flutter Testing Pyramid, which test type is the most numerous and cheapest to maintain?",
+    "options": [
+      "Manual Tests",
+      "Integration Tests",
+      "Widget Tests",
+      "Unit Tests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Tests"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What is the primary function of Flutter DevTools?",
+    "options": [
+      "To write code faster",
+      "To diagnose layout issues, memory leaks, and performance bottlenecks",
+      "To design UI mockups",
+      "To compile the app to iOS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To diagnose layout issues, memory leaks, and performance bottlenecks"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): How do you verify the result of a test in Dart?",
+    "options": [
+      "verify()",
+      "check()",
+      "expect()",
+      "assert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "expect()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Why is it important to use 'Keys' in Widget Tests?",
+    "options": [
+      "To encrypt the test data",
+      "To efficiently find and interact with specific widgets using find.byKey()",
+      "To lock the UI",
+      "To trigger hot reload"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To efficiently find and interact with specific widgets using find.byKey()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which type of test is the fastest and verifies logic without rendering the UI?",
+    "options": [
+      "Integration Test",
+      "Widget Test",
+      "Golden Test",
+      "Unit Test"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Test"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What are the three main steps of writing a standard test?",
+    "options": [
+      "Arrange, Act, Assert",
+      "Apply, Align, Analyze",
+      "Append, Async, Await",
+      "Act, Assert, Archive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Arrange, Act, Assert"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What does tester.pumpAndSettle() do in a Widget Test?",
+    "options": [
+      "Restarts the application",
+      "Rebuilds the UI repeatedly until all animations and navigations complete",
+      "Enters text into a TextField",
+      "Simulates a user tap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilds the UI repeatedly until all animations and navigations complete"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which test type validates a complete user flow from start to finish on an emulator?",
+    "options": [
+      "Unit Test",
+      "Widget Test",
+      "Integration Test",
+      "Static Analysis"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Integration Test"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What does a 'UI Overflow Error' (yellow/black stripes) indicate in Flutter?",
+    "options": [
+      "The app crashed",
+      "A memory leak",
+      "A widget exceeded its layout constraints and cannot fully render",
+      "A missing API response"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A widget exceeded its layout constraints and cannot fully render"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which function is used to simulate a user pressing a button in a Widget Test?",
+    "options": [
+      "tester.click()",
+      "tester.press()",
+      "tester.tap()",
+      "tester.push()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "tester.tap()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): In the Flutter Testing Pyramid, which test type is the most numerous and cheapest to maintain?",
+    "options": [
+      "Manual Tests",
+      "Integration Tests",
+      "Widget Tests",
+      "Unit Tests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Tests"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What is the primary function of Flutter DevTools?",
+    "options": [
+      "To write code faster",
+      "To diagnose layout issues, memory leaks, and performance bottlenecks",
+      "To design UI mockups",
+      "To compile the app to iOS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To diagnose layout issues, memory leaks, and performance bottlenecks"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): How do you verify the result of a test in Dart?",
+    "options": [
+      "verify()",
+      "check()",
+      "expect()",
+      "assert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "expect()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Why is it important to use 'Keys' in Widget Tests?",
+    "options": [
+      "To encrypt the test data",
+      "To efficiently find and interact with specific widgets using find.byKey()",
+      "To lock the UI",
+      "To trigger hot reload"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To efficiently find and interact with specific widgets using find.byKey()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which type of test is the fastest and verifies logic without rendering the UI?",
+    "options": [
+      "Integration Test",
+      "Widget Test",
+      "Golden Test",
+      "Unit Test"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Test"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What are the three main steps of writing a standard test?",
+    "options": [
+      "Arrange, Act, Assert",
+      "Apply, Align, Analyze",
+      "Append, Async, Await",
+      "Act, Assert, Archive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Arrange, Act, Assert"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What does tester.pumpAndSettle() do in a Widget Test?",
+    "options": [
+      "Restarts the application",
+      "Rebuilds the UI repeatedly until all animations and navigations complete",
+      "Enters text into a TextField",
+      "Simulates a user tap"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilds the UI repeatedly until all animations and navigations complete"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which test type validates a complete user flow from start to finish on an emulator?",
+    "options": [
+      "Unit Test",
+      "Widget Test",
+      "Integration Test",
+      "Static Analysis"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Integration Test"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What does a 'UI Overflow Error' (yellow/black stripes) indicate in Flutter?",
+    "options": [
+      "The app crashed",
+      "A memory leak",
+      "A widget exceeded its layout constraints and cannot fully render",
+      "A missing API response"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A widget exceeded its layout constraints and cannot fully render"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Which function is used to simulate a user pressing a button in a Widget Test?",
+    "options": [
+      "tester.click()",
+      "tester.press()",
+      "tester.tap()",
+      "tester.push()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "tester.tap()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): In the Flutter Testing Pyramid, which test type is the most numerous and cheapest to maintain?",
+    "options": [
+      "Manual Tests",
+      "Integration Tests",
+      "Widget Tests",
+      "Unit Tests"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unit Tests"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): What is the primary function of Flutter DevTools?",
+    "options": [
+      "To write code faster",
+      "To diagnose layout issues, memory leaks, and performance bottlenecks",
+      "To design UI mockups",
+      "To compile the app to iOS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To diagnose layout issues, memory leaks, and performance bottlenecks"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): How do you verify the result of a test in Dart?",
+    "options": [
+      "verify()",
+      "check()",
+      "expect()",
+      "assert()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "expect()"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 11: Testing & Debugging): Why is it important to use 'Keys' in Widget Tests?",
+    "options": [
+      "To encrypt the test data",
+      "To efficiently find and interact with specific widgets using find.byKey()",
+      "To lock the UI",
+      "To trigger hot reload"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To efficiently find and interact with specific widgets using find.byKey()"
+    ]
+  },
+  {
+    "question": "In Flutter DevTools, which mode MUST be used to get accurate performance metrics?",
+    "options": [
+      "Debug Mode",
+      "Profile Mode",
+      "Release Mode",
+      "Test Mode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Profile Mode"
+    ]
+  },
+  {
+    "question": "What is the target frame rate for smooth rendering in Flutter on standard devices?",
+    "options": [
+      "24 FPS",
+      "30 FPS",
+      "60 FPS (16.6ms/frame)",
+      "144 FPS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "60 FPS (16.6ms/frame)"
+    ]
+  },
+  {
+    "question": "Why is using the 'const' keyword heavily recommended for UI performance?",
+    "options": [
+      "It changes the widget color",
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU",
+      "It makes the widget responsive",
+      "It compresses images automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU"
+    ]
+  },
+  {
+    "question": "What is a major cause of performance lag in Flutter lists?",
+    "options": [
+      "Using Column instead of Row",
+      "Rebuilding the entire screen when only one list item changes",
+      "Using final variables",
+      "Putting comments in the code"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilding the entire screen when only one list item changes"
+    ]
+  },
+  {
+    "question": "Which Provider tool helps minimize rebuilds by filtering state changes?",
+    "options": [
+      "context.watch()",
+      "context.read()",
+      "Selector",
+      "Provider.of()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Selector"
+    ]
+  },
+  {
+    "question": "Which command generates the release bundle format required by the Google Play Store?",
+    "options": [
+      "flutter build apk",
+      "flutter run --release",
+      "flutter build ios",
+      "flutter build appbundle"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter build appbundle"
+    ]
+  },
+  {
+    "question": "What should NEVER be done inside the build() method?",
+    "options": [
+      "Returning a Scaffold",
+      "Using the const keyword",
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON",
+      "Accessing MediaQuery"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON"
+    ]
+  },
+  {
+    "question": "In the Flutter Render Pipeline, which tree is considered the 'immutable blueprint'?",
+    "options": [
+      "Element Tree",
+      "RenderObject Tree",
+      "Widget Tree",
+      "State Tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Widget Tree"
+    ]
+  },
+  {
+    "question": "How can you optimize large images loaded from a network?",
+    "options": [
+      "Load them in build()",
+      "Use FadeInImage for placeholders and cache them",
+      "Convert them to text",
+      "Use a Stack widget"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use FadeInImage for placeholders and cache them"
+    ]
+  },
+  {
+    "question": "Where do you update the app's version code and version name for Android deployment?",
+    "options": [
+      "pubspec.yaml",
+      "android/app/build.gradle",
+      "AndroidManifest.xml",
+      "main.dart"
+    ],
+    "description": "single choice",
+    "answer": [
+      "android/app/build.gradle"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): In Flutter DevTools, which mode MUST be used to get accurate performance metrics?",
+    "options": [
+      "Debug Mode",
+      "Profile Mode",
+      "Release Mode",
+      "Test Mode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Profile Mode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What is the target frame rate for smooth rendering in Flutter on standard devices?",
+    "options": [
+      "24 FPS",
+      "30 FPS",
+      "60 FPS (16.6ms/frame)",
+      "144 FPS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "60 FPS (16.6ms/frame)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Why is using the 'const' keyword heavily recommended for UI performance?",
+    "options": [
+      "It changes the widget color",
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU",
+      "It makes the widget responsive",
+      "It compresses images automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What is a major cause of performance lag in Flutter lists?",
+    "options": [
+      "Using Column instead of Row",
+      "Rebuilding the entire screen when only one list item changes",
+      "Using final variables",
+      "Putting comments in the code"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilding the entire screen when only one list item changes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Which Provider tool helps minimize rebuilds by filtering state changes?",
+    "options": [
+      "context.watch()",
+      "context.read()",
+      "Selector",
+      "Provider.of()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Selector"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Which command generates the release bundle format required by the Google Play Store?",
+    "options": [
+      "flutter build apk",
+      "flutter run --release",
+      "flutter build ios",
+      "flutter build appbundle"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter build appbundle"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What should NEVER be done inside the build() method?",
+    "options": [
+      "Returning a Scaffold",
+      "Using the const keyword",
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON",
+      "Accessing MediaQuery"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): In the Flutter Render Pipeline, which tree is considered the 'immutable blueprint'?",
+    "options": [
+      "Element Tree",
+      "RenderObject Tree",
+      "Widget Tree",
+      "State Tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Widget Tree"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): How can you optimize large images loaded from a network?",
+    "options": [
+      "Load them in build()",
+      "Use FadeInImage for placeholders and cache them",
+      "Convert them to text",
+      "Use a Stack widget"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use FadeInImage for placeholders and cache them"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Where do you update the app's version code and version name for Android deployment?",
+    "options": [
+      "pubspec.yaml",
+      "android/app/build.gradle",
+      "AndroidManifest.xml",
+      "main.dart"
+    ],
+    "description": "single choice",
+    "answer": [
+      "android/app/build.gradle"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): In Flutter DevTools, which mode MUST be used to get accurate performance metrics?",
+    "options": [
+      "Debug Mode",
+      "Profile Mode",
+      "Release Mode",
+      "Test Mode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Profile Mode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What is the target frame rate for smooth rendering in Flutter on standard devices?",
+    "options": [
+      "24 FPS",
+      "30 FPS",
+      "60 FPS (16.6ms/frame)",
+      "144 FPS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "60 FPS (16.6ms/frame)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Why is using the 'const' keyword heavily recommended for UI performance?",
+    "options": [
+      "It changes the widget color",
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU",
+      "It makes the widget responsive",
+      "It compresses images automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What is a major cause of performance lag in Flutter lists?",
+    "options": [
+      "Using Column instead of Row",
+      "Rebuilding the entire screen when only one list item changes",
+      "Using final variables",
+      "Putting comments in the code"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilding the entire screen when only one list item changes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Which Provider tool helps minimize rebuilds by filtering state changes?",
+    "options": [
+      "context.watch()",
+      "context.read()",
+      "Selector",
+      "Provider.of()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Selector"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Which command generates the release bundle format required by the Google Play Store?",
+    "options": [
+      "flutter build apk",
+      "flutter run --release",
+      "flutter build ios",
+      "flutter build appbundle"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter build appbundle"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What should NEVER be done inside the build() method?",
+    "options": [
+      "Returning a Scaffold",
+      "Using the const keyword",
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON",
+      "Accessing MediaQuery"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): In the Flutter Render Pipeline, which tree is considered the 'immutable blueprint'?",
+    "options": [
+      "Element Tree",
+      "RenderObject Tree",
+      "Widget Tree",
+      "State Tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Widget Tree"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): How can you optimize large images loaded from a network?",
+    "options": [
+      "Load them in build()",
+      "Use FadeInImage for placeholders and cache them",
+      "Convert them to text",
+      "Use a Stack widget"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use FadeInImage for placeholders and cache them"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Where do you update the app's version code and version name for Android deployment?",
+    "options": [
+      "pubspec.yaml",
+      "android/app/build.gradle",
+      "AndroidManifest.xml",
+      "main.dart"
+    ],
+    "description": "single choice",
+    "answer": [
+      "android/app/build.gradle"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): In Flutter DevTools, which mode MUST be used to get accurate performance metrics?",
+    "options": [
+      "Debug Mode",
+      "Profile Mode",
+      "Release Mode",
+      "Test Mode"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Profile Mode"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What is the target frame rate for smooth rendering in Flutter on standard devices?",
+    "options": [
+      "24 FPS",
+      "30 FPS",
+      "60 FPS (16.6ms/frame)",
+      "144 FPS"
+    ],
+    "description": "single choice",
+    "answer": [
+      "60 FPS (16.6ms/frame)"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Why is using the 'const' keyword heavily recommended for UI performance?",
+    "options": [
+      "It changes the widget color",
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU",
+      "It makes the widget responsive",
+      "It compresses images automatically"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It allows Flutter to skip rebuilding those widgets entirely, saving CPU"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What is a major cause of performance lag in Flutter lists?",
+    "options": [
+      "Using Column instead of Row",
+      "Rebuilding the entire screen when only one list item changes",
+      "Using final variables",
+      "Putting comments in the code"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Rebuilding the entire screen when only one list item changes"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Which Provider tool helps minimize rebuilds by filtering state changes?",
+    "options": [
+      "context.watch()",
+      "context.read()",
+      "Selector",
+      "Provider.of()"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Selector"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Which command generates the release bundle format required by the Google Play Store?",
+    "options": [
+      "flutter build apk",
+      "flutter run --release",
+      "flutter build ios",
+      "flutter build appbundle"
+    ],
+    "description": "single choice",
+    "answer": [
+      "flutter build appbundle"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): What should NEVER be done inside the build() method?",
+    "options": [
+      "Returning a Scaffold",
+      "Using the const keyword",
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON",
+      "Accessing MediaQuery"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Performing heavy synchronous operations like sorting arrays or parsing JSON"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): In the Flutter Render Pipeline, which tree is considered the 'immutable blueprint'?",
+    "options": [
+      "Element Tree",
+      "RenderObject Tree",
+      "Widget Tree",
+      "State Tree"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Widget Tree"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): How can you optimize large images loaded from a network?",
+    "options": [
+      "Load them in build()",
+      "Use FadeInImage for placeholders and cache them",
+      "Convert them to text",
+      "Use a Stack widget"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Use FadeInImage for placeholders and cache them"
+    ]
+  },
+  {
+    "question": "Kiến thức bổ trợ (Module 12: Performance & Deployment): Where do you update the app's version code and version name for Android deployment?",
+    "options": [
+      "pubspec.yaml",
+      "android/app/build.gradle",
+      "AndroidManifest.xml",
+      "main.dart"
+    ],
+    "description": "single choice",
+    "answer": [
+      "android/app/build.gradle"
+    ]
+  }
+]
