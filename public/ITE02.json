@@ -1,0 +1,787 @@
+[
+  {
+    "question": "In which of the following could STRIDE or VAST classifications be applied?",
+    "options": [
+      "Black box mitigation methods",
+      "Network optimization tools",
+      "Bias mitigation techniques",
+      "Threat modeling or analysis tools"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Threat modeling or analysis tools"
+    ]
+  },
+  {
+    "question": "Which technique helps improve algorithmic fairness?",
+    "options": [
+      "Using larger datasets only",
+      "Bias testing and diverse training data",
+      "Increasing processing speed",
+      "Reducing system complexity"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Bias testing and diverse training data"
+    ]
+  },
+  {
+    "question": "In the scatter plot, the GrossIncome variable is plotted against the Revenue variable. What type of correlation does this plot suggest?",
+    "options": [
+      "Weak negative correlation",
+      "Weak positive correlation",
+      "Strong negative correlation",
+      "Strong positive correlation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Strong positive correlation"
+    ]
+  },
+  {
+    "question": "Which element is essential for system accountability?",
+    "options": [
+      "Complete automation",
+      "Clear responsibility assignment",
+      "Maximum data collection",
+      "Fastest processing speed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Clear responsibility assignment"
+    ]
+  },
+  {
+    "question": "Which psychological reason contributes to automation bias?",
+    "options": [
+      "Over-reliance on technology",
+      "Fear of technology",
+      "Lack of technical skills",
+      "Distrust in human judgment"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Over-reliance on technology"
+    ]
+  },
+  {
+    "question": "What is one outcome of not considering ethics in algorithm design?",
+    "options": [
+      "Lower electricity bills",
+      "Enhanced system performance",
+      "Discriminatory or unsafe results",
+      "Better customer loyalty"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Discriminatory or unsafe results"
+    ]
+  },
+  {
+    "question": "What is the primary motivating factor behind hacktivism?",
+    "options": [
+      "The desire to make money",
+      "The desire to serve an authority figure",
+      "The desire to spread fear",
+      "The desire for social change"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The desire for social change"
+    ]
+  },
+  {
+    "question": "What is one risk of ignoring ethical concerns in AI design?",
+    "options": [
+      "Reduced testing time",
+      "Improved speed of deployment",
+      "Public backlash and regulatory consequences",
+      "Higher profit margins"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Public backlash and regulatory consequences"
+    ]
+  },
+  {
+    "question": "The nature of a predictive model may reveal",
+    "options": [
+      "the researchers behind it",
+      "the algorithm's bias",
+      "the data it is trained on",
+      "the ethics of the individual inputs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "the data it is trained on"
+    ]
+  },
+  {
+    "question": "Which malware monitors a user's behavior without their knowledge or permission?",
+    "options": [
+      "Virus",
+      "Spyware",
+      "Ransomware",
+      "Trojan horse"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Spyware"
+    ]
+  },
+  {
+    "question": "What can be learned from a predictive model should not change if the ___ is either included or excluded in the training set",
+    "options": [
+      "dataset filter",
+      "biased dataset",
+      "model fairness score",
+      "individual's data"
+    ],
+    "description": "single choice",
+    "answer": [
+      "individual's data"
+    ]
+  },
+  {
+    "question": "How do AI and other data-driven technologies use probability?",
+    "options": [
+      "By determining the objective likelihood of some event happening",
+      "By estimating the likelihood of some event happening without input data",
+      "By providing a model of belief about the likelihood of some event happening",
+      "By guaranteeing that some event will occur with 100% likelihood"
+    ],
+    "description": "single choice",
+    "answer": [
+      "By providing a model of belief about the likelihood of some event happening"
+    ]
+  },
+  {
+    "question": "Which of the following are potential training data inadequacies to communicate to users in support of transparency? (Select two.)",
+    "options": [
+      "The amount of time it took to collect the data",
+      "Any known bias in the sample data",
+      "The relatively large size of a dataset used in training",
+      "Any missing values in the dataset and how they were handled"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Any known bias in the sample data",
+      "Any missing values in the dataset and how they were handled"
+    ]
+  },
+  {
+    "question": "Which risk category deals with stakeholder responsibility in creating and using data-driven technologies?",
+    "options": [
+      "Explainability",
+      "Accountability",
+      "Transparency",
+      "Understandability"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Accountability"
+    ]
+  },
+  {
+    "question": "What is the long-term impact of ignoring ethical considerations in technology development?",
+    "options": [
+      "Faster time to market",
+      "Loss of public trust and potential regulatory backlash",
+      "Higher profits",
+      "Simplified development processes"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Loss of public trust and potential regulatory backlash"
+    ]
+  },
+  {
+    "question": "Why is it important to categorize ethical risks into different types? (Select two.)",
+    "options": [
+      "It makes it easier to identify and manage different types of risks",
+      "It ensures customers know we take ethical risks seriously",
+      "It helps us understand the many complexities of different ethical risks",
+      "It helps consider mitigation via universal tactics for all risk types"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "It makes it easier to identify and manage different types of risks",
+      "It helps us understand the many complexities of different ethical risks"
+    ]
+  },
+  {
+    "question": "Why is it important to take a proactive approach to addressing liability issues?",
+    "options": [
+      "The law often lags behind innovation",
+      "The law is not always applied consistently",
+      "The law is not always clear",
+      "The law is often difficult to understand"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The law often lags behind innovation"
+    ]
+  },
+  {
+    "question": "Which are tools of an effective media communication plan? (Select two.)",
+    "options": [
+      "Mission statement",
+      "Press release",
+      "Public education campaign",
+      "Video briefing"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Press release",
+      "Video briefing"
+    ]
+  },
+  {
+    "question": "Which method can effectively communicate with the media during an ethical crisis?",
+    "options": [
+      "Provide regular updates to keep the media informed",
+      "Ignore media inquiries until the crisis resolves",
+      "Offer incentives for positive coverage",
+      "Release information only to major news networks"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Provide regular updates to keep the media informed"
+    ]
+  },
+  {
+    "question": "What is the most important idea a crisis communication program should manage?",
+    "options": [
+      "The public's perception of a crisis",
+      "The real-world effects of a crisis",
+      "The individual details of a crisis",
+      "Internal stakeholder consensus about the crisis"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The public's perception of a crisis"
+    ]
+  },
+  {
+    "question": "Why is stakeholder communication vital in managing ethical risk?",
+    "options": [
+      "To improve company branding only",
+      "To ensure stakeholder expectations and values are understood",
+      "To avoid legal responsibilities",
+      "To control product pricing strategies"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To ensure stakeholder expectations and values are understood"
+    ]
+  },
+  {
+    "question": "How can AI facilitate feedback and monitoring in crisis communication strategies?",
+    "options": [
+      "By automating sentiment analysis to gauge public opinion",
+      "By creating holding statements for immediate use",
+      "By replacing human oversight in communication strategies",
+      "By predicting future crises through historical data analysis"
+    ],
+    "description": "single choice",
+    "answer": [
+      "By automating sentiment analysis to gauge public opinion"
+    ]
+  },
+  {
+    "question": "How can effective communication mitigate ethical risks in AI and Data Science?",
+    "options": [
+      "By ensuring transparency and understanding of ethical guidelines",
+      "By limiting access to AI technologies",
+      "By prioritizing speed over accuracy in data processing",
+      "By encouraging the concealment of ethical concerns"
+    ],
+    "description": "single choice",
+    "answer": [
+      "By ensuring transparency and understanding of ethical guidelines"
+    ]
+  },
+  {
+    "question": "Why is it important to engage stakeholders at the beginning of the ethical risk management process?",
+    "options": [
+      "It proves you are completely equipped to address any ethical risks",
+      "It tells stakeholders the org can't address risks without input",
+      "It helps avoid legal trouble during development and deployment",
+      "It demonstrates commitment to accountability and transparency"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It demonstrates commitment to accountability and transparency"
+    ]
+  },
+  {
+    "question": "What is the benefit of hosting a virtual reality press conference over a traditional one?",
+    "options": [
+      "Easier to communicate your overall message",
+      "The conference will be easily accessible to all willing participants",
+      "The conference can be interactive without co-location",
+      "Participants impressed by new technology"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The conference can be interactive without co-location"
+    ]
+  },
+  {
+    "question": "Pseudocode can best be defined as",
+    "options": [
+      "an explainable description of code meant for humans, not computers",
+      "a Python library for machine learning",
+      "a middle ground between code and plain writing fed into a computer",
+      "a type of Javascript that is both human and machine-readable"
+    ],
+    "description": "single choice",
+    "answer": [
+      "an explainable description of code meant for humans, not computers"
+    ]
+  },
+  {
+    "question": "What distinguishes consequentialist ethics from deontological ethics?",
+    "options": [
+      "Consequentialism focuses on outcomes, deontology on duties",
+      "Consequentialism ignores results, deontology focuses on happiness",
+      "They are essentially the same approach",
+      "Consequentialism is newer than deontology"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Consequentialism focuses on outcomes, deontology on duties"
+    ]
+  },
+  {
+    "question": "Our goals for building an ethical predictive model include making sure results are",
+    "options": [
+      "precise, explainable, predictable",
+      "accurate, precise, fair",
+      "precise, methodical, ethical",
+      "accurate, fair and explainable"
+    ],
+    "description": "single choice",
+    "answer": [
+      "accurate, fair and explainable"
+    ]
+  },
+  {
+    "question": "Why is equity an important principle in emerging tech ethics?",
+    "options": [
+      "It increases brand value",
+      "It ensures fairness in access and outcomes",
+      "It simplifies design",
+      "It boosts marketing campaigns"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It ensures fairness in access and outcomes"
+    ]
+  },
+  {
+    "question": "Which best describes beneficence?",
+    "options": [
+      "A term coined by IBM related to their Green Horizons initiative 2014",
+      "Promotion of well-being not just for humans but animals, environment, societies",
+      "Promotion of well-being for moral agents like humans only",
+      "Promotion of efficient systems that benefit companies"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Promotion of well-being not just for humans but animals, environment, societies"
+    ]
+  },
+  {
+    "question": "Unknown Unknowns refer to",
+    "options": [
+      "being unsure about the morals of the research team",
+      "lack of explainability of what a model looks at to make predictions",
+      "facing unknown empirical data with an incomplete dataset",
+      "an uncertainty of how the data is gathered"
+    ],
+    "description": "single choice",
+    "answer": [
+      "facing unknown empirical data with an incomplete dataset"
+    ]
+  },
+  {
+    "question": "Which principle emphasizes treating people as ends in themselves, not merely as means?",
+    "options": [
+      "Utilitarianism",
+      "Virtue ethics",
+      "Kantian deontology",
+      "Social contract theory"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Kantian deontology"
+    ]
+  },
+  {
+    "question": "A type of AI that outperforms humans in all tasks is known as",
+    "options": [
+      "General AI",
+      "Outwit AI",
+      "Specific AI",
+      "Encompassing AI"
+    ],
+    "description": "single choice",
+    "answer": [
+      "General AI"
+    ]
+  },
+  {
+    "question": "An AI system that identifies exactly what individuals will be infected in a pandemic before the first case occurs is what kind of AI?",
+    "options": [
+      "Narrow AI",
+      "General AI",
+      "Superintelligence",
+      "Basic AI"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Superintelligence"
+    ]
+  },
+  {
+    "question": "Which is one explanation for why cognitive biases exist?",
+    "options": [
+      "We receive too much information and are overloaded",
+      "We use them to help remember things",
+      "They help us think logically instead of emotionally",
+      "They are taught to us in school"
+    ],
+    "description": "single choice",
+    "answer": [
+      "We receive too much information and are overloaded"
+    ]
+  },
+  {
+    "question": "Why is deciding how to act using moral reasoning not always feasible for humans?",
+    "options": [
+      "Most people are not educated on normative ethical theories",
+      "Moral reasoning is too complicated for real-world situations",
+      "Moral reasoning has few tangible benefits for most people",
+      "Human decision making is often influenced by emotion, not logic"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Human decision making is often influenced by emotion, not logic"
+    ]
+  },
+  {
+    "question": "Which statements are promoted by the categorical imperative? (Select three.)",
+    "options": [
+      "You have a moral duty to choose actions based on potential outcomes",
+      "Act so that your actions may become a universal law",
+      "Don't treat people as a means to an end, treat them always as an end",
+      "Each person must use reason to will moral laws"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Act so that your actions may become a universal law",
+      "Don't treat people as a means to an end, treat them always as an end",
+      "Each person must use reason to will moral laws"
+    ]
+  },
+  {
+    "question": "Which type of bias occurs when training data is not representative of the population?",
+    "options": [
+      "Confirmation bias",
+      "Selection bias",
+      "Anchoring bias",
+      "Availability bias"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Selection bias"
+    ]
+  },
+  {
+    "question": "Which privacy risk is most prevalent due to constant data monitoring in ambient intelligence systems?",
+    "options": [
+      "Unauthorized data access",
+      "Enhanced data analytics",
+      "Improved user experience",
+      "Optimized resource allocation"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Unauthorized data access"
+    ]
+  },
+  {
+    "question": "What does informed consent require in the context of AI?",
+    "options": [
+      "Legal approval of AI patents",
+      "Clear communication of data use and user permission",
+      "Selling user data to partners",
+      "Disabling all tracking features"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Clear communication of data use and user permission"
+    ]
+  },
+  {
+    "question": "Which resource does NIST provide to organizations?",
+    "options": [
+      "Measurement technologies",
+      "Reference materials",
+      "Security tools",
+      "Industrial configurations"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Reference materials"
+    ]
+  },
+  {
+    "question": "What is non-maleficence?",
+    "options": [
+      "The principle of doing no harm",
+      "The principle of having no bias",
+      "The principle of having no security risk",
+      "The principle of having security risk"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The principle of doing no harm"
+    ]
+  },
+  {
+    "question": "As a cognitive bias, when humans see lack of context/meaning around information, they tend to",
+    "options": [
+      "fill in gaps with existing knowledge",
+      "use biased sources of research",
+      "seek authority figures",
+      "disagree with their previous beliefs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "fill in gaps with existing knowledge"
+    ]
+  },
+  {
+    "question": "If one group comprises the majority of the training data, they will skew the dataset and give the model",
+    "options": [
+      "less fairness for that group",
+      "more confidence about that group",
+      "less confidence about that group",
+      "more fairness for that group"
+    ],
+    "description": "single choice",
+    "answer": [
+      "more confidence about that group"
+    ]
+  },
+  {
+    "question": "An example of automation bias is",
+    "options": [
+      "using biased survey data instead of parsed survey data",
+      "using parsed twitter data over parsed Facebook data",
+      "using new data over existing data",
+      "using scraped twitter data over survey data"
+    ],
+    "description": "single choice",
+    "answer": [
+      "using scraped twitter data over survey data"
+    ]
+  },
+  {
+    "question": "What percentage of frameworks include privacy as a core tenet?",
+    "options": [
+      "50%",
+      "85%",
+      "25%",
+      "99%"
+    ],
+    "description": "single choice",
+    "answer": [
+      "85%"
+    ]
+  },
+  {
+    "question": "Which best describes capability caution as referenced in the Asilomar AI Principles?",
+    "options": [
+      "If there's no understanding of AI's internal mechanisms, development should halt",
+      "Given a lack of consensus, avoid strong assumptions on future AI capability limits",
+      "Ensure humans can still find work if there's greater AI reliance",
+      "Keep limits on what AGI is capable of"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Given a lack of consensus, avoid strong assumptions on future AI capability limits"
+    ]
+  },
+  {
+    "question": "Which ethical framework emphasizes moral duties and rules when addressing ethical dilemmas?",
+    "options": [
+      "Deontological Ethics",
+      "Ethical Relativism",
+      "Utilitarianism",
+      "Virtue Ethics"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Deontological Ethics"
+    ]
+  },
+  {
+    "question": "Which describes an ethical framework?",
+    "options": [
+      "Raises timeless ethical questions not easily put into action",
+      "Applies meta-ethical theories to everyday business operations",
+      "Consolidates regulatory requirements for an industry",
+      "Seeks to mitigate ethical concerns by creating actionable steps"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Seeks to mitigate ethical concerns by creating actionable steps"
+    ]
+  },
+  {
+    "question": "What is a notable aspect of PIPEDA compared to similar laws?",
+    "options": [
+      "Its exclusive focus on a single domain rather than a breadth of domains",
+      "The early date of its inauguration",
+      "Its nationwide scope and specific national focus",
+      "A stipulation to continue providing service even if data usage is denied"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A stipulation to continue providing service even if data usage is denied"
+    ]
+  },
+  {
+    "question": "What is the purpose of change management in creating an ethical organizational culture?",
+    "options": [
+      "To create a fast transition through training",
+      "To create a management transition",
+      "To create a smooth transition",
+      "To create a slow transition through training"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To create a smooth transition"
+    ]
+  },
+  {
+    "question": "How can small organizations implement ethical practices with limited resources?",
+    "options": [
+      "Wait until they grow larger",
+      "Focus on core ethical principles and gradual implementation",
+      "Copy larger organizations exactly",
+      "Ignore ethics until legally required"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Focus on core ethical principles and gradual implementation"
+    ]
+  },
+  {
+    "question": "Which strategy is key to building and maintaining an ethical organizational culture?",
+    "options": [
+      "Implementing ethics training and effective sessions",
+      "Focusing solely on financial performance",
+      "Ignoring regional and diversity differences",
+      "Minimizing leadership roles"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Implementing ethics training and effective sessions"
+    ]
+  },
+  {
+    "question": "Which approach to corporate governance is more likely to create an ethical organizational culture?",
+    "options": [
+      "A systemic approach with incentive systems",
+      "An oversight committee focused on rules",
+      "A board focused on legal and regulatory compliance",
+      "An oversight committee focused on frameworks"
+    ],
+    "description": "single choice",
+    "answer": [
+      "A systemic approach with incentive systems"
+    ]
+  },
+  {
+    "question": "Which constitute external stakeholders in the context of a code of ethics?",
+    "options": [
+      "Business managers",
+      "Developers",
+      "Regulators",
+      "Designers"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Regulators"
+    ]
+  },
+  {
+    "question": "Which is a key element of communications with stakeholders regarding ethics policies?",
+    "options": [
+      "Simple to follow examples",
+      "Daily communications",
+      "Dense procedural descriptions",
+      "Flexible verbiage"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Simple to follow examples"
+    ]
+  },
+  {
+    "question": "How can organizations ensure continuous ethical improvement?",
+    "options": [
+      "By implementing systems once and forgetting them",
+      "Through regular assessment, feedback, and adaptation",
+      "By following competitors only",
+      "By focusing solely on compliance"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Through regular assessment, feedback, and adaptation"
+    ]
+  },
+  {
+    "question": "Which is a misuse of intellectual property (IP) regarding ethical accountability?",
+    "options": [
+      "Collecting returns on R&D investments",
+      "Filing a patent that makes non-obvious information public",
+      "Enhancing the security posture of a product/service",
+      "Using IP as a defensive mechanism to eschew transparency requirements"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Using IP as a defensive mechanism to eschew transparency requirements"
+    ]
+  },
+  {
+    "question": "What does a code of ethics provide for a data-driven organization?",
+    "options": [
+      "Specific employee salaries",
+      "Legal immunity from lawsuits",
+      "Guiding values and expectations for ethical behavior",
+      "Product development timelines"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Guiding values and expectations for ethical behavior"
+    ]
+  },
+  {
+    "question": "What is a key step in monitoring ethical organizational policies?",
+    "options": [
+      "Establishing a policy committee",
+      "Regular compliance checks",
+      "Creating a rewards system",
+      "Hosting annual policy workshops"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Regular compliance checks"
+    ]
+  }
+]

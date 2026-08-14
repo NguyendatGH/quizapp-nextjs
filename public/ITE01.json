@@ -1,0 +1,796 @@
+[
+  {
+    "question": "An example of a public dataset at risk of an algorithmic privacy violation is the",
+    "options": [
+      "Google Maps satellite view dataset",
+      "Google search view dataset",
+      "Stanford hospital dataset",
+      "Fidelity Bank lending dataset"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Stanford hospital dataset"
+    ]
+  },
+  {
+    "question": "During cross-validation, which of the following dataset splits is used to tune the performance of a model?",
+    "options": [
+      "Training set",
+      "Test set",
+      "Validation test",
+      "Unit test"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Validation test"
+    ]
+  },
+  {
+    "question": "Which of the following are potential ethical benefits of conducting pilot testing prior to the release of emerging technologies? (Select two.)",
+    "options": [
+      "It certifies that a product's developers are legally accountable.",
+      "It minimizes the impact of any ethical issues which may emerge.",
+      "It demonstrates that the system is functional as early as possible in order to satisfy senior management and investor stakeholders.",
+      "It reveals any gaps in accountability or auditability."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "It minimizes the impact of any ethical issues which may emerge.",
+      "It reveals any gaps in accountability or auditability."
+    ]
+  },
+  {
+    "question": "Why is it important to consider Goodhart's law?",
+    "options": [
+      "A model might optimize one metric at the expense of others.",
+      "A model might be ineffective in its application domain.",
+      "A model might change its task from classification to regression, or vice versa.",
+      "A model very famous and can be apply to all domain."
+    ],
+    "description": "single choice",
+    "answer": [
+      "A model might optimize one metric at the expense of others."
+    ]
+  },
+  {
+    "question": "Which of the following elements should be communicated with end users when negotiating ethical access to a user's data? (Select two.)",
+    "options": [
+      "The monetary value of that data",
+      "An offer of money or other incentives to relinquish user's rights",
+      "The intention behind a certain activity or request",
+      "A request for consent to perform an action"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "The intention behind a certain activity or request",
+      "A request for consent to perform an action"
+    ]
+  },
+  {
+    "question": "What are the limitations of training and testing an Al model in a specific context?",
+    "options": [
+      "Models may perform poorly when applied to different contexts",
+      "Models require less computational power in limited contexts",
+      "Models reduce training data requirements when context is specified",
+      "Models automatically improve when tested in the same context"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Models may perform poorly when applied to different contexts"
+    ]
+  },
+  {
+    "question": "What does the acronym RACI stand for?",
+    "options": [
+      "Relatable, Agreeable, Commendable, Irascible",
+      "Responsible, Accessible, Consulted, Improvised",
+      "Redesignable, Accessible, Collected, Informative?",
+      "Responsible, Accountable, Consulted, Informed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Responsible, Accountable, Consulted, Informed"
+    ]
+  },
+  {
+    "question": "What are the essential steps involved in creating personas for user-centric marketing?",
+    "options": [
+      "Define target audience, conduct research, build fictional personas based on insights, validate personas",
+      "Identify privacy risks, analyze data, implement policies, conduct training",
+      "Conduct surveys, run focus groups, implement findings, analyze results",
+      "Develop marketing strategies, execute campaigns, evaluate outcomes, adjust tactics"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Define target audience, conduct research, build fictional personas based on insights, validate personas"
+    ]
+  },
+  {
+    "question": "Which of the following is a recommended security practice for machine learning datasets?",
+    "options": [
+      "Ensure your team is full of different perspectives",
+      "Enact a sound data governance structure",
+      "Perform threat modeling with beneficial algorithms",
+      "Create a chain of command"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Enact a sound data governance structure"
+    ]
+  },
+  {
+    "question": "You're training a model to classify whether or not a bridge is likely to collapse given several factors. You have a dataset of thousands of existing bridges and their attributes, where each bridge is labeled as having collapsed or not collapsed. Only a handful of bridges in the dataset are labeled as having collapsed-the rest are labeled as not collapsed. Given your goal of minimizing bridge collapse and the severe harm it can cause, which of the following metrics would be most useful for evaluating the model?",
+    "options": [
+      "Accuracy",
+      "Confusion matrix",
+      "Precision",
+      "Recall"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Recall"
+    ]
+  },
+  {
+    "question": "Which of the following describes extrajudicial judgment?",
+    "options": [
+      "A ruling or scoring made outside of a court.",
+      "Transferring defendants from one jurisdiction to another for trial.",
+      "Applying law from one jurisdiction within another.",
+      "Unusual interpretation of law outside of its typical meaning."
+    ],
+    "description": "single choice",
+    "answer": [
+      "A ruling or scoring made outside of a court."
+    ]
+  },
+  {
+    "question": "Differential privacy works by adding what to a dataset?",
+    "options": [
+      "filters",
+      "fairness scoring",
+      "noise",
+      "k-anonymity"
+    ],
+    "description": "single choice",
+    "answer": [
+      "noise"
+    ]
+  },
+  {
+    "question": "When it comes to protecting private data, which of the following could be the root cause of a problem?",
+    "options": [
+      "The data was stored insecurely.",
+      "The data was leaked online.",
+      "The data was deleted from storage.",
+      "The data was broken."
+    ],
+    "description": "single choice",
+    "answer": [
+      "The data was stored insecurely."
+    ]
+  },
+  {
+    "question": "What is the role of interdisciplinary collaboration in tech ethics?",
+    "options": [
+      "It's unnecessary complexity",
+      "It brings diverse expertise to ethical challenges",
+      "It slows down development processes",
+      "It creates conflicting viewpoints only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It brings diverse expertise to ethical challenges"
+    ]
+  },
+  {
+    "question": "Which of the following describes the technique of homomorphic encryption?",
+    "options": [
+      "A method of swapping public and private keys between hosts.",
+      "A method of cryptography that hides data inside other data.",
+      "A method of performing operations on encrypted data.",
+      "A method of mitigating biased algorithms through enhanced secrecy."
+    ],
+    "description": "single choice",
+    "answer": [
+      "A method of performing operations on encrypted data."
+    ]
+  },
+  {
+    "question": "What role does communication play in ethical leadership?",
+    "options": [
+      "Preventing conflict resolution",
+      "Encouraging silence during ethical issues",
+      "Building trust and ethical alignment",
+      "Reducing transparency in strategy"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Building trust and ethical alignment"
+    ]
+  },
+  {
+    "question": "What can happen if users are excluded from Al impact discussions?",
+    "options": [
+      "They contribute less",
+      "Systems may not reflect public values",
+      "Faster deployment",
+      "Lower training costs"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Systems may not reflect public values"
+    ]
+  },
+  {
+    "question": "Which approach promotes inclusive communication?",
+    "options": [
+      "Using a single communication channel",
+      "Considering diverse cultural and accessibility needs",
+      "Focusing only on majority perspectives",
+      "Standardizing all messages"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Considering diverse cultural and accessibility needs",
+      "Standardizing all messages"
+    ]
+  },
+  {
+    "question": "Which of the following are important qualities of a press release? (Select two.)",
+    "options": [
+      "It's in a digital format",
+      "It's non-interactive",
+      "It's delivered on a single platform",
+      "It's concise"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "It's in a digital format",
+      "It's concise"
+    ]
+  },
+  {
+    "question": "What is a challenge of explainability in complex Al systems?",
+    "options": [
+      "It makes models faster",
+      "Users don't care about explanations",
+      "Black-box algorithms are hard to interpret",
+      "It improves transparency instantly"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Black-box algorithms are hard to interpret"
+    ]
+  },
+  {
+    "question": "How can sentiment analysis be useful in social media communication?",
+    "options": [
+      "It can shape the content and delivery of the message based on users' perceptions of the organization or technology.",
+      "It can classify customers as loyal or disloyal, helping you target customers differently in your communications.",
+      "It can determine which users have the largest influence on your reputation, and therefore which users you should communicate with.",
+      "It can determine how to construct a message that influences users to be more positive about the organization or technology."
+    ],
+    "description": "single choice",
+    "answer": [
+      "It can shape the content and delivery of the message based on users' perceptions of the organization or technology."
+    ]
+  },
+  {
+    "question": "Which of the following are useful strategies for communicating ethical risks to the organization? (Select two.)",
+    "options": [
+      "Communicate information through a single voice",
+      "Disseminate information in multiple formats",
+      "Communicate information in real time",
+      "Provide information only when solicited"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Disseminate information in multiple formats",
+      "Communicate information in real time"
+    ]
+  },
+  {
+    "question": "What is the purpose of a holding statement in crisis and media communications?",
+    "options": [
+      "To order the business to temporarily halt certain operations",
+      "To retain the services of specific media outlets",
+      "To pre-write communications before they are needed",
+      "To prevent personnel from communicating prematurely"
+    ],
+    "description": "single choice",
+    "answer": [
+      "To pre-write communications before they are needed"
+    ]
+  },
+  {
+    "question": "Which of the following communication tactics help uphold transparency and explainability from the customer perspective? (Select two.)",
+    "options": [
+      "Providing prompt responses to customer questions about the decisions made by data-driven systems.",
+      "Providing information about data-driven systems in simple, easy-to-understand terms.",
+      "Providing in-depth white papers on the algorithms that underlie data-driven systems.",
+      "Providing guidelines for how customers can keep their private data secure when using data-driven systems."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Providing prompt responses to customer questions about the decisions made by data-driven systems.",
+      "Providing information about data-driven systems in simple, easy-to-understand terms."
+    ]
+  },
+  {
+    "question": "What role does social media play in promoting products and building brand reputation?",
+    "options": [
+      "Facilitates direct engagement with consumers",
+      "Guarantees higher sales numbers",
+      "Eliminates the need for customer feedback",
+      "Focuses solely on aesthetic appeal"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Facilitates direct engagement with consumers"
+    ]
+  },
+  {
+    "question": "Why are deep learning and machine learning called narrow? Select two options.",
+    "options": [
+      "Narrow can only perform the specific tasks it was designed to do.",
+      "Narrow Al can't handle situations that its training data didn't prepare it for.",
+      "Narrow Al is dependent on hand-coding of its algorithms."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Narrow can only perform the specific tasks it was designed to do.",
+      "Narrow Al can't handle situations that its training data didn't prepare it for."
+    ]
+  },
+  {
+    "question": "The optimistic view of general Al could be accurately summarized as Al as a",
+    "options": [
+      "utility",
+      "peace-keeping tool",
+      "human right",
+      "weapon"
+    ],
+    "description": "single choice",
+    "answer": [
+      "utility"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of how Al can limit human autonomy? (Select two.)",
+    "options": [
+      "Weapon systems can limit human autonomy as humans may not have decision-making capability or understand the decision making.",
+      "Al systems might impact certain vulnerable groups such as the elderly and children differently than the rest of the population, which could limit those groups' autonomy.",
+      "Al systems can assist individuals with automated, repetitive, or dangerous tasks.",
+      "Al systems can perform tasks that humans cannot, such as processing millions of data records in a matter of seconds."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Weapon systems can limit human autonomy as humans may not have decision-making capability or understand the decision making.",
+      "Al systems might impact certain vulnerable groups such as the elderly and children differently than the rest of the population, which could limit those groups' autonomy."
+    ]
+  },
+  {
+    "question": "For a model to clean, parse, and self-train it's own dataset while remaining impartial, the model needs",
+    "options": [
+      "more powerful computing algorithms to auto-scrub data",
+      "a list of bias and domain tests to run and adjust for",
+      "10x the amount of data",
+      "a test for recency bias"
+    ],
+    "description": "single choice",
+    "answer": [
+      "a list of bias and domain tests to run and adjust for"
+    ]
+  },
+  {
+    "question": "Which of the following best distinguishes between responsibility, accountability, and liability?",
+    "options": [
+      "Responsibility is the duty to complete a task, accountability is ownership of outcomes, and liability is legal obligation for any potential damages",
+      "Responsibility is managing outcomes, accountability involves delegating tasks, and liability is financial responsibility",
+      "Responsibility and accountability are synonymous, while liability is the duty to perform tasks",
+      "Liability and accountability are the same, whereas responsibility is irrelevant in business"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Responsibility is the duty to complete a task, accountability is ownership of outcomes, and liability is legal obligation for any potential damages"
+    ]
+  },
+  {
+    "question": "Which of the following, by itself, qualifies as personally identifiable information (PII)?",
+    "options": [
+      "System events added to a log",
+      "A user's home address",
+      "Temperature readings for an office building",
+      "A user's customer ID in an online ordering system"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "System events added to a log",
+      "A user's home address",
+      "A user's customer ID in an online ordering system"
+    ]
+  },
+  {
+    "question": "Which of the following are actions that can help combat implicit bias? (Select three.)",
+    "options": [
+      "Obtaining your information from the same one or two media sources that your family and friends access.",
+      "Cultivating awareness of your own biases.",
+      "Interacting with diverse groups of people.",
+      "Exposing yourself to \"counter-stereotypical\" examples."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Cultivating awareness of your own biases.",
+      "Interacting with diverse groups of people.",
+      "Exposing yourself to \"counter-stereotypical\" examples."
+    ]
+  },
+  {
+    "question": "Model inputs of address with \"City + State\" as separate inputs from a dataset would violate which accuracy guideline?",
+    "options": [
+      "Domain expertise",
+      "No correlating data",
+      "First principles",
+      "Objective summarization"
+    ],
+    "description": "single choice",
+    "answer": [
+      "No correlating data"
+    ]
+  },
+  {
+    "question": "Which type of bias causes people to trust an automated decision-making system (ADS) over a human's decision?",
+    "options": [
+      "Implicit bias",
+      "Automation bias",
+      "Complacency bias",
+      "Confirmation bias"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Automation bias"
+    ]
+  },
+  {
+    "question": "A predictive model's false negative result can be defined as",
+    "options": [
+      "the predicted result was positive, and the actual result was positive",
+      "the predicted result was negative, and the actual result was negative",
+      "the predicted result was positive, and the actual result was negative",
+      "the predicted result was negative, and the actual result was positive"
+    ],
+    "description": "single choice",
+    "answer": [
+      "the predicted result was negative, and the actual result was positive"
+    ]
+  },
+  {
+    "question": "How can confirmation bias impact us socially? (Select two.)",
+    "options": [
+      "It can lead to a diverse set of friends.",
+      "It can prevent us from being social with other people.",
+      "It can impede socio-political cooperation.",
+      "It can lead to groupthink, which can in turn halt forward progress."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "It can impede socio-political cooperation.",
+      "It can lead to groupthink, which can in turn halt forward progress."
+    ]
+  },
+  {
+    "question": "Which emerging technology area requires the most immediate ethical attention?",
+    "options": [
+      "All emerging technologies require ethical consideration",
+      "Only artificial intelligence",
+      "Only biotechnology",
+      "Only robotics"
+    ],
+    "description": "single choice",
+    "answer": [
+      "All emerging technologies require ethical consideration"
+    ]
+  },
+  {
+    "question": "In a complex learning function, we will understand the but not the",
+    "options": [
+      "causal link, correlation",
+      "algorithm, cause and effect",
+      "inputs/outputs, algorithm",
+      "input data, output data"
+    ],
+    "description": "single choice",
+    "answer": [
+      "inputs/outputs, algorithm"
+    ]
+  },
+  {
+    "question": "What is the ultimate goal of ethics in emerging technology?",
+    "options": [
+      "Slow down technological progress",
+      "Ensure technology serves humanity's best interests",
+      "Increase regulatory compliance costs",
+      "Make development more complex"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Ensure technology serves humanity's best interests"
+    ]
+  },
+  {
+    "question": "\"Companies have an obligation to their shareholders\" is part of a view that sees artificial intelligence as",
+    "options": [
+      "an overall good for humanity, no matter the consequences",
+      "just another tool that accelerates research, like online advertising",
+      "a gimmick for enterprises, unless general intelligence is achieved",
+      "a harmful tool that will bring about the end of capitalism"
+    ],
+    "description": "single choice",
+    "answer": [
+      "just another tool that accelerates research, like online advertising"
+    ]
+  },
+  {
+    "question": "What is the impact of biased algorithms on decision-making?",
+    "options": [
+      "They can lead to unfair and discriminatory outcomes",
+      "They enhance the precision and accuracy of decisions",
+      "They ensure all stakeholders are considered equally",
+      "They guarantee privacy and security in all data processes"
+    ],
+    "description": "single choice",
+    "answer": [
+      "They can lead to unfair and discriminatory outcomes"
+    ]
+  },
+  {
+    "question": "What is one of the recommendations for governments?",
+    "options": [
+      "Promote human values.",
+      "Promote transparency in Al.",
+      "Promote international cooperation.",
+      "Promote collaboration."
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Promote transparency in Al.",
+      "Promote international cooperation."
+    ]
+  },
+  {
+    "question": "Which of the following ethical domains does the IEEE 7000 series explore? (Select two.)",
+    "options": [
+      "Emulated empathy",
+      "Machine-readable privacy terms",
+      "Fair competition",
+      "Personnel safety"
+    ],
+    "description": "multiple choice",
+    "answer": [
+      "Emulated empathy",
+      "Machine-readable privacy terms"
+    ]
+  },
+  {
+    "question": "A model that equalizes the number of mistakes it makes for each subgroup to reduce harm is deciding on",
+    "options": [
+      "equality of true outcomes",
+      "equality of false negatives",
+      "equality of training data",
+      "equality of prediction bias"
+    ],
+    "description": "single choice",
+    "answer": [
+      "equality of false negatives"
+    ]
+  },
+  {
+    "question": "Your business handles the personal data of California residents. Which of the following regulations would enable a resident to request that their data be deleted from your company's files?",
+    "options": [
+      "PCI DSS",
+      "OECD Privacy Guidelines",
+      "COPPA",
+      "CCPA"
+    ],
+    "description": "single choice",
+    "answer": [
+      "CCPA"
+    ]
+  },
+  {
+    "question": "Which international standard provides guidelines for Al governance?",
+    "options": [
+      "ISO 27001",
+      "IEEE Standards",
+      "ISO/IEC 42001",
+      "HIPAA"
+    ],
+    "description": "single choice",
+    "answer": [
+      "ISO/IEC 42001"
+    ]
+  },
+  {
+    "question": "If you are attempting to build a new framework for the research and development (R&D) of Al, which of the following frameworks might you look at first for its emphasis in this area?",
+    "options": [
+      "The Beijing Al Principles",
+      "The American Medical Association's definition of artificial intelligence",
+      "The G20 Al Principles",
+      "The Montreal Declaration for a Responsible Development of Artificial Intelligence"
+    ],
+    "description": "single choice",
+    "answer": [
+      "The Beijing Al Principles"
+    ]
+  },
+  {
+    "question": "Why is the question of robot rights and emancipation one that isn't as important as addressing issues of bias, privacy, transparency, and other principles discussed in the various ethical frameworks?",
+    "options": [
+      "These rights necessitate that robots become sentient entities, which is currently not feasible.",
+      "Humans are anthropocentric and don't want to extend rights to other sentient entities.",
+      "There is no legal precedent for granting rights to entities that are not humans.",
+      "Robots are mechanical instruments and therefore don't deserve to have rights."
+    ],
+    "description": "single choice",
+    "answer": [
+      "These rights necessitate that robots become sentient entities, which is currently not feasible."
+    ]
+  },
+  {
+    "question": "Which of the following software development principles is essential in the real-world deployment of Al-enabled software applications in critical scenarios like self-driving cars?",
+    "options": [
+      "Robustness to adversarial examples",
+      "Architectural design analysis",
+      "Continuous integration and deployment of patch updates",
+      "Version control of the Al models deployed"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Robustness to adversarial examples"
+    ]
+  },
+  {
+    "question": "What does the GDPR primarily regulate?",
+    "options": [
+      "Artificial intelligence development",
+      "Data protection and privacy",
+      "Software quality assurance",
+      "Network security protocols"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Data protection and privacy"
+    ]
+  },
+  {
+    "question": "How can a leader promote ethical behavior across an organization?",
+    "options": [
+      "By making decisions in isolation",
+      "By enforcing silence on ethical issues",
+      "By modeling ethical behavior and encouraging open dialogue",
+      "By limiting diversity in teams"
+    ],
+    "description": "single choice",
+    "answer": [
+      "By modeling ethical behavior and encouraging open dialogue"
+    ]
+  },
+  {
+    "question": "Which of the following might be a risk of not having an ethical organizational culture?",
+    "options": [
+      "Employees might be less interested in their careers.",
+      "Employees might face cognitive dissonance.",
+      "Employees will experience a faster approval process to get a product launched.",
+      "Employees are more likely to express their opinions about the company."
+    ],
+    "description": "single choice",
+    "answer": [
+      "Employees might face cognitive dissonance."
+    ]
+  },
+  {
+    "question": "How can an organization promote an ethical culture from the top down?",
+    "options": [
+      "Leadership actively models ethical behavior",
+      "Emphasizing profit margins over ethical considerations",
+      "Ignoring unethical behavior if it increases efficiency",
+      "Relying solely on external audit reports"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Leadership actively models ethical behavior"
+    ]
+  },
+  {
+    "question": "Which of the following is a problematic reason to pilot a code of ethics prior to widespread deployment?",
+    "options": [
+      "The pilot phase helps to identify gaps in the current code of ethics.",
+      "The pilot phase helps to develop awareness and buy-in from the relevant stakeholders in the organization.",
+      "The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities.",
+      "The pilot phase helps to stress test a code of ethics in a real-world situation."
+    ],
+    "description": "single choice",
+    "answer": [
+      "The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities."
+    ]
+  },
+  {
+    "question": "Why is fair competition an important ethical consideration for data-driven technology businesses?",
+    "options": [
+      "Fair competition prevents predatory pricing.",
+      "Fair competition builds user trust in technology as a whole.",
+      "Fair competition provides products choice to users.",
+      "Fair competition provides service choice to users."
+    ],
+    "description": "single choice",
+    "answer": [
+      "Fair competition builds user trust in technology as a whole."
+    ]
+  },
+  {
+    "question": "What is one outcome of building an ethical culture within an organization?",
+    "options": [
+      "Reduced compliance with regulation",
+      "Higher trust among stakeholders",
+      "Slower development processes",
+      "More hierarchical power structure"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Higher trust among stakeholders"
+    ]
+  },
+  {
+    "question": "What makes ethical leadership crucial in the data-driven age?",
+    "options": [
+      "It focuses solely on profit",
+      "It empowers ethical culture and trust",
+      "It allows ignoring stakeholders",
+      "It prevents communication"
+    ],
+    "description": "single choice",
+    "answer": [
+      "It empowers ethical culture and trust"
+    ]
+  },
+  {
+    "question": "Which expression best characterizes what a company or organizational culture is?",
+    "options": [
+      "\"This is how we want this done.\"",
+      "\"This is how things are done around here.\"",
+      "\"It is what it is.\"",
+      "\"This is what we're told to do.\""
+    ],
+    "description": "single choice",
+    "answer": [
+      "\"This is how things are done around here.\""
+    ]
+  },
+  {
+    "question": "What is the most effective way to measure ethical implementation success?",
+    "options": [
+      "Financial metrics only",
+      "Combination of stakeholder feedback, incident tracking, and outcome assessment",
+      "Legal compliance scores only",
+      "Technical performance metrics only"
+    ],
+    "description": "single choice",
+    "answer": [
+      "Combination of stakeholder feedback, incident tracking, and outcome assessment"
+    ]
+  },
+  {
+    "question": "How can fair competition in data-driven technologies foster innovation and trust?",
+    "options": [
+      "By encouraging diverse ideas and approaches",
+      "By limiting access to new technologies",
+      "By enforcing uniformity in data processing methods",
+      "By prioritizing profit over ethical standards"
+    ],
+    "description": "single choice",
+    "answer": [
+      "By encouraging diverse ideas and approaches"
+    ]
+  }
+]
